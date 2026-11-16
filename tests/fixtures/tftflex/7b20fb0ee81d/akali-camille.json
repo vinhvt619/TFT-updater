@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tftflex.com/en/meta/akali-camille",
+  "rawArtifactSha256": "7b20fb0ee81d3593e3d32e3ce3c3af7c65809c57a008c5860940d9628cda2e60",
+  "sourceLocator": "tftflex_detail_akali_camille.html#comp-akali-camille",
+  "reviewer": "independent-audit-round8",
+  "reviewedAt": "2026-09-14T05:00:00.000Z",
+  "originalName": "Akali Camille",
+  "originalTier": "B",
+  "capability": {
+    "hasTier": true,
+    "hasItems": true,
+    "hasPositions": true,
+    "hasStarLevel": true,
+    "hasMetrics": false
+  },
+  "fieldsNotProvided": ["metrics", "sampleCount"],
+  "builds": [
+    {
+      "tabSlug": "early-lv5",
+      "label": "Level 5 Early Stage",
+      "boardKind": "early",
+      "boardCompleteness": "exact",
+      "boardLevel": 5,
+      "unitsCount": 5,
+      "units": [
+        {
+          "sourceKey": "DA_18_Akali_AD",
+          "canonicalId": "tft18_da_18_akali_ad",
+          "position": { "row": 0, "col": 0 },
+          "items": ["tft18_item_edgeofnight", "tft18_item_infinityedge", "tft18_item_jeweledgauntlet"]
+        },
+        {
+          "sourceKey": "DA_18_Camille",
+          "canonicalId": "tft18_da_18_camille",
+          "position": { "row": 0, "col": 2 },
+          "items": ["tft18_item_infinityedge"]
+        },
+        {
+          "sourceKey": "DA_18_Shen",
+          "canonicalId": "tft18_da_18_shen",
+          "position": { "row": 0, "col": 3 },
+          "items": []
+        },
+        {
+          "sourceKey": "DA_18_Varus",
+          "canonicalId": "tft18_da_18_varus",
+          "position": { "row": 3, "col": 0 },
+          "items": []
+        },
+        {
+          "sourceKey": "DA_18_Ornn",
+          "canonicalId": "tft18_da_18_ornn",
+          "position": { "row": 0, "col": 4 },
+          "items": []
+        }
+      ]
+    }
+  ]
+}

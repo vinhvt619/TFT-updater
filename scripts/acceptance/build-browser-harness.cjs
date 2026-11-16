@@ -1,0 +1,2 @@
+const esbuild=require('esbuild');
+esbuild.buildSync({entryPoints:['tests/e2e/fixtures/board-harness.tsx'],bundle:true,platform:'browser',format:'iife',outfile:'.cache/browser/board-harness.js',define:{'process.env.NODE_ENV':'"production"','process.env':'{}'},tsconfig:'tsconfig.json'});

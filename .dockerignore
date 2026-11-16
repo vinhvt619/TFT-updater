@@ -1,0 +1,9 @@
+﻿node_modules/
+.next/
+dist/
+build/
+storage/raw/
+storage/pgdata/
+.git
+.env
+.env.local

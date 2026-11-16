@@ -1,0 +1,69 @@
+{
+  "version": "1.0.0",
+  "sources": [
+    {
+      "id": "cdragon-pbe-vi",
+      "provider": "community_dragon",
+      "channel": "pbe",
+      "name": "CommunityDragon TFT PBE (VI)",
+      "endpoint": "https://raw.communitydragon.org/pbe/cdragon/tft/vi_vn.json",
+      "locale": "vi_vn",
+      "targetSet": 18,
+      "enabled": true,
+      "autoPublish": true,
+      "pollIntervalMinutes": 120,
+      "status": "supported"
+    },
+    {
+      "id": "cdragon-pbe",
+      "provider": "community_dragon",
+      "channel": "pbe",
+      "name": "CommunityDragon TFT PBE (EN)",
+      "endpoint": "https://raw.communitydragon.org/pbe/cdragon/tft/en_us.json",
+      "locale": "en_us",
+      "targetSet": 18,
+      "enabled": false,
+      "autoPublish": false,
+      "pollIntervalMinutes": 120,
+      "status": "supported"
+    },
+    {
+      "id": "cdragon-live",
+      "provider": "community_dragon",
+      "channel": "live",
+      "name": "CommunityDragon TFT Live (EN)",
+      "endpoint": "https://raw.communitydragon.org/latest/cdragon/tft/en_us.json",
+      "locale": "en_us",
+      "targetSet": 18,
+      "enabled": true,
+      "autoPublish": true,
+      "pollIntervalMinutes": 120,
+      "status": "supported"
+    },
+    {
+      "id": "cdragon-live-vi",
+      "provider": "community_dragon",
+      "channel": "live",
+      "name": "CommunityDragon TFT Live (VI)",
+      "endpoint": "https://raw.communitydragon.org/latest/cdragon/tft/vi_vn.json",
+      "locale": "vi_vn",
+      "targetSet": 18,
+      "enabled": true,
+      "autoPublish": true,
+      "pollIntervalMinutes": 120,
+      "status": "supported"
+    },
+    {
+      "id": "manual-import",
+      "provider": "manual",
+      "channel": "live",
+      "name": "Manual Verified Imports",
+      "endpoint": "local://fixtures/manual",
+      "locale": "vi_vn",
+      "targetSet": 18,
+      "enabled": true,
+      "autoPublish": false,
+      "status": "supported"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://tactics.tools/team-compositions",
+  "rawArtifactSha256": "a027a0489ee24540500603bf9aadf318dc6435259797543a13ba69d47c439b84",
+  "sourceLocator": "tactics_tools_nextdata.json#initialData.groups",
+  "reviewer": "independent-audit-round8",
+  "reviewedAt": "2026-09-14T05:00:00.000Z",
+  "scope": {
+    "patch": "18.2",
+    "rankScope": "Diamond+",
+    "region": "Global"
+  },
+  "capability": {
+    "hasTier": false,
+    "hasItems": true,
+    "hasPositions": false,
+    "hasStarLevel": false,
+    "hasMetrics": true
+  },
+  "groups": [
+    {
+      "name": "Blossom Master Yi & Vi",
+      "canonicalArchetypeId": "comp_blossom_fast9",
+      "coreUnits": ["TFT18_MasterYi", "DA_Vi18"]
+    },
+    {
+      "name": "Riftbeast Elder Dragon & Sentinel",
+      "canonicalArchetypeId": "comp_riftbeast_tempo",
+      "coreUnits": ["DA_18_ElderDragon", "DA_Sentinel18"]
+    },
+    {
+      "name": "Elderwood Draven & Ezreal",
+      "canonicalArchetypeId": "comp_draven_reroll",
+      "coreUnits": ["DA_Draven18", "DA_18_Ezreal"]
+    },
+    {
+      "name": "Solar Akali & Camille",
+      "canonicalArchetypeId": "comp_akali_ninja",
+      "coreUnits": ["DA_18_Akali_AD", "DA_18_Camille"]
+    },
+    {
+      "name": "Juggernaut Caitlyn & Scuttlecrab",
+      "canonicalArchetypeId": "comp_caitlyn_enforcer",
+      "coreUnits": ["DA_18_Caitlyn", "DA_Scuttlecrab18"]
+    }
+  ]
+}

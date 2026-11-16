@@ -1,0 +1,5 @@
+import React,{useState} from 'react';import {createRoot} from 'react-dom/client';import {TftBoardGrid} from '../../../src/components/meta/tft-board-grid';
+const units:any[]=[{championId:'tft18_da_18_kayle',cost:4,position:{row:3,col:0},items:['tft_item_infinityedge']},{championId:'tft18_da_amumu18',cost:1,position:{row:0,col:0},items:[]},{championId:'tft18_da_18_ashe',cost:4,position:{row:0.5,col:2},items:[]}];
+for(const unit of units){Object.freeze(unit.position);Object.freeze(unit.items);Object.freeze(unit);}Object.freeze(units);(window as any).__source=units;
+function App(){const [source,setSource]=useState(units);return <div style={{maxWidth:'100%',padding:12}}><h1>Kiểm thử nội bộ bàn cờ — fixture, không phải dữ liệu Real</h1><button onClick={()=>setSource([{championId:'tft18_da_18_ashe',cost:4,position:{row:2,col:3},items:[]}])}>Đổi nguồn kiểm thử</button><TftBoardGrid boardUnits={source}/></div>;}
+createRoot(document.getElementById('root')!).render(<App/>);

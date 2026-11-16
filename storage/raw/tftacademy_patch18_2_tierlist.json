@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://tftacademy.com/tierlist/comps",
+  "observedAt": "2026-09-11T21:40:00+07:00",
+  "patch": "18.2",
+  "notes": "Manual authenticated verification against TFT Academy Set 18 Tier List on 2026-09-11",
+  "method": "manual_entry",
+  "tierlist": [
+    {
+      "title": "Elder Dragon Fast 9 — Dragon 9",
+      "url": "https://tftacademy.com/tierlist/comps/set-18-dragon-princess",
+      "tier": "S",
+      "archetypeId": "comp_dragon_princess",
+      "variantId": "var_elder_dragon_fast9",
+      "conditions": [
+        "Cần nâng cấp lên cấp 9 để hoàn thiện form Rồng 9 xoay quanh Rồng Ngàn Tuổi"
+      ]
+    },
+    {
+      "title": "Draven Fast 9 — Draven AD 9",
+      "url": "https://tftacademy.com/tierlist/comps/set-18-elderwood-executioners-copy",
+      "tier": "S",
+      "archetypeId": "comp_draven_reroll",
+      "variantId": "var_draven_apex_dragon",
+      "conditions": [
+        "Đạt cấp 9, tối ưu trang bị AD cho Draven và đồ tank"
+      ]
+    },
+    {
+      "title": "Blossom Ashe — Blossom Fast 9",
+      "url": "https://tftacademy.com/tierlist/comps/set-18-blossom-fast-9",
+      "tier": "S",
+      "archetypeId": "comp_blossom_fast9",
+      "variantId": "var_blossom_fast9_standard",
+      "conditions": [
+        "Lên cấp 9 kết hợp mốc Hoa Linh cao cấp xoay quanh Ashe và Sett"
+      ]
+    },
+    {
+      "title": "Invoker Ahri — Ahri Morgana",
+      "url": "https://tftacademy.com/tierlist/comps/set-18-ahri-morgana",
+      "tier": "A",
+      "archetypeId": "comp_ahri_morgana",
+      "variantId": "var_ahri_morgana_invoker",
+      "conditions": [
+        "Kích hoạt Thần Chú / Thuật Sư cho Ahri và Morgana"
+      ]
+    },
+    {
+      "title": "Akali—Camille Reroll — Solar Melee",
+      "url": "https://tftacademy.com/tierlist/comps/set-18-solar-melee",
+      "tier": "B",
+      "archetypeId": "comp_akali_ninja",
+      "variantId": "var_solar_adaptor_standard",
+      "conditions": [
+        "Slow roll cấp 5 bắt Akali 3 sao và Camille 3 sao"
+      ]
+    },
+    {
+      "title": "Juggernaut Caitlyn Reroll — Caitlyn Hunters",
+      "url": "https://tftacademy.com/tierlist/comps/set-18-caitlyn-hunters",
+      "tier": "B",
+      "archetypeId": "comp_caitlyn_enforcer",
+      "variantId": "var_caitlyn_scuttlecrab",
+      "conditions": [
+        "Reroll Caitlyn 3 sao kết hợp dàn chắn Đấu Sĩ"
+      ]
+    },
+    {
+      "title": "Yunara—Alistar Reroll — Moo-nara",
+      "url": "https://tftacademy.com/tierlist/comps/set-18-moo-nara",
+      "tier": "C",
+      "archetypeId": "comp_teemo_yordle",
+      "variantId": "var_yunara_invoker_reroll",
+      "conditions": [
+        "Reroll cấp 6 bắt Yunara 3 sao và Alistar 3 sao"
+      ]
+    },
+    {
+      "title": "Unrivaled Kha'Zix — Unrivaled Reroll",
+      "url": "https://tftacademy.com/tierlist/comps/set-18-unrivaled-reroll",
+      "tier": "X",
+      "archetypeId": "comp_rengar_assassin",
+      "variantId": "var_unrivaled_reroll",
+      "conditions": [
+        "Nhóm Situational / X: chỉ chơi khi có điều kiện kích hoạt Khắc Tinh đặc biệt"
+      ]
+    }
+  ]
+}

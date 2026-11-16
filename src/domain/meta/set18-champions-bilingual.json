@@ -1,0 +1,298 @@
+{
+  "DA_18_Xayah": {
+    "vi": "Xayah",
+    "en": "Xayah"
+  },
+  "DA_18_Ornn": {
+    "vi": "Ornn",
+    "en": "Ornn"
+  },
+  "DA_Nidalee18_AP": {
+    "vi": "Nidalee",
+    "en": "Nidalee"
+  },
+  "DA_18_Hecarim": {
+    "vi": "Hecarim",
+    "en": "Hecarim"
+  },
+  "DA_18_Ezreal": {
+    "vi": "Ezreal",
+    "en": "Ezreal"
+  },
+  "DA_18_Azir": {
+    "vi": "Azir",
+    "en": "Azir"
+  },
+  "DA_18_RekSai": {
+    "vi": "Rek'Sai",
+    "en": "Rek'Sai"
+  },
+  "DA_18_Veigar": {
+    "vi": "Veigar",
+    "en": "Veigar"
+  },
+  "DA_18_Maokai": {
+    "vi": "Maokai",
+    "en": "Maokai"
+  },
+  "DA_18_Malphite": {
+    "vi": "Malphite",
+    "en": "Malphite"
+  },
+  "DA_18_Yorick": {
+    "vi": "Yorick",
+    "en": "Yorick"
+  },
+  "DA_18_Yunara": {
+    "vi": "Yunara",
+    "en": "Yunara"
+  },
+  "DA_18_Sett": {
+    "vi": "Sett",
+    "en": "Sett"
+  },
+  "DA_18_Ahri": {
+    "vi": "Ahri",
+    "en": "Ahri"
+  },
+  "DA_18_Ashe": {
+    "vi": "Ashe",
+    "en": "Ashe"
+  },
+  "DA_18_Elise": {
+    "vi": "Elise",
+    "en": "Elise"
+  },
+  "DA_18_Caitlyn": {
+    "vi": "Caitlyn",
+    "en": "Caitlyn"
+  },
+  "DA_18_Cassiopeia": {
+    "vi": "Cassiopeia",
+    "en": "Cassiopeia"
+  },
+  "DA_18_Morgana": {
+    "vi": "Morgana",
+    "en": "Morgana"
+  },
+  "DA_18_Rakan": {
+    "vi": "Rakan",
+    "en": "Rakan"
+  },
+  "DA_18_Lillia": {
+    "vi": "Lillia",
+    "en": "Lillia"
+  },
+  "DA_18_Kobuko": {
+    "vi": "Kobuko",
+    "en": "Kobuko"
+  },
+  "DA_18_Teemo": {
+    "vi": "Teemo",
+    "en": "Teemo"
+  },
+  "DA_18_Rammus": {
+    "vi": "Rammus",
+    "en": "Rammus"
+  },
+  "DA_18_GnarSmall": {
+    "vi": "Gnar",
+    "en": "Gnar"
+  },
+  "DA_18_Tristana": {
+    "vi": "Tristana",
+    "en": "Tristana"
+  },
+  "DA_18_Sivir": {
+    "vi": "Sivir",
+    "en": "Sivir"
+  },
+  "DA_Vi18": {
+    "vi": "Vi",
+    "en": "Vi"
+  },
+  "DA_18_Akali_AD": {
+    "vi": "Akali",
+    "en": "Akali"
+  },
+  "DA_18_Varus": {
+    "vi": "Varus",
+    "en": "Varus"
+  },
+  "DA_Amumu18": {
+    "vi": "Amumu",
+    "en": "Amumu"
+  },
+  "DA_18_Kennen": {
+    "vi": "Kennen",
+    "en": "Kennen"
+  },
+  "DA_18_Aphelios": {
+    "vi": "Aphelios",
+    "en": "Aphelios"
+  },
+  "DA_18_Diana": {
+    "vi": "Diana",
+    "en": "Diana"
+  },
+  "DA_18_Alune": {
+    "vi": "Alune",
+    "en": "Alune"
+  },
+  "DA_18_Leona": {
+    "vi": "Leona",
+    "en": "Leona"
+  },
+  "DA_18_Kayle": {
+    "vi": "Kayle",
+    "en": "Kayle"
+  },
+  "DA_18_Sejuani": {
+    "vi": "Sejuani",
+    "en": "Sejuani"
+  },
+  "DA_18_KhaZix": {
+    "vi": "Kha'Zix",
+    "en": "Kha'Zix"
+  },
+  "DA_18_Rengar": {
+    "vi": "Rengar",
+    "en": "Rengar"
+  },
+  "DA_KogMaw18_AD": {
+    "vi": "Kog'Maw",
+    "en": "Kog'Maw"
+  },
+  "DA_18_Zyra": {
+    "vi": "Zyra",
+    "en": "Zyra"
+  },
+  "DA_Fiddlesticks18": {
+    "vi": "Fiddlesticks",
+    "en": "Fiddlesticks"
+  },
+  "DA_18_Soraka": {
+    "vi": "Soraka",
+    "en": "Soraka"
+  },
+  "DA_Taric18": {
+    "vi": "Taric",
+    "en": "Taric"
+  },
+  "DA_18_Ivern": {
+    "vi": "Ivern",
+    "en": "Ivern"
+  },
+  "DA_Lux18_Base": {
+    "vi": "Lux",
+    "en": "Lux"
+  },
+  "DA_18_Alistar": {
+    "vi": "Alistar",
+    "en": "Alistar"
+  },
+  "DA_Draven18": {
+    "vi": "Draven",
+    "en": "Draven"
+  },
+  "DA_18_ElderDragon": {
+    "vi": "Rồng Ngàn Tuổi",
+    "en": "Elder Dragon"
+  },
+  "DA_Karma18": {
+    "vi": "Karma",
+    "en": "Karma"
+  },
+  "DA_18_LeBlanc": {
+    "vi": "LeBlanc",
+    "en": "LeBlanc"
+  },
+  "DA_18_MasterYi_AD": {
+    "vi": "Master Yi",
+    "en": "Master Yi"
+  },
+  "DA_18_Shen": {
+    "vi": "Shen",
+    "en": "Shen"
+  },
+  "DA_18_Warwick": {
+    "vi": "Warwick",
+    "en": "Warwick"
+  },
+  "DA_18_Camille": {
+    "vi": "Camille",
+    "en": "Camille"
+  },
+  "DA_Lux18_Blackthorn": {
+    "vi": "Lux (Gai Đen)",
+    "en": "Lux (Blackthorn)"
+  },
+  "DA_Lux18_Blossom": {
+    "vi": "Lux (Hoa Linh)",
+    "en": "Lux (Blossom)"
+  },
+  "DA_18_Lux_Coven": {
+    "vi": "Lux (Tiên Hắc Ám)",
+    "en": "Lux (Coven)"
+  },
+  "DA_18_Lux_Elderwood": {
+    "vi": "Lux (Thần Rừng)",
+    "en": "Lux (Elderwood)"
+  },
+  "DA_18_Lux_Fae": {
+    "vi": "Lux (Tiên Linh)",
+    "en": "Lux (Fae)"
+  },
+  "DA_18_Lux_Inferno": {
+    "vi": "Lux (Hỏa Ngục)",
+    "en": "Lux (Inferno)"
+  },
+  "DA_18_Lux_Moonbeam": {
+    "vi": "Lux (Mặt Trăng)",
+    "en": "Lux (Lunar)"
+  },
+  "DA_18_Lux_Primal": {
+    "vi": "Lux (Nguyên Sinh)",
+    "en": "Lux (Primal)"
+  },
+  "DA_18_Lux_Sunbeam": {
+    "vi": "Lux (Mặt Trời)",
+    "en": "Lux (Solar)"
+  },
+  "DA_CrimsonRaptor18": {
+    "vi": "Chim Mẹ",
+    "en": "Mama Beak"
+  },
+  "DA_Gromp18_AP": {
+    "vi": "Cóc Thành Tinh",
+    "en": "Gromp"
+  },
+  "DA_Murkwolf18": {
+    "vi": "Sói Bóng Tối",
+    "en": "Murkwolf"
+  },
+  "DA_18_Sentry": {
+    "vi": "Lính Canh",
+    "en": "Sentry"
+  },
+  "DA_Cinderling18": {
+    "vi": "Tàn Tích Lửa",
+    "en": "Cinderling"
+  },
+  "DA_Scuttlecrab18": {
+    "vi": "Cua Kỳ Cục",
+    "en": "Scuttlecrab"
+  },
+  "DA_Krug18": {
+    "vi": "Người Đá",
+    "en": "Krug"
+  },
+  "DA_Sentinel18": {
+    "vi": "Khổng Lồ Xanh",
+    "en": "Blue Sentinel"
+  },
+  "DA_Brambleback18": {
+    "vi": "Bụi Gai Đỏ",
+    "en": "Brambleback"
+  }
+}

@@ -1,0 +1,6231 @@
+[
+  {
+    "id": "obs_tftflex_master-yi-reroll-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_master-yi-reroll-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/master-yi-reroll-1",
+    "rawArtifactId": "art_tftflex_master-yi-reroll-1_e70ea20bb5",
+    "observedAt": "2026-11-07T01:53:45.699Z",
+    "fetchedAt": "2026-11-07T01:53:45.699Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-06T13:52:07.965Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Master Yi Reroll",
+    "originalTier": "A",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": null,
+    "carryChampionId": null,
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_rengar",
+      "tankChampionId": "tft18_vi",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.375,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.375) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_master-yi-reroll-1_e70ea20b",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng A từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: null (nguồn: tftflex.com/vi/meta/set-18/master-yi-reroll-1, độ tin cậy: low)",
+      "App suy luận Tank: tft18_vi dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_master-yi-reroll-1_e70ea20b"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_master-yi-reroll-1_primary",
+        "observationId": "obs_tftflex_master-yi-reroll-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "partial",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Summary",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Rengar",
+            "championId": "tft18_rengar",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_TitansResolve",
+                "itemId": "titansresolve",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_EdgeOfNight",
+                "itemId": "edgeofnight",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Vi18",
+            "championId": "tft18_vi",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_Evenshroud",
+                "itemId": "evenshroud",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Krug18",
+            "championId": "tft18_krug",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Yorick",
+            "championId": "tft18_yorick",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Nidalee18_AP",
+            "championId": "tft18_nidalee_ap",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Sett",
+            "championId": "tft18_sett",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_MasterYi_AD",
+            "championId": "tft18_masteryi_ad",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_Quicksilver",
+                "itemId": "quicksilver",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_EdgeOfNight",
+                "itemId": "edgeofnight",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_GiantSlayer",
+                "itemId": "giantslayer",
+                "order": 2
+              }
+            ]
+          }
+        ],
+        "sourceVariantKey": "summary",
+        "sourceUpdatedAt": "2026-11-06T13:52:07.965Z",
+        "rawArtifactId": "art_tftflex_master-yi-reroll-1_e70ea20bb5",
+        "rawLocator": "tftflex.com/vi/meta/set-18/master-yi-reroll-1 (summary.champions)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/master-yi-reroll-1 (summary.champions)",
+        "createdAt": "2026-11-07T01:53:45.699Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_karma-mat-troi-20261020_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_karma-mat-troi-20261020",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/karma-mat-troi-20261020",
+    "rawArtifactId": "art_tftflex_karma-mat-troi-20261020_8de1cbdfea",
+    "observedAt": "2026-11-07T01:53:46.345Z",
+    "fetchedAt": "2026-11-07T01:53:46.345Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:13:12.904Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Karma Mặt Trời",
+    "originalTier": "A",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_karma",
+    "carryChampionId": "tft18_karma",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_karma",
+      "tankChampionId": "tft18_sejuani",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.5625,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.5625) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_karma-mat-troi-20261020_8de1cbdf",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng A từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_Karma18 (nguồn: tftflex.com/vi/meta/set-18/karma-mat-troi-20261020 (title: \"Karma Mặt Trời\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_sejuani dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_karma-mat-troi-20261020_8de1cbdf"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_karma-mat-troi-20261020_primary",
+        "observationId": "obs_tftflex_karma-mat-troi-20261020_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": 8,
+        "boardLevelMax": 8,
+        "label": "Lv8",
+        "boardLevel": 8,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Sejuani",
+            "championId": "tft18_sejuani",
+            "starLevel": 3,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Crownguard",
+                "itemId": "crownguard",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Fiddlesticks18",
+            "championId": "tft18_fiddlesticks",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Yorick",
+            "championId": "tft18_yorick",
+            "starLevel": 3,
+            "position": {
+              "row": 2,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Leona",
+            "championId": "tft18_leona",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Karma18",
+            "championId": "tft18_karma",
+            "starLevel": 3,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_BlueBuff",
+                "itemId": "bluebuff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_RabadonsDeathcap",
+                "itemId": "rabadonsdeathcap",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_JeweledGauntlet",
+                "itemId": "jeweledgauntlet",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Yunara",
+            "championId": "tft18_yunara",
+            "starLevel": 3,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_SpearOfShojin",
+                "itemId": "spearofshojin",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_LastWhisper",
+                "itemId": "lastwhisper",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_InfinityEdge",
+                "itemId": "infinityedge",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Soraka",
+            "championId": "tft18_soraka",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Kayle",
+            "championId": "tft18_kayle",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:13:12.904Z",
+        "rawArtifactId": "art_tftflex_karma-mat-troi-20261020_8de1cbdfea",
+        "rawLocator": "tftflex.com/vi/meta/set-18/karma-mat-troi-20261020 (Lv8)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/karma-mat-troi-20261020 (Lv8)",
+        "createdAt": "2026-11-07T01:53:46.345Z"
+      },
+      {
+        "id": "build_tftflex_karma-mat-troi-20261020_main_1",
+        "observationId": "obs_tftflex_karma-mat-troi-20261020_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Leblanc ra nhiều",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Sejuani",
+            "championId": "tft18_sejuani",
+            "starLevel": 3,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Crownguard",
+                "itemId": "crownguard",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Yorick",
+            "championId": "tft18_yorick",
+            "starLevel": 3,
+            "position": {
+              "row": 2,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Leona",
+            "championId": "tft18_leona",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Karma18",
+            "championId": "tft18_karma",
+            "starLevel": 3,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_BlueBuff",
+                "itemId": "bluebuff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_RabadonsDeathcap",
+                "itemId": "rabadonsdeathcap",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_JeweledGauntlet",
+                "itemId": "jeweledgauntlet",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Yunara",
+            "championId": "tft18_yunara",
+            "starLevel": 3,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_SpearOfShojin",
+                "itemId": "spearofshojin",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_LastWhisper",
+                "itemId": "lastwhisper",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_InfinityEdge",
+                "itemId": "infinityedge",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_LeBlanc",
+            "championId": "tft18_leblanc",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Azir",
+            "championId": "tft18_azir",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Kayle",
+            "championId": "tft18_kayle",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:13:12.904Z",
+        "rawArtifactId": "art_tftflex_karma-mat-troi-20261020_8de1cbdfea",
+        "rawLocator": "tftflex.com/vi/meta/set-18/karma-mat-troi-20261020 (Leblanc ra nhiều)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/karma-mat-troi-20261020 (Leblanc ra nhiều)",
+        "createdAt": "2026-11-07T01:53:46.345Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_aphelios-nidalee-20261020_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_aphelios-nidalee-20261020",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/aphelios-nidalee-20261020",
+    "rawArtifactId": "art_tftflex_aphelios-nidalee-20261020_4e0a78f457",
+    "observedAt": "2026-11-07T01:53:47.261Z",
+    "fetchedAt": "2026-11-07T01:53:47.261Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-06T22:27:49.885Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_aphelios_elderwood",
+    "variantId": "default",
+    "originalName": "Aphelios Elderwood",
+    "originalTier": "A",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_aphelios",
+    "carryChampionId": "tft18_aphelios",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_aphelios",
+      "tankChampionId": "tft18_lillia",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.9196,
+      "reviewStatus": "auto_matched",
+      "matchReason": "Khớp thành công với Aphelios Thần Rừng (score: 0.9196, margin: 0.2446)",
+      "matchMargin": 0.2446
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_aphelios-nidalee-20261020_4e0a78f4",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng A từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Aphelios (nguồn: tftflex.com/vi/meta/set-18/aphelios-nidalee-20261020 (title: \"Aphelios Elderwood\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_lillia dựa trên trang bị phòng thủ.",
+      "Đã cách ly các token không hợp lệ: item:DA_18_EmblemRapidfire, DA_18_StonebarkTree, DA_18_StonebarkTree, DA_18_StonebarkTree, DA_18_StonebarkTree, DA_18_StonebarkTree"
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_aphelios-nidalee-20261020_4e0a78f4"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "quarantined",
+    "quarantineReason": "Unknown tokens: item:DA_18_EmblemRapidfire, DA_18_StonebarkTree",
+    "builds": [
+      {
+        "id": "build_tftflex_aphelios-nidalee-20261020_nhom-3_0",
+        "observationId": "obs_tftflex_aphelios-nidalee-20261020_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": 8,
+        "boardLevelMax": 8,
+        "label": "Lv8",
+        "boardLevel": 8,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Taric18",
+            "championId": "tft18_taric",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_ProtectorsVow",
+                "itemId": "protectorsvow",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Diana",
+            "championId": "tft18_diana",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Hecarim",
+            "championId": "tft18_hecarim",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Brambleback18",
+            "championId": "tft18_brambleback",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Component_BFSword",
+                "itemId": "bfsword",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Aphelios",
+            "championId": "tft18_aphelios",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_RedBuff",
+                "itemId": "redbuff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Deathblade",
+                "itemId": "deathblade",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_GiantSlayer",
+                "itemId": "giantslayer",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_CrimsonRaptor18",
+            "championId": "tft18_crimsonraptor",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Zyra",
+            "championId": "tft18_zyra",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 2
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "nhom-3",
+        "sourceUpdatedAt": "2026-11-06T22:27:49.885Z",
+        "rawArtifactId": "art_tftflex_aphelios-nidalee-20261020_4e0a78f457",
+        "rawLocator": "tftflex.com/vi/meta/set-18/aphelios-nidalee-20261020 (Lv8)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/aphelios-nidalee-20261020 (Lv8)",
+        "createdAt": "2026-11-07T01:53:47.261Z"
+      },
+      {
+        "id": "build_tftflex_aphelios-nidalee-20261020_nhom-4_1",
+        "observationId": "obs_tftflex_aphelios-nidalee-20261020_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": 8,
+        "boardLevelMax": 8,
+        "label": "Lv8",
+        "boardLevel": 8,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_ProtectorsVow",
+                "itemId": "protectorsvow",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Brambleback18",
+            "championId": "tft18_brambleback",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_EdgeOfNight",
+                "itemId": "edgeofnight",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Quicksilver",
+                "itemId": "quicksilver",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Diana",
+            "championId": "tft18_diana",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rakan",
+            "championId": "tft18_rakan",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Aphelios",
+            "championId": "tft18_aphelios",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_HextechGunblade",
+                "itemId": "hextechgunblade",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_InfinityEdge",
+                "itemId": "infinityedge",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_StrikersFlail",
+                "itemId": "strikersflail",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Xayah",
+            "championId": "tft18_xayah",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_CrimsonRaptor18",
+            "championId": "tft18_crimsonraptor",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 2
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Riftbeast18_Selector",
+                "itemId": "riftbeastselector",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Kayle",
+            "championId": "tft18_kayle",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "nhom-4",
+        "sourceUpdatedAt": "2026-11-06T22:27:49.885Z",
+        "rawArtifactId": "art_tftflex_aphelios-nidalee-20261020_4e0a78f457",
+        "rawLocator": "tftflex.com/vi/meta/set-18/aphelios-nidalee-20261020 (Lv8)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/aphelios-nidalee-20261020 (Lv8)",
+        "createdAt": "2026-11-07T01:53:47.261Z"
+      },
+      {
+        "id": "build_tftflex_aphelios-nidalee-20261020_nhom-5_2",
+        "observationId": "obs_tftflex_aphelios-nidalee-20261020_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": 8,
+        "boardLevelMax": 8,
+        "label": "Lv8",
+        "boardLevel": 8,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Amumu18",
+            "championId": "tft18_amumu",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Diana",
+            "championId": "tft18_diana",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rakan",
+            "championId": "tft18_rakan",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Shen",
+            "championId": "tft18_shen",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Lillia",
+            "championId": "tft18_lillia",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 6
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Brambleback18",
+            "championId": "tft18_brambleback",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_EdgeOfNight",
+                "itemId": "edgeofnight",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_18_EmblemFae",
+                "itemId": "emblemfae",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Aphelios",
+            "championId": "tft18_aphelios",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_KrakensFury",
+                "itemId": "krakensfury",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_Deathblade",
+                "itemId": "deathblade",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Xayah",
+            "championId": "tft18_xayah",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "nhom-5",
+        "sourceUpdatedAt": "2026-11-06T22:27:49.885Z",
+        "rawArtifactId": "art_tftflex_aphelios-nidalee-20261020_4e0a78f457",
+        "rawLocator": "tftflex.com/vi/meta/set-18/aphelios-nidalee-20261020 (Lv8)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/aphelios-nidalee-20261020 (Lv8)",
+        "createdAt": "2026-11-07T01:53:47.261Z"
+      },
+      {
+        "id": "build_tftflex_aphelios-nidalee-20261020_nhom-2_3",
+        "observationId": "obs_tftflex_aphelios-nidalee-20261020_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "nhom-2",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Amumu18",
+            "championId": "tft18_amumu",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_18_EmblemLunar",
+                "itemId": "emblemlunar",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_ProtectorsVow",
+                "itemId": "protectorsvow",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Shen",
+            "championId": "tft18_shen",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Diana",
+            "championId": "tft18_diana",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Sejuani",
+            "championId": "tft18_sejuani",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Leona",
+            "championId": "tft18_leona",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Aphelios",
+            "championId": "tft18_aphelios",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_RedBuff",
+                "itemId": "redbuff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Deathblade",
+                "itemId": "deathblade",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_GiantSlayer",
+                "itemId": "giantslayer",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Kayle",
+            "championId": "tft18_kayle",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "nhom-2",
+        "sourceUpdatedAt": "2026-11-06T22:27:49.885Z",
+        "rawArtifactId": "art_tftflex_aphelios-nidalee-20261020_4e0a78f457",
+        "rawLocator": "tftflex.com/vi/meta/set-18/aphelios-nidalee-20261020 (nhom-2)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/aphelios-nidalee-20261020 (nhom-2)",
+        "createdAt": "2026-11-07T01:53:47.261Z"
+      },
+      {
+        "id": "build_tftflex_aphelios-nidalee-20261020_primary",
+        "observationId": "obs_tftflex_aphelios-nidalee-20261020_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Ấn +1 tier",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Lillia",
+            "championId": "tft18_lillia",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_ProtectorsVow",
+                "itemId": "protectorsvow",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_AdaptiveHelm",
+                "itemId": "adaptivehelm",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Alistar",
+            "championId": "tft18_alistar",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Ornn",
+            "championId": "tft18_ornn",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Hecarim",
+            "championId": "tft18_hecarim",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_GnarSmall",
+            "championId": "tft18_gnarsmall",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Aphelios",
+            "championId": "tft18_aphelios",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_18_EmblemElderwood",
+                "itemId": "emblemelderwood",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_KrakensFury",
+                "itemId": "krakensfury",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Xayah",
+            "championId": "tft18_xayah",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Lux18_Base",
+            "championId": "tft18_lux_base",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Ezreal",
+            "championId": "tft18_ezreal",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_SpearOfShojin",
+                "itemId": "spearofshojin",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_LastWhisper",
+                "itemId": "lastwhisper",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_InfinityEdge",
+                "itemId": "infinityedge",
+                "order": 2
+              }
+            ]
+          }
+        ],
+        "sourceVariantKey": "aphelios-elderwood",
+        "sourceUpdatedAt": "2026-11-06T22:27:49.885Z",
+        "rawArtifactId": "art_tftflex_aphelios-nidalee-20261020_4e0a78f457",
+        "rawLocator": "tftflex.com/vi/meta/set-18/aphelios-nidalee-20261020 (Ấn +1 tier)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/aphelios-nidalee-20261020 (Ấn +1 tier)",
+        "createdAt": "2026-11-07T01:53:47.261Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_ahri-thuat-si-20261020_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_ahri-thuat-si-20261020",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/ahri-thuat-si-20261020",
+    "rawArtifactId": "art_tftflex_ahri-thuat-si-20261020_31dc2fb7a8",
+    "observedAt": "2026-11-07T01:53:47.568Z",
+    "fetchedAt": "2026-11-07T01:53:47.568Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:14:02.715Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Ahri Thuật sĩ",
+    "originalTier": "A",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_ahri",
+    "carryChampionId": "tft18_ahri",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_ahri",
+      "tankChampionId": "tft18_sett",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.8558,
+      "reviewStatus": "ambiguous",
+      "matchReason": "Mơ hồ giữa Thần Chú Thuật Sư (Invoker Ahri — Ahri Morgana) (0.8558) và Hoa Linh Thích Ứng (Blossom Adaptor / Wispful Thinking - Bản 18.2) (0.7981) với cách biệt chỉ 0.0577",
+      "matchMargin": 0.0577
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_ahri-thuat-si-20261020_31dc2fb7",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng A từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Ahri (nguồn: tftflex.com/vi/meta/set-18/ahri-thuat-si-20261020 (title: \"Ahri Thuật sĩ\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_sett dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_ahri-thuat-si-20261020_31dc2fb7"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_ahri-thuat-si-20261020_primary",
+        "observationId": "obs_tftflex_ahri-thuat-si-20261020_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "partial",
+        "boardLevelMin": 8,
+        "boardLevelMax": 8,
+        "label": "Lv8 Ahri",
+        "boardLevel": 8,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Lux18_Base",
+            "championId": "tft18_lux_base",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_18_EmblemBlossom",
+                "itemId": "emblemblossom",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Ashe",
+            "championId": "tft18_ashe",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Alune",
+            "championId": "tft18_alune",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Ivern",
+            "championId": "tft18_ivern",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:14:02.715Z",
+        "rawArtifactId": "art_tftflex_ahri-thuat-si-20261020_31dc2fb7a8",
+        "rawLocator": "tftflex.com/vi/meta/set-18/ahri-thuat-si-20261020 (Lv8 Ahri)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/ahri-thuat-si-20261020 (Lv8 Ahri)",
+        "createdAt": "2026-11-07T01:53:47.568Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_sivir-nidalee-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_sivir-nidalee-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/sivir-nidalee-1",
+    "rawArtifactId": "art_tftflex_sivir-nidalee-1_b58b0ce359",
+    "observedAt": "2026-11-07T01:53:48.223Z",
+    "fetchedAt": "2026-11-07T01:53:48.223Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:14:06.908Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Sivir Nidalee",
+    "originalTier": "A",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_nidalee_ap",
+    "carryChampionId": "tft18_nidalee_ap",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_nidalee_ap",
+      "tankChampionId": "tft18_malphite",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.7422,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.7422) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_sivir-nidalee-1_b58b0ce3",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng A từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_Nidalee18_AP (nguồn: tftflex.com/vi/meta/set-18/sivir-nidalee-1 (title: \"Sivir Nidalee\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_malphite dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_sivir-nidalee-1_b58b0ce3"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_sivir-nidalee-1_primary",
+        "observationId": "obs_tftflex_sivir-nidalee-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": 8,
+        "boardLevelMax": 8,
+        "label": "Lv8",
+        "boardLevel": 8,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Lillia",
+            "championId": "tft18_lillia",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_ProtectorsVow",
+                "itemId": "protectorsvow",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_AdaptiveHelm",
+                "itemId": "adaptivehelm",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Evenshroud",
+                "itemId": "evenshroud",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Rakan",
+            "championId": "tft18_rakan",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rammus",
+            "championId": "tft18_rammus",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Vi18",
+            "championId": "tft18_vi",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 6
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Sivir",
+            "championId": "tft18_sivir",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_18_EmblemFae",
+                "itemId": "emblemfae",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_InfinityEdge",
+                "itemId": "infinityedge",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_SpearOfShojin",
+                "itemId": "spearofshojin",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Tristana",
+            "championId": "tft18_tristana",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Teemo",
+            "championId": "tft18_teemo",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "nhom-2",
+        "sourceUpdatedAt": "2026-11-05T11:14:06.908Z",
+        "rawArtifactId": "art_tftflex_sivir-nidalee-1_b58b0ce359",
+        "rawLocator": "tftflex.com/vi/meta/set-18/sivir-nidalee-1 (Lv8)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/sivir-nidalee-1 (Lv8)",
+        "createdAt": "2026-11-07T01:53:48.223Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_ezreal-executioner-20261031_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_ezreal-executioner-20261031",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/ezreal-executioner-20261031",
+    "rawArtifactId": "art_tftflex_ezreal-executioner-20261031_aa32477c90",
+    "observedAt": "2026-11-07T01:53:48.881Z",
+    "fetchedAt": "2026-11-07T01:53:48.881Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:13:49.285Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Ezreal Executioner",
+    "originalTier": "A",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_ezreal",
+    "carryChampionId": "tft18_ezreal",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_ezreal",
+      "tankChampionId": "tft18_sett",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.4375,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.4375) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_ezreal-executioner-20261031_aa32477c",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng A từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Ezreal (nguồn: tftflex.com/vi/meta/set-18/ezreal-executioner-20261031 (title: \"Ezreal Executioner\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_sett dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_ezreal-executioner-20261031_aa32477c"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_ezreal-executioner-20261031_main_0",
+        "observationId": "obs_tftflex_ezreal-executioner-20261031_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "main",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Yunara",
+            "championId": "tft18_yunara",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Component_BFSword",
+                "itemId": "bfsword",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Yorick",
+            "championId": "tft18_yorick",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Karma18",
+            "championId": "tft18_karma",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Alistar",
+            "championId": "tft18_alistar",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 6
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Ornn",
+            "championId": "tft18_ornn",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 0
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_LeBlanc",
+            "championId": "tft18_leblanc",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Component_NeedlesslyLargeRod",
+                "itemId": "needlesslylargerod",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Taric18",
+            "championId": "tft18_taric",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 3
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:13:49.285Z",
+        "rawArtifactId": "art_tftflex_ezreal-executioner-20261031_aa32477c90",
+        "rawLocator": "tftflex.com/vi/meta/set-18/ezreal-executioner-20261031 (main)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/ezreal-executioner-20261031 (main)",
+        "createdAt": "2026-11-07T01:53:48.881Z"
+      },
+      {
+        "id": "build_tftflex_ezreal-executioner-20261031_primary",
+        "observationId": "obs_tftflex_ezreal-executioner-20261031_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "nhom-3",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Ornn",
+            "championId": "tft18_ornn",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Alistar",
+            "championId": "tft18_alistar",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Fiddlesticks18",
+            "championId": "tft18_fiddlesticks",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Sett",
+            "championId": "tft18_sett",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Ahri",
+            "championId": "tft18_ahri",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Yunara",
+            "championId": "tft18_yunara",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Soraka",
+            "championId": "tft18_soraka",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 4
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_JeweledGauntlet",
+                "itemId": "jeweledgauntlet",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_NashorsTooth",
+                "itemId": "nashorstooth",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Ezreal",
+            "championId": "tft18_ezreal",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_SpearOfShojin",
+                "itemId": "spearofshojin",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_LastWhisper",
+                "itemId": "lastwhisper",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_Deathblade",
+                "itemId": "deathblade",
+                "order": 2
+              }
+            ]
+          }
+        ],
+        "sourceVariantKey": "nhom-3",
+        "sourceUpdatedAt": "2026-11-05T11:13:49.285Z",
+        "rawArtifactId": "art_tftflex_ezreal-executioner-20261031_aa32477c90",
+        "rawLocator": "tftflex.com/vi/meta/set-18/ezreal-executioner-20261031 (nhom-3)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/ezreal-executioner-20261031 (nhom-3)",
+        "createdAt": "2026-11-07T01:53:48.881Z"
+      },
+      {
+        "id": "build_tftflex_ezreal-executioner-20261031_nhom-3_2",
+        "observationId": "obs_tftflex_ezreal-executioner-20261031_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Malphite",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Yunara",
+            "championId": "tft18_yunara",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Component_BFSword",
+                "itemId": "bfsword",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Yorick",
+            "championId": "tft18_yorick",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Karma18",
+            "championId": "tft18_karma",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Alistar",
+            "championId": "tft18_alistar",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 6
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Ornn",
+            "championId": "tft18_ornn",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 0
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_LeBlanc",
+            "championId": "tft18_leblanc",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Component_NeedlesslyLargeRod",
+                "itemId": "needlesslylargerod",
+                "order": 0
+              }
+            ]
+          }
+        ],
+        "sourceVariantKey": "nhom-3",
+        "sourceUpdatedAt": "2026-11-05T11:13:49.285Z",
+        "rawArtifactId": "art_tftflex_ezreal-executioner-20261031_aa32477c90",
+        "rawLocator": "tftflex.com/vi/meta/set-18/ezreal-executioner-20261031 (Malphite)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/ezreal-executioner-20261031 (Malphite)",
+        "createdAt": "2026-11-07T01:53:48.881Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_mamabeak-reroll-20261024_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_mamabeak-reroll-20261024",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/mamabeak-reroll-20261024",
+    "rawArtifactId": "art_tftflex_mamabeak-reroll-20261024_ad2b75dffe",
+    "observedAt": "2026-11-07T01:53:49.457Z",
+    "fetchedAt": "2026-11-07T01:53:49.457Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:14:31.446Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Mamabeak Reroll",
+    "originalTier": "A",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": null,
+    "carryChampionId": null,
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_crimsonraptor",
+      "tankChampionId": "tft18_hecarim",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.1071,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.1071) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_mamabeak-reroll-20261024_ad2b75df",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng A từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: null (nguồn: tftflex.com/vi/meta/set-18/mamabeak-reroll-20261024, độ tin cậy: low)",
+      "App suy luận Tank: tft18_hecarim dựa trên trang bị phòng thủ.",
+      "Đã cách ly các token không hợp lệ: DA_18_StonebarkTree, item:DA_GuinsoosRagebladeRadiant, DA_18_StonebarkTree, item:DA_GuinsoosRagebladeRadiant"
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_mamabeak-reroll-20261024_ad2b75df"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "quarantined",
+    "quarantineReason": "Unknown tokens: DA_18_StonebarkTree, item:DA_GuinsoosRagebladeRadiant",
+    "builds": [
+      {
+        "id": "build_tftflex_mamabeak-reroll-20261024_primary",
+        "observationId": "obs_tftflex_mamabeak-reroll-20261024_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "main",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Hecarim",
+            "championId": "tft18_hecarim",
+            "starLevel": 3,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_SpiritVisage",
+                "itemId": "spiritvisage",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_BrambleVest",
+                "itemId": "bramblevest",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Krug18",
+            "championId": "tft18_krug",
+            "starLevel": 3,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Evenshroud",
+                "itemId": "evenshroud",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_SunfireCape",
+                "itemId": "sunfirecape",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Alistar",
+            "championId": "tft18_alistar",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_CrimsonRaptor18",
+            "championId": "tft18_crimsonraptor",
+            "starLevel": 3,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_HextechGunblade",
+                "itemId": "hextechgunblade",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_TitansResolve",
+                "itemId": "titansresolve",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_Artifact_NavoriFlickerblade",
+                "itemId": "navoriflickerblade",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Xayah",
+            "championId": "tft18_xayah",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Zyra",
+            "championId": "tft18_zyra",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Azir",
+            "championId": "tft18_azir",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:14:31.446Z",
+        "rawArtifactId": "art_tftflex_mamabeak-reroll-20261024_ad2b75dffe",
+        "rawLocator": "tftflex.com/vi/meta/set-18/mamabeak-reroll-20261024 (main)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/mamabeak-reroll-20261024 (main)",
+        "createdAt": "2026-11-07T01:53:49.457Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_fast-9-draven-ad-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_fast-9-draven-ad-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/fast-9-draven-ad-1",
+    "rawArtifactId": "art_tftflex_fast-9-draven-ad-1_ef81588f07",
+    "observedAt": "2026-11-07T01:53:49.605Z",
+    "fetchedAt": "2026-11-07T01:53:49.605Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:13:53.052Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Fast 9 Draven AD",
+    "originalTier": "A",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_draven",
+    "carryChampionId": "tft18_draven",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_elderdragon",
+      "tankChampionId": "tft18_maokai",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.8929,
+      "reviewStatus": "ambiguous",
+      "matchReason": "Mơ hồ giữa Fast 9 Draven AD (0.8929) và Draven Săn Thưởng & Rồng Ngàn Tuổi (Bản 18.2) (0.8558) với cách biệt chỉ 0.0371",
+      "matchMargin": 0.0371
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_fast-9-draven-ad-1_ef81588f",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng A từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_Draven18 (nguồn: tftflex.com/vi/meta/set-18/fast-9-draven-ad-1 (title: \"Fast 9 Draven AD\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_maokai dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_fast-9-draven-ad-1_ef81588f"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_fast-9-draven-ad-1_primary",
+        "observationId": "obs_tftflex_fast-9-draven-ad-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "partial",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Summary",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Taric18",
+            "championId": "tft18_taric",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Maokai",
+            "championId": "tft18_maokai",
+            "starLevel": null,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_ProtectorsVow",
+                "itemId": "protectorsvow",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_WarmogsArmor",
+                "itemId": "warmogsarmor",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Kennen",
+            "championId": "tft18_kennen",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Amumu18",
+            "championId": "tft18_amumu",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_ElderDragon",
+            "championId": "tft18_elderdragon",
+            "starLevel": null,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_InfinityEdge",
+                "itemId": "infinityedge",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Deathblade",
+                "itemId": "deathblade",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_StrikersFlail",
+                "itemId": "strikersflail",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Draven18",
+            "championId": "tft18_draven",
+            "starLevel": null,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_KrakensFury",
+                "itemId": "krakensfury",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Ivern",
+            "championId": "tft18_ivern",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "summary",
+        "sourceUpdatedAt": "2026-11-05T11:13:53.052Z",
+        "rawArtifactId": "art_tftflex_fast-9-draven-ad-1_ef81588f07",
+        "rawLocator": "tftflex.com/vi/meta/set-18/fast-9-draven-ad-1 (summary.champions)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/fast-9-draven-ad-1 (summary.champions)",
+        "createdAt": "2026-11-07T01:53:49.605Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_fast-9-alune_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_fast-9-alune",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/fast-9-alune",
+    "rawArtifactId": "art_tftflex_fast-9-alune_c2d339fc82",
+    "observedAt": "2026-11-07T01:53:50.223Z",
+    "fetchedAt": "2026-11-07T01:53:50.223Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:14:17.171Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Fast 9 Alune",
+    "originalTier": "A",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_alune",
+    "carryChampionId": "tft18_alune",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_alune",
+      "tankChampionId": "tft18_sentinel",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.8359,
+      "reviewStatus": "ambiguous",
+      "matchReason": "Mơ hồ giữa Fast 9 Alune AP (0.8359) và Thuật Sư Huyền Bí (Weave Got This - Bản 18.2) (0.7857) với cách biệt chỉ 0.0502",
+      "matchMargin": 0.0502
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_fast-9-alune_c2d339fc",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng A từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Alune (nguồn: tftflex.com/vi/meta/set-18/fast-9-alune (title: \"Fast 9 Alune\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_sentinel dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_fast-9-alune_c2d339fc"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_fast-9-alune_primary",
+        "observationId": "obs_tftflex_fast-9-alune_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "main",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Teemo",
+            "championId": "tft18_teemo",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 0
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Veigar",
+            "championId": "tft18_veigar",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_RekSai",
+            "championId": "tft18_reksai",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Kobuko",
+            "championId": "tft18_kobuko",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Karma18",
+            "championId": "tft18_karma",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Yorick",
+            "championId": "tft18_yorick",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Yunara",
+            "championId": "tft18_yunara",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 4
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:14:17.171Z",
+        "rawArtifactId": "art_tftflex_fast-9-alune_c2d339fc82",
+        "rawLocator": "tftflex.com/vi/meta/set-18/fast-9-alune (main)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/fast-9-alune (main)",
+        "createdAt": "2026-11-07T01:53:50.223Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_riftbeast-reroll-20261029_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_riftbeast-reroll-20261029",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/riftbeast-reroll-20261029",
+    "rawArtifactId": "art_tftflex_riftbeast-reroll-20261029_9e6f77e451",
+    "observedAt": "2026-11-07T01:53:50.901Z",
+    "fetchedAt": "2026-11-07T01:53:50.901Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T12:40:03.673Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Riftbeast Tempo",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": null,
+    "carryChampionId": null,
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_brambleback",
+      "tankChampionId": "tft18_krug",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.2411,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.2411) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_riftbeast-reroll-20261029_9e6f77e4",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng B từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: null (nguồn: tftflex.com/vi/meta/set-18/riftbeast-reroll-20261029, độ tin cậy: low)",
+      "App suy luận Tank: tft18_krug dựa trên trang bị phòng thủ.",
+      "Cảnh báo kiểm định bàn cờ: Tướng tft18_brambleback có 4 trang bị (vượt quá giới hạn tối đa 3 trang bị)"
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_riftbeast-reroll-20261029_9e6f77e4"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "quarantined",
+    "quarantineReason": "Tướng tft18_brambleback có 4 trang bị (vượt quá giới hạn tối đa 3 trang bị)",
+    "builds": [
+      {
+        "id": "build_tftflex_riftbeast-reroll-20261029_primary",
+        "observationId": "obs_tftflex_riftbeast-reroll-20261029_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Gromp",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Scuttlecrab18",
+            "championId": "tft18_scuttlecrab",
+            "starLevel": 3,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Riftbeast18_Selector",
+                "itemId": "riftbeastselector",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Murkwolf18",
+            "championId": "tft18_murkwolf",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Component_BFSword",
+                "itemId": "bfsword",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Krug18",
+            "championId": "tft18_krug",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Gromp18_AP",
+            "championId": "tft18_gromp_ap",
+            "starLevel": 3,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_SpearOfShojin",
+                "itemId": "spearofshojin",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_JeweledGauntlet",
+                "itemId": "jeweledgauntlet",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Sentry",
+            "championId": "tft18_sentry",
+            "starLevel": 3,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_BlueBuff",
+                "itemId": "bluebuff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_RabadonsDeathcap",
+                "itemId": "rabadonsdeathcap",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Brambleback18",
+            "championId": "tft18_brambleback",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rakan",
+            "championId": "tft18_rakan",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 3
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T12:40:03.673Z",
+        "rawArtifactId": "art_tftflex_riftbeast-reroll-20261029_9e6f77e451",
+        "rawLocator": "tftflex.com/vi/meta/set-18/riftbeast-reroll-20261029 (Gromp)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/riftbeast-reroll-20261029 (Gromp)",
+        "createdAt": "2026-11-07T01:53:50.901Z"
+      },
+      {
+        "id": "build_tftflex_riftbeast-reroll-20261029_group-2_1",
+        "observationId": "obs_tftflex_riftbeast-reroll-20261029_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "partial",
+        "boardLevelMin": 9,
+        "boardLevelMax": 9,
+        "label": "Lv9",
+        "boardLevel": 9,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Krug18",
+            "championId": "tft18_krug",
+            "starLevel": 3,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_WarmogsArmor",
+                "itemId": "warmogsarmor",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_SpiritVisage",
+                "itemId": "spiritvisage",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Taric18",
+            "championId": "tft18_taric",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Murkwolf18",
+            "championId": "tft18_murkwolf",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Brambleback18",
+            "championId": "tft18_brambleback",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_EdgeOfNight",
+                "itemId": "edgeofnight",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_Quicksilver",
+                "itemId": "quicksilver",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_GnarSmall",
+            "championId": "tft18_gnarsmall",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Sentry",
+            "championId": "tft18_sentry",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_ElderDragon",
+            "championId": "tft18_elderdragon",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 3
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "group-2",
+        "sourceUpdatedAt": "2026-11-05T12:40:03.673Z",
+        "rawArtifactId": "art_tftflex_riftbeast-reroll-20261029_9e6f77e451",
+        "rawLocator": "tftflex.com/vi/meta/set-18/riftbeast-reroll-20261029 (Lv9)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/riftbeast-reroll-20261029 (Lv9)",
+        "createdAt": "2026-11-07T01:53:50.901Z"
+      },
+      {
+        "id": "build_tftflex_riftbeast-reroll-20261029_group-2_2",
+        "observationId": "obs_tftflex_riftbeast-reroll-20261029_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "S",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Cinderling18",
+            "championId": "tft18_cinderling",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_BlueBuff",
+                "itemId": "bluebuff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Component_BFSword",
+                "itemId": "bfsword",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Sentry",
+            "championId": "tft18_sentry",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_BlueBuff",
+                "itemId": "bluebuff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Component_NeedlesslyLargeRod",
+                "itemId": "needlesslylargerod",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Murkwolf18",
+            "championId": "tft18_murkwolf",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Scuttlecrab18",
+            "championId": "tft18_scuttlecrab",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Krug18",
+            "championId": "tft18_krug",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "group-2",
+        "sourceUpdatedAt": "2026-11-05T12:40:03.673Z",
+        "rawArtifactId": "art_tftflex_riftbeast-reroll-20261029_9e6f77e451",
+        "rawLocator": "tftflex.com/vi/meta/set-18/riftbeast-reroll-20261029 (S)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/riftbeast-reroll-20261029 (S)",
+        "createdAt": "2026-11-07T01:53:50.901Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_soraka-zyra-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_soraka-zyra-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/soraka-zyra-1",
+    "rawArtifactId": "art_tftflex_soraka-zyra-1_f716ca562d",
+    "observedAt": "2026-11-07T01:53:51.498Z",
+    "fetchedAt": "2026-11-07T01:53:51.498Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T12:42:37.647Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_soraka_zyra",
+    "variantId": "default",
+    "originalName": "Soraka Zyra",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_soraka",
+    "carryChampionId": "tft18_soraka",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_soraka",
+      "tankChampionId": "tft18_malphite",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 1,
+      "reviewStatus": "auto_matched",
+      "matchReason": "Khớp thành công với Soraka Zyra (score: 1, margin: 0.9118)",
+      "matchMargin": 0.9118
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_soraka-zyra-1_f716ca56",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng B từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Soraka (nguồn: tftflex.com/vi/meta/set-18/soraka-zyra-1 (title: \"Soraka Zyra\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_malphite dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_soraka-zyra-1_f716ca56"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_soraka-zyra-1_primary",
+        "observationId": "obs_tftflex_soraka-zyra-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "S",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Alune",
+            "championId": "tft18_alune",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 0
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Ivern",
+            "championId": "tft18_ivern",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Ezreal",
+            "championId": "tft18_ezreal",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Lillia",
+            "championId": "tft18_lillia",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 6
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T12:42:37.647Z",
+        "rawArtifactId": "art_tftflex_soraka-zyra-1_f716ca562d",
+        "rawLocator": "tftflex.com/vi/meta/set-18/soraka-zyra-1 (S)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/soraka-zyra-1 (S)",
+        "createdAt": "2026-11-07T01:53:51.498Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_cassiopeia-reroll-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_cassiopeia-reroll-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/cassiopeia-reroll-1",
+    "rawArtifactId": "art_tftflex_cassiopeia-reroll-1_62c976147b",
+    "observedAt": "2026-11-07T01:53:51.604Z",
+    "fetchedAt": "2026-11-07T01:53:51.604Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:13:31.726Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_cassiopeia_reroll",
+    "variantId": "default",
+    "originalName": "Cassiopeia Reroll",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_cassiopeia",
+    "carryChampionId": "tft18_cassiopeia",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_cassiopeia",
+      "tankChampionId": "tft18_rammus",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 1,
+      "reviewStatus": "auto_matched",
+      "matchReason": "Khớp thành công với Cassiopeia Reroll (score: 1, margin: 0.8929)",
+      "matchMargin": 0.8929
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_cassiopeia-reroll-1_62c97614",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng B từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Cassiopeia (nguồn: tftflex.com/vi/meta/set-18/cassiopeia-reroll-1 (title: \"Cassiopeia Reroll\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_rammus dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_cassiopeia-reroll-1_62c97614"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_cassiopeia-reroll-1_primary",
+        "observationId": "obs_tftflex_cassiopeia-reroll-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Rengar + random carry reroll/fast 8",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Shen",
+            "championId": "tft18_shen",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rammus",
+            "championId": "tft18_rammus",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rengar",
+            "championId": "tft18_rengar",
+            "starLevel": 3,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_18_EmblemDefender",
+                "itemId": "emblemdefender",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_TitansResolve",
+                "itemId": "titansresolve",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Fiddlesticks18",
+            "championId": "tft18_fiddlesticks",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Lillia",
+            "championId": "tft18_lillia",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Ornn",
+            "championId": "tft18_ornn",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 6
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:13:31.726Z",
+        "rawArtifactId": "art_tftflex_cassiopeia-reroll-1_62c976147b",
+        "rawLocator": "tftflex.com/vi/meta/set-18/cassiopeia-reroll-1 (Rengar + random carry reroll/fast 8)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/cassiopeia-reroll-1 (Rengar + random carry reroll/fast 8)",
+        "createdAt": "2026-11-07T01:53:51.604Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_veigar-reroll-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_veigar-reroll-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/veigar-reroll-1",
+    "rawArtifactId": "art_tftflex_veigar-reroll-1_593fd7b5af",
+    "observedAt": "2026-11-07T01:53:52.163Z",
+    "fetchedAt": "2026-11-07T01:53:52.163Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:13:08.035Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_veigar_reroll",
+    "variantId": "default",
+    "originalName": "Veigar Reroll",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_veigar",
+    "carryChampionId": "tft18_veigar",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_veigar",
+      "tankChampionId": "tft18_ornn",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 1,
+      "reviewStatus": "auto_matched",
+      "matchReason": "Khớp thành công với Veigar Reroll (score: 1, margin: 0.6518)",
+      "matchMargin": 0.6518
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_veigar-reroll-1_593fd7b5",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng B từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Veigar (nguồn: tftflex.com/vi/meta/set-18/veigar-reroll-1 (title: \"Veigar Reroll\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_ornn dựa trên trang bị phòng thủ.",
+      "Đã cách ly các token không hợp lệ: item:DA_18_EmblemBlackthorn"
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_veigar-reroll-1_593fd7b5"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "quarantined",
+    "quarantineReason": "Unknown tokens: item:DA_18_EmblemBlackthorn",
+    "builds": [
+      {
+        "id": "build_tftflex_veigar-reroll-1_primary",
+        "observationId": "obs_tftflex_veigar-reroll-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "conditional",
+        "boardLevelMin": 8,
+        "boardLevelMax": 8,
+        "label": "Lv8",
+        "boardLevel": 8,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Ornn",
+            "championId": "tft18_ornn",
+            "starLevel": 3,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_RekSai",
+            "championId": "tft18_reksai",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Kobuko",
+            "championId": "tft18_kobuko",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Fiddlesticks18",
+            "championId": "tft18_fiddlesticks",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Alistar",
+            "championId": "tft18_alistar",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_GnarSmall",
+            "championId": "tft18_gnarsmall",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_LeBlanc",
+            "championId": "tft18_leblanc",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Veigar",
+            "championId": "tft18_veigar",
+            "starLevel": 3,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_BlueBuff",
+                "itemId": "bluebuff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_JeweledGauntlet",
+                "itemId": "jeweledgauntlet",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Alune",
+            "championId": "tft18_alune",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:13:08.035Z",
+        "rawArtifactId": "art_tftflex_veigar-reroll-1_593fd7b5af",
+        "rawLocator": "tftflex.com/vi/meta/set-18/veigar-reroll-1 (Lv8)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/veigar-reroll-1 (Lv8)",
+        "createdAt": "2026-11-07T01:53:52.163Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_teemo-reroll-20261031_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_teemo-reroll-20261031",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/teemo-reroll-20261031",
+    "rawArtifactId": "art_tftflex_teemo-reroll-20261031_594fb67cf4",
+    "observedAt": "2026-11-07T01:53:52.662Z",
+    "fetchedAt": "2026-11-07T01:53:52.662Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:14:34.054Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Teemo Reroll",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_teemo",
+    "carryChampionId": "tft18_teemo",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_teemo",
+      "tankChampionId": "tft18_alistar",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.3375,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.3375) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_teemo-reroll-20261031_594fb67c",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng B từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Teemo (nguồn: tftflex.com/vi/meta/set-18/teemo-reroll-20261031 (title: \"Teemo Reroll\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_alistar dựa trên trang bị phòng thủ.",
+      "Đã cách ly các token không hợp lệ: DA_18_StonebarkTree"
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_teemo-reroll-20261031_594fb67c"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "quarantined",
+    "quarantineReason": "Unknown tokens: DA_18_StonebarkTree",
+    "builds": [
+      {
+        "id": "build_tftflex_teemo-reroll-20261031_primary",
+        "observationId": "obs_tftflex_teemo-reroll-20261031_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "main",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Veigar",
+            "championId": "tft18_veigar",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 0
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Kobuko",
+            "championId": "tft18_kobuko",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Teemo",
+            "championId": "tft18_teemo",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_RekSai",
+            "championId": "tft18_reksai",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:14:34.054Z",
+        "rawArtifactId": "art_tftflex_teemo-reroll-20261031_594fb67cf4",
+        "rawLocator": "tftflex.com/vi/meta/set-18/teemo-reroll-20261031 (main)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/teemo-reroll-20261031 (main)",
+        "createdAt": "2026-11-07T01:53:52.662Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_warwick-yunara-reroll-20261025_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_warwick-yunara-reroll-20261025",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/warwick-yunara-reroll-20261025",
+    "rawArtifactId": "art_tftflex_warwick-yunara-reroll-20261025_0c0a3beeeb",
+    "observedAt": "2026-11-07T01:53:53.238Z",
+    "fetchedAt": "2026-11-07T01:53:53.238Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T18:50:34.502Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Warwick  Yunara Reroll",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_warwick",
+    "carryChampionId": "tft18_warwick",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_warwick",
+      "tankChampionId": null,
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.2946,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.2946) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_warwick-yunara-reroll-20261025_0c0a3bee",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng B từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Warwick (nguồn: tftflex.com/vi/meta/set-18/warwick-yunara-reroll-20261025 (title: \"Warwick  Yunara Reroll\"), độ tin cậy: medium)",
+      "Đã cách ly các token không hợp lệ: item:DA_18_EmblemBlackthorn"
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_warwick-yunara-reroll-20261025_0c0a3bee"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "quarantined",
+    "quarantineReason": "Unknown tokens: item:DA_18_EmblemBlackthorn",
+    "builds": [
+      {
+        "id": "build_tftflex_warwick-yunara-reroll-20261025_primary",
+        "observationId": "obs_tftflex_warwick-yunara-reroll-20261025_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "main",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Warwick",
+            "championId": "tft18_warwick",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Component_BFSword",
+                "itemId": "bfsword",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Camille",
+            "championId": "tft18_camille",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_RekSai",
+            "championId": "tft18_reksai",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Diana",
+            "championId": "tft18_diana",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Alistar",
+            "championId": "tft18_alistar",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Murkwolf18",
+            "championId": "tft18_murkwolf",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 6
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T18:50:34.502Z",
+        "rawArtifactId": "art_tftflex_warwick-yunara-reroll-20261025_0c0a3beeeb",
+        "rawLocator": "tftflex.com/vi/meta/set-18/warwick-yunara-reroll-20261025 (main)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/warwick-yunara-reroll-20261025 (main)",
+        "createdAt": "2026-11-07T01:53:53.238Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_akali-camille-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_akali-camille-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/akali-camille-1",
+    "rawArtifactId": "art_tftflex_akali-camille-1_a4fe3c4739",
+    "observedAt": "2026-11-07T01:53:53.824Z",
+    "fetchedAt": "2026-11-07T01:53:53.824Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:14:14.872Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Akali Camille",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_akali_ad",
+    "carryChampionId": "tft18_akali_ad",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_akali_ad",
+      "tankChampionId": null,
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 1,
+      "reviewStatus": "auto_matched",
+      "matchReason": "Khớp thành công với Mặt Trời Thích Ứng (Solar Adaptor - Bản 18.2) (score: 1, margin: 0.8846)",
+      "matchMargin": 0.8846
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_akali-camille-1_a4fe3c47",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng B từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Akali_AD (nguồn: tftflex.com/vi/meta/set-18/akali-camille-1 (title: \"Akali Camille\"), độ tin cậy: medium)",
+      "Cảnh báo kiểm định bàn cờ: Tướng tft18_akali_ad có 4 trang bị (vượt quá giới hạn tối đa 3 trang bị); Kích thước bàn cờ không hợp lệ: 5 tướng (yêu cầu từ 6 đến 10 tướng)"
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_akali-camille-1_a4fe3c47"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "quarantined",
+    "quarantineReason": "Tướng tft18_akali_ad có 4 trang bị (vượt quá giới hạn tối đa 3 trang bị); Kích thước bàn cờ không hợp lệ: 5 tướng (yêu cầu từ 6 đến 10 tướng)",
+    "builds": [
+      {
+        "id": "build_tftflex_akali-camille-1_primary",
+        "observationId": "obs_tftflex_akali-camille-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "conditional",
+        "boardLevelMin": 6,
+        "boardLevelMax": 7,
+        "label": "Lv6/ Lv7 + Varus",
+        "boardLevel": 6,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Ornn",
+            "championId": "tft18_ornn",
+            "starLevel": 3,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Akali_AD",
+            "championId": "tft18_akali_ad",
+            "starLevel": 3,
+            "position": {
+              "row": 2,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_EdgeOfNight",
+                "itemId": "edgeofnight",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_JeweledGauntlet",
+                "itemId": "jeweledgauntlet",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_HandOfJustice",
+                "itemId": "handofjustice",
+                "order": 2
+              },
+              {
+                "sourceItemKey": "DA_InfinityEdge",
+                "itemId": "infinityedge",
+                "order": 3
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Camille",
+            "championId": "tft18_camille",
+            "starLevel": 3,
+            "position": {
+              "row": 2,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_InfinityEdge",
+                "itemId": "infinityedge",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_SteraksGage",
+                "itemId": "steraksgage",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_Quicksilver",
+                "itemId": "quicksilver",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Sejuani",
+            "championId": "tft18_sejuani",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Leona",
+            "championId": "tft18_leona",
+            "starLevel": 3,
+            "position": {
+              "row": 2,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Kayle",
+            "championId": "tft18_kayle",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:14:14.872Z",
+        "rawArtifactId": "art_tftflex_akali-camille-1_a4fe3c4739",
+        "rawLocator": "tftflex.com/vi/meta/set-18/akali-camille-1 (Lv6/ Lv7 + Varus)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/akali-camille-1 (Lv6/ Lv7 + Varus)",
+        "createdAt": "2026-11-07T01:53:53.824Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_caitlyn-reroll-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_caitlyn-reroll-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/caitlyn-reroll-1",
+    "rawArtifactId": "art_tftflex_caitlyn-reroll-1_f783ff05df",
+    "observedAt": "2026-11-07T01:53:54.384Z",
+    "fetchedAt": "2026-11-07T01:53:54.384Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:13:21.145Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Caitlyn Reroll",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_caitlyn",
+    "carryChampionId": "tft18_caitlyn",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_caitlyn",
+      "tankChampionId": "tft18_scuttlecrab",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.8636,
+      "reviewStatus": "ambiguous",
+      "matchReason": "Mơ hồ giữa Đấu Sĩ Quái Rừng (Juggernaut Riftbeast - Bản 18.2) (0.8636) và Riftbeast Tempo (0.2375) với cách biệt chỉ 0.6261",
+      "matchMargin": 0.6261
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_caitlyn-reroll-1_f783ff05",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng B từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Caitlyn (nguồn: tftflex.com/vi/meta/set-18/caitlyn-reroll-1 (title: \"Caitlyn Reroll\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_scuttlecrab dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_caitlyn-reroll-1_f783ff05"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_caitlyn-reroll-1_primary",
+        "observationId": "obs_tftflex_caitlyn-reroll-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": 8,
+        "boardLevelMax": 8,
+        "label": "Lv8",
+        "boardLevel": 8,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Scuttlecrab18",
+            "championId": "tft18_scuttlecrab",
+            "starLevel": 3,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Maokai",
+            "championId": "tft18_maokai",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rakan",
+            "championId": "tft18_rakan",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Amumu18",
+            "championId": "tft18_amumu",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Vi18",
+            "championId": "tft18_vi",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Sejuani",
+            "championId": "tft18_sejuani",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 6
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Caitlyn",
+            "championId": "tft18_caitlyn",
+            "starLevel": 3,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_KrakensFury",
+                "itemId": "krakensfury",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_HextechGunblade",
+                "itemId": "hextechgunblade",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Sivir",
+            "championId": "tft18_sivir",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_LastWhisper",
+                "itemId": "lastwhisper",
+                "order": 0
+              }
+            ]
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:13:21.145Z",
+        "rawArtifactId": "art_tftflex_caitlyn-reroll-1_f783ff05df",
+        "rawLocator": "tftflex.com/vi/meta/set-18/caitlyn-reroll-1 (Lv8)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/caitlyn-reroll-1 (Lv8)",
+        "createdAt": "2026-11-07T01:53:54.384Z"
+      },
+      {
+        "id": "build_tftflex_caitlyn-reroll-1_main_1",
+        "observationId": "obs_tftflex_caitlyn-reroll-1_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Nổ hũ nhỏ 4 tiên phong",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Elise",
+            "championId": "tft18_elise",
+            "starLevel": 3,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Vi18",
+            "championId": "tft18_vi",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rakan",
+            "championId": "tft18_rakan",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Hecarim",
+            "championId": "tft18_hecarim",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Caitlyn",
+            "championId": "tft18_caitlyn",
+            "starLevel": 3,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_KrakensFury",
+                "itemId": "krakensfury",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_KrakensFury",
+                "itemId": "krakensfury",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Tristana",
+            "championId": "tft18_tristana",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Sivir",
+            "championId": "tft18_sivir",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 5
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:13:21.145Z",
+        "rawArtifactId": "art_tftflex_caitlyn-reroll-1_f783ff05df",
+        "rawLocator": "tftflex.com/vi/meta/set-18/caitlyn-reroll-1 (Nổ hũ nhỏ 4 tiên phong)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/caitlyn-reroll-1 (Nổ hũ nhỏ 4 tiên phong)",
+        "createdAt": "2026-11-07T01:53:54.384Z"
+      },
+      {
+        "id": "build_tftflex_caitlyn-reroll-1_main_2",
+        "observationId": "obs_tftflex_caitlyn-reroll-1_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "S",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Yorick",
+            "championId": "tft18_yorick",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 0
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rakan",
+            "championId": "tft18_rakan",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Caitlyn",
+            "championId": "tft18_caitlyn",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Cinderling18",
+            "championId": "tft18_cinderling",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:13:21.145Z",
+        "rawArtifactId": "art_tftflex_caitlyn-reroll-1_f783ff05df",
+        "rawLocator": "tftflex.com/vi/meta/set-18/caitlyn-reroll-1 (S)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/caitlyn-reroll-1 (S)",
+        "createdAt": "2026-11-07T01:53:54.384Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_azir-reroll_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_azir-reroll",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/azir-reroll",
+    "rawArtifactId": "art_tftflex_azir-reroll_33da62008b",
+    "observedAt": "2026-11-07T01:53:55.006Z",
+    "fetchedAt": "2026-11-07T01:53:55.006Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:14:27.465Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Azir Reroll",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_azir",
+    "carryChampionId": "tft18_azir",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_azir",
+      "tankChampionId": "tft18_rammus",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.375,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.375) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_azir-reroll_33da6200",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng B từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Azir (nguồn: tftflex.com/vi/meta/set-18/azir-reroll (title: \"Azir Reroll\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_rammus dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_azir-reroll_33da6200"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_azir-reroll_primary",
+        "observationId": "obs_tftflex_azir-reroll_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "partial",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Summary",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Rammus",
+            "championId": "tft18_rammus",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_Crownguard",
+                "itemId": "crownguard",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Teemo",
+            "championId": "tft18_teemo",
+            "starLevel": 3,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Fiddlesticks18",
+            "championId": "tft18_fiddlesticks",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Veigar",
+            "championId": "tft18_veigar",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Zyra",
+            "championId": "tft18_zyra",
+            "starLevel": null,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_VoidStaff",
+                "itemId": "voidstaff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Morellonomicon",
+                "itemId": "morellonomicon",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Soraka",
+            "championId": "tft18_soraka",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Azir",
+            "championId": "tft18_azir",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_RabadonsDeathcap",
+                "itemId": "rabadonsdeathcap",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_HextechGunblade",
+                "itemId": "hextechgunblade",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 2
+              }
+            ]
+          }
+        ],
+        "sourceVariantKey": "summary",
+        "sourceUpdatedAt": "2026-11-05T11:14:27.465Z",
+        "rawArtifactId": "art_tftflex_azir-reroll_33da62008b",
+        "rawLocator": "tftflex.com/vi/meta/set-18/azir-reroll (summary.champions)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/azir-reroll (summary.champions)",
+        "createdAt": "2026-11-07T01:53:55.006Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_zyra-juggernaut_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_zyra-juggernaut",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/zyra-juggernaut",
+    "rawArtifactId": "art_tftflex_zyra-juggernaut_2c965238a0",
+    "observedAt": "2026-11-07T01:53:55.721Z",
+    "fetchedAt": "2026-11-07T01:53:55.721Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:14:23.597Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Zyra Juggernaut",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_zyra",
+    "carryChampionId": "tft18_zyra",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_zyra",
+      "tankChampionId": "tft18_amumu",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.4766,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.4766) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_zyra-juggernaut_2c965238",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng B từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Zyra (nguồn: tftflex.com/vi/meta/set-18/zyra-juggernaut (title: \"Zyra Juggernaut\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_amumu dựa trên trang bị phòng thủ.",
+      "Đã cách ly các token không hợp lệ: item:DA_Item_Artifact_TalismanOfAscension"
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_zyra-juggernaut_2c965238"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "quarantined",
+    "quarantineReason": "Unknown tokens: item:DA_Item_Artifact_TalismanOfAscension",
+    "builds": [
+      {
+        "id": "build_tftflex_zyra-juggernaut_primary",
+        "observationId": "obs_tftflex_zyra-juggernaut_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Tạo tác: Carry phụ Alune > Nidalee / Azir (ít đồ)",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Amumu18",
+            "championId": "tft18_amumu",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_WarmogsArmor",
+                "itemId": "warmogsarmor",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Maokai",
+            "championId": "tft18_maokai",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rakan",
+            "championId": "tft18_rakan",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Vi18",
+            "championId": "tft18_vi",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Yorick",
+            "championId": "tft18_yorick",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Scuttlecrab18",
+            "championId": "tft18_scuttlecrab",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 6
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Zyra",
+            "championId": "tft18_zyra",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_ArchangelsStaff",
+                "itemId": "archangelsstaff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_HextechGunblade",
+                "itemId": "hextechgunblade",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Alune",
+            "championId": "tft18_alune",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_ArchangelsStaff",
+                "itemId": "archangelsstaff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_VoidStaff",
+                "itemId": "voidstaff",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_SpearOfShojin",
+                "itemId": "spearofshojin",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Nidalee18_AP",
+            "championId": "tft18_nidalee_ap",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Component_NeedlesslyLargeRod",
+                "itemId": "needlesslylargerod",
+                "order": 1
+              }
+            ]
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:14:23.597Z",
+        "rawArtifactId": "art_tftflex_zyra-juggernaut_2c965238a0",
+        "rawLocator": "tftflex.com/vi/meta/set-18/zyra-juggernaut (Tạo tác: Carry phụ Alune > Nidalee / Azir (ít đồ))",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/zyra-juggernaut (Tạo tác: Carry phụ Alune > Nidalee / Azir (ít đồ))",
+        "createdAt": "2026-11-07T01:53:55.721Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_elise-reroll_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_elise-reroll",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/elise-reroll",
+    "rawArtifactId": "art_tftflex_elise-reroll_99279c544f",
+    "observedAt": "2026-11-07T01:53:56.239Z",
+    "fetchedAt": "2026-11-07T01:53:56.239Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:14:26.120Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Elise Reroll",
+    "originalTier": "C",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_elise",
+    "carryChampionId": "tft18_elise",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_elise",
+      "tankChampionId": "tft18_elise",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.3606,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.3606) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_elise-reroll_99279c54",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng C từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Elise (nguồn: tftflex.com/vi/meta/set-18/elise-reroll (title: \"Elise Reroll\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_elise dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_elise-reroll_99279c54"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_elise-reroll_primary",
+        "observationId": "obs_tftflex_elise-reroll_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "partial",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Summary",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Elise",
+            "championId": "tft18_elise",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_TitansResolve",
+                "itemId": "titansresolve",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Hecarim",
+            "championId": "tft18_hecarim",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Morgana",
+            "championId": "tft18_morgana",
+            "starLevel": null,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_Morellonomicon",
+                "itemId": "morellonomicon",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Cassiopeia",
+            "championId": "tft18_cassiopeia",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_BlueBuff",
+                "itemId": "bluebuff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_HextechGunblade",
+                "itemId": "hextechgunblade",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Alune",
+            "championId": "tft18_alune",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Diana",
+            "championId": "tft18_diana",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "summary",
+        "sourceUpdatedAt": "2026-11-05T11:14:26.120Z",
+        "rawArtifactId": "art_tftflex_elise-reroll_99279c544f",
+        "rawLocator": "tftflex.com/vi/meta/set-18/elise-reroll (summary.champions)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/elise-reroll (summary.champions)",
+        "createdAt": "2026-11-07T01:53:56.239Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_kayle-reroll-20261101_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_kayle-reroll-20261101",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/kayle-reroll-20261101",
+    "rawArtifactId": "art_tftflex_kayle-reroll-20261101_8c2aaa8989",
+    "observedAt": "2026-11-07T01:53:56.917Z",
+    "fetchedAt": "2026-11-07T01:53:56.917Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:13:16.256Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_kayle_reroll",
+    "variantId": "default",
+    "originalName": "Kayle Reroll",
+    "originalTier": "C",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_kayle",
+    "carryChampionId": "tft18_kayle",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_kayle",
+      "tankChampionId": "tft18_ornn",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 1,
+      "reviewStatus": "auto_matched",
+      "matchReason": "Khớp thành công với Kayle Reroll (score: 1, margin: 0.625)",
+      "matchMargin": 0.625
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_kayle-reroll-20261101_8c2aaa89",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng C từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Kayle (nguồn: tftflex.com/vi/meta/set-18/kayle-reroll-20261101 (title: \"Kayle Reroll\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_ornn dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_kayle-reroll-20261101_8c2aaa89"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_kayle-reroll-20261101_primary",
+        "observationId": "obs_tftflex_kayle-reroll-20261101_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "partial",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Summary",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Ornn",
+            "championId": "tft18_ornn",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Sejuani",
+            "championId": "tft18_sejuani",
+            "starLevel": 3,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Leona",
+            "championId": "tft18_leona",
+            "starLevel": 3,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rakan",
+            "championId": "tft18_rakan",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Kayle",
+            "championId": "tft18_kayle",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_JeweledGauntlet",
+                "itemId": "jeweledgauntlet",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_StrikersFlail",
+                "itemId": "strikersflail",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Xayah",
+            "championId": "tft18_xayah",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_LeBlanc",
+            "championId": "tft18_leblanc",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "summary",
+        "sourceUpdatedAt": "2026-11-05T11:13:16.256Z",
+        "rawArtifactId": "art_tftflex_kayle-reroll-20261101_8c2aaa8989",
+        "rawLocator": "tftflex.com/vi/meta/set-18/kayle-reroll-20261101 (summary.champions)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/kayle-reroll-20261101 (summary.champions)",
+        "createdAt": "2026-11-07T01:53:56.917Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_tristana-reroll-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_tristana-reroll-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/tristana-reroll-1",
+    "rawArtifactId": "art_tftflex_tristana-reroll-1_1bd2683bc5",
+    "observedAt": "2026-11-07T01:53:57.009Z",
+    "fetchedAt": "2026-11-07T01:53:57.009Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T12:32:44.132Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_tristana_reroll",
+    "variantId": "default",
+    "originalName": "Tristana Reroll",
+    "originalTier": "C",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_tristana",
+    "carryChampionId": "tft18_tristana",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_tristana",
+      "tankChampionId": "tft18_rammus",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 1,
+      "reviewStatus": "auto_matched",
+      "matchReason": "Khớp thành công với Tristana Reroll (score: 1, margin: 0.7625)",
+      "matchMargin": 0.7625
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_tristana-reroll-1_1bd2683b",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng C từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Tristana (nguồn: tftflex.com/vi/meta/set-18/tristana-reroll-1 (title: \"Tristana Reroll\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_rammus dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_tristana-reroll-1_1bd2683b"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_tristana-reroll-1_primary",
+        "observationId": "obs_tftflex_tristana-reroll-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "nhom-3",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Amumu18",
+            "championId": "tft18_amumu",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_WarmogsArmor",
+                "itemId": "warmogsarmor",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Shen",
+            "championId": "tft18_shen",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Vi18",
+            "championId": "tft18_vi",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Lillia",
+            "championId": "tft18_lillia",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 6
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_ProtectorsVow",
+                "itemId": "protectorsvow",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Sivir",
+            "championId": "tft18_sivir",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_InfinityEdge",
+                "itemId": "infinityedge",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_SpearOfShojin",
+                "itemId": "spearofshojin",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_StrikersFlail",
+                "itemId": "strikersflail",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Tristana",
+            "championId": "tft18_tristana",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Ivern",
+            "championId": "tft18_ivern",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Ashe",
+            "championId": "tft18_ashe",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "nhom-3",
+        "sourceUpdatedAt": "2026-11-05T12:32:44.132Z",
+        "rawArtifactId": "art_tftflex_tristana-reroll-1_1bd2683bc5",
+        "rawLocator": "tftflex.com/vi/meta/set-18/tristana-reroll-1 (nhom-3)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/tristana-reroll-1 (nhom-3)",
+        "createdAt": "2026-11-07T01:53:57.009Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_morgana-nidalee-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_morgana-nidalee-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/morgana-nidalee-1",
+    "rawArtifactId": "art_tftflex_morgana-nidalee-1_afc74fe1c3",
+    "observedAt": "2026-11-07T01:53:57.538Z",
+    "fetchedAt": "2026-11-07T01:53:57.538Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:13:33.953Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Morgana Nidalee",
+    "originalTier": "C",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_nidalee_ap",
+    "carryChampionId": "tft18_nidalee_ap",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_nidalee_ap",
+      "tankChampionId": "tft18_amumu",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.7422,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.7422) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_morgana-nidalee-1_afc74fe1",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng C từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_Nidalee18_AP (nguồn: tftflex.com/vi/meta/set-18/morgana-nidalee-1 (title: \"Morgana Nidalee\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_amumu dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_morgana-nidalee-1_afc74fe1"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_morgana-nidalee-1_main_0",
+        "observationId": "obs_tftflex_morgana-nidalee-1_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Out meta",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Hecarim",
+            "championId": "tft18_hecarim",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Scuttlecrab18",
+            "championId": "tft18_scuttlecrab",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_ProtectorsVow",
+                "itemId": "protectorsvow",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Vi18",
+            "championId": "tft18_vi",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Morgana",
+            "championId": "tft18_morgana",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 4
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_VoidStaff",
+                "itemId": "voidstaff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Morellonomicon",
+                "itemId": "morellonomicon",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_HextechGunblade",
+                "itemId": "hextechgunblade",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Sentry",
+            "championId": "tft18_sentry",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_KogMaw18_AD",
+            "championId": "tft18_kogmaw_ad",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Nidalee18_AP",
+            "championId": "tft18_nidalee_ap",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_JeweledGauntlet",
+                "itemId": "jeweledgauntlet",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_StrikersFlail",
+                "itemId": "strikersflail",
+                "order": 2
+              }
+            ]
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:13:33.953Z",
+        "rawArtifactId": "art_tftflex_morgana-nidalee-1_afc74fe1c3",
+        "rawLocator": "tftflex.com/vi/meta/set-18/morgana-nidalee-1 (Out meta)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/morgana-nidalee-1 (Out meta)",
+        "createdAt": "2026-11-07T01:53:57.538Z"
+      },
+      {
+        "id": "build_tftflex_morgana-nidalee-1_primary",
+        "observationId": "obs_tftflex_morgana-nidalee-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": 9,
+        "boardLevelMax": 9,
+        "label": "Lv 9 (Tạm thời lên 9 chỉ kẹp thêm Ivern do Morgana đang khỏe)",
+        "boardLevel": 9,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Amumu18",
+            "championId": "tft18_amumu",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Vi18",
+            "championId": "tft18_vi",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Kennen",
+            "championId": "tft18_kennen",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Taric18",
+            "championId": "tft18_taric",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_ProtectorsVow",
+                "itemId": "protectorsvow",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Morgana",
+            "championId": "tft18_morgana",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 6
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_VoidStaff",
+                "itemId": "voidstaff",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Morellonomicon",
+                "itemId": "morellonomicon",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_HextechGunblade",
+                "itemId": "hextechgunblade",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Ivern",
+            "championId": "tft18_ivern",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_KogMaw18_AD",
+            "championId": "tft18_kogmaw_ad",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Nidalee18_AP",
+            "championId": "tft18_nidalee_ap",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GuinsoosRageblade",
+                "itemId": "guinsoosrageblade",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_JeweledGauntlet",
+                "itemId": "jeweledgauntlet",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_StrikersFlail",
+                "itemId": "strikersflail",
+                "order": 2
+              }
+            ]
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:13:33.953Z",
+        "rawArtifactId": "art_tftflex_morgana-nidalee-1_afc74fe1c3",
+        "rawLocator": "tftflex.com/vi/meta/set-18/morgana-nidalee-1 (Lv 9 (Tạm thời lên 9 chỉ kẹp thêm Ivern do Morgana đang khỏe))",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/morgana-nidalee-1 (Lv 9 (Tạm thời lên 9 chỉ kẹp thêm Ivern do Morgana đang khỏe))",
+        "createdAt": "2026-11-07T01:53:57.538Z"
+      },
+      {
+        "id": "build_tftflex_morgana-nidalee-1_main_2",
+        "observationId": "obs_tftflex_morgana-nidalee-1_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Trang bị",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_Nidalee18_AP",
+            "championId": "tft18_nidalee_ap",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_RabadonsDeathcap_Radiant",
+                "itemId": "rabadonsdeathcap",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Artifact_NavoriFlickerblade",
+                "itemId": "navoriflickerblade",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_Artifact_StatikkShiv",
+                "itemId": "statikkshiv",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Nidalee18_AP",
+            "championId": "tft18_nidalee_ap",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 1
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Artifact_LichBane",
+                "itemId": "lichbane",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Artifact_LudensTempest",
+                "itemId": "ludenstempest",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Morgana",
+            "championId": "tft18_morgana",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 2
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Artifact_BlightingJewel",
+                "itemId": "blightingjewel",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_Artifact_SeekersArmguard",
+                "itemId": "seekersarmguard",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_Artifact_ZhonyasParadox",
+                "itemId": "zhonyasparadox",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Morgana",
+            "championId": "tft18_morgana",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_18_EmblemVanguard",
+                "itemId": "emblemvanguard",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_18_EmblemLunar",
+                "itemId": "emblemlunar",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Sentinel18",
+            "championId": "tft18_sentinel",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 4
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_Artifact_ForbiddenIdol",
+                "itemId": "forbiddenidol",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_18_EmblemJuggernaut",
+                "itemId": "emblemjuggernaut",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Ivern",
+            "championId": "tft18_ivern",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 5
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_18_EmblemInvoker",
+                "itemId": "embleminvoker",
+                "order": 0
+              }
+            ]
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:13:33.953Z",
+        "rawArtifactId": "art_tftflex_morgana-nidalee-1_afc74fe1c3",
+        "rawLocator": "tftflex.com/vi/meta/set-18/morgana-nidalee-1 (Trang bị)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/morgana-nidalee-1 (Trang bị)",
+        "createdAt": "2026-11-07T01:53:57.538Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_fast-9-ashe-ad-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_fast-9-ashe-ad-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/fast-9-ashe-ad-1",
+    "rawArtifactId": "art_tftflex_fast-9-ashe-ad-1_a423f6fa48",
+    "observedAt": "2026-11-07T01:53:58.462Z",
+    "fetchedAt": "2026-11-07T01:53:58.462Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:14:20.276Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_fast9_ashe",
+    "variantId": "default",
+    "originalName": "Fast 9 Ashe AD",
+    "originalTier": "C",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": "tft18_ashe",
+    "carryChampionId": "tft18_ashe",
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_ashe",
+      "tankChampionId": "tft18_maokai",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 1,
+      "reviewStatus": "auto_matched",
+      "matchReason": "Khớp thành công với Fast 9 Ashe AD (score: 1, margin: 0.3047)",
+      "matchMargin": 0.3047
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_fast-9-ashe-ad-1_a423f6fa",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng C từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: DA_18_Ashe (nguồn: tftflex.com/vi/meta/set-18/fast-9-ashe-ad-1 (title: \"Fast 9 Ashe AD\"), độ tin cậy: medium)",
+      "App suy luận Tank: tft18_maokai dựa trên trang bị phòng thủ."
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_fast-9-ashe-ad-1_a423f6fa"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "valid",
+    "quarantineReason": null,
+    "builds": [
+      {
+        "id": "build_tftflex_fast-9-ashe-ad-1_main_0",
+        "observationId": "obs_tftflex_fast-9-ashe-ad-1_18_6",
+        "boardKind": "alternate",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Nếu lên Maokai trễ",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Sett",
+            "championId": "tft18_sett",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Amumu18",
+            "championId": "tft18_amumu",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_GnarSmall",
+            "championId": "tft18_gnarsmall",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Kennen",
+            "championId": "tft18_kennen",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Yorick",
+            "championId": "tft18_yorick",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_ElderDragon",
+            "championId": "tft18_elderdragon",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 2
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_InfinityEdge",
+                "itemId": "infinityedge",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_StrikersFlail",
+                "itemId": "strikersflail",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Ashe",
+            "championId": "tft18_ashe",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_SpearOfShojin",
+                "itemId": "spearofshojin",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_RedBuff",
+                "itemId": "redbuff",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_LastWhisper",
+                "itemId": "lastwhisper",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Cinderling18",
+            "championId": "tft18_cinderling",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:14:20.276Z",
+        "rawArtifactId": "art_tftflex_fast-9-ashe-ad-1_a423f6fa48",
+        "rawLocator": "tftflex.com/vi/meta/set-18/fast-9-ashe-ad-1 (Nếu lên Maokai trễ)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/fast-9-ashe-ad-1 (Nếu lên Maokai trễ)",
+        "createdAt": "2026-11-07T01:53:58.462Z"
+      },
+      {
+        "id": "build_tftflex_fast-9-ashe-ad-1_primary",
+        "observationId": "obs_tftflex_fast-9-ashe-ad-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "exact",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "main",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_Maokai",
+            "championId": "tft18_maokai",
+            "starLevel": null,
+            "position": {
+              "row": 0,
+              "col": 3
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_GargoyleStoneplate",
+                "itemId": "gargoylestoneplate",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_Vi18",
+            "championId": "tft18_vi",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 1
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Kennen",
+            "championId": "tft18_kennen",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 2
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Rakan",
+            "championId": "tft18_rakan",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Amumu18",
+            "championId": "tft18_amumu",
+            "starLevel": null,
+            "position": {
+              "row": 1,
+              "col": 4
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Taric18",
+            "championId": "tft18_taric",
+            "starLevel": null,
+            "position": {
+              "row": 2,
+              "col": 6
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Ashe",
+            "championId": "tft18_ashe",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 0
+            },
+            "items": [
+              {
+                "sourceItemKey": "DA_SpearOfShojin",
+                "itemId": "spearofshojin",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_RedBuff",
+                "itemId": "redbuff",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_LastWhisper",
+                "itemId": "lastwhisper",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Ivern",
+            "championId": "tft18_ivern",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 3
+            },
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Sivir",
+            "championId": "tft18_sivir",
+            "starLevel": null,
+            "position": {
+              "row": 3,
+              "col": 6
+            },
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "main",
+        "sourceUpdatedAt": "2026-11-05T11:14:20.276Z",
+        "rawArtifactId": "art_tftflex_fast-9-ashe-ad-1_a423f6fa48",
+        "rawLocator": "tftflex.com/vi/meta/set-18/fast-9-ashe-ad-1 (main)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/fast-9-ashe-ad-1 (main)",
+        "createdAt": "2026-11-07T01:53:58.462Z"
+      }
+    ]
+  },
+  {
+    "id": "obs_tftflex_khazik-reroll-1_18_6",
+    "datasetKind": "real",
+    "sourceId": "tftflex",
+    "sourceCompId": "tftflex_khazik-reroll-1",
+    "sourceUrl": "https://tftflex.com/en/meta/set-18/khazik-reroll-1",
+    "rawArtifactId": "art_tftflex_khazik-reroll-1_11428bdc58",
+    "observedAt": "2026-11-07T01:53:59.010Z",
+    "fetchedAt": "2026-11-07T01:53:59.010Z",
+    "sourcePublishedAt": null,
+    "sourceDataAsOf": null,
+    "sourceUpdatedAt": "2026-11-05T11:13:28.843Z",
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_6",
+      "sourcePatchLabel": "18.6",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": null,
+    "variantId": null,
+    "originalName": "Khazik Reroll",
+    "originalTier": "D",
+    "classificationKind": "editorial",
+    "sourceLeadChampionId": null,
+    "carryChampionId": null,
+    "tankChampionId": null,
+    "inferred": {
+      "carryChampionId": "tft18_khazix",
+      "tankChampionId": "tft18_hecarim",
+      "algorithmVersion": "item-role-v1",
+      "similarityScore": 0.375,
+      "reviewStatus": "unmatched",
+      "matchReason": "Độ tương đồng cao nhất (0.375) thấp hơn ngưỡng 0.75",
+      "matchMargin": 0
+    },
+    "boardSourceEvidenceRefId": "ev_tftflex_khazik-reroll-1_11428bdc",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Phân hạng D từ TFT Flex Meta Tier List (18.6)",
+      "Source Lead: null (nguồn: tftflex.com/vi/meta/set-18/khazik-reroll-1, độ tin cậy: low)",
+      "App suy luận Tank: tft18_hecarim dựa trên trang bị phòng thủ.",
+      "Đã cách ly các token không hợp lệ: item:DA_18_EmblemRapidfire, DA_18_StonebarkTree, DA_18_StonebarkTree"
+    ],
+    "evidenceRefIds": [
+      "ev_tftflex_18_6_d4dec71d42ef",
+      "ev_tftflex_khazik-reroll-1_11428bdc"
+    ],
+    "parserVersion": "2.0.0",
+    "mappingVersion": "2.0.0",
+    "status": "quarantined",
+    "quarantineReason": "Unknown tokens: item:DA_18_EmblemRapidfire, DA_18_StonebarkTree",
+    "builds": [
+      {
+        "id": "build_tftflex_khazik-reroll-1_primary",
+        "observationId": "obs_tftflex_khazik-reroll-1_18_6",
+        "boardKind": "primary",
+        "boardCompleteness": "partial",
+        "boardLevelMin": null,
+        "boardLevelMax": null,
+        "label": "Summary",
+        "boardLevel": null,
+        "units": [
+          {
+            "sourceChampionKey": "DA_18_KhaZix",
+            "championId": "tft18_khazix",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_HandOfJustice",
+                "itemId": "handofjustice",
+                "order": 0
+              },
+              {
+                "sourceItemKey": "DA_NashorsTooth",
+                "itemId": "nashorstooth",
+                "order": 1
+              },
+              {
+                "sourceItemKey": "DA_RabadonsDeathcap",
+                "itemId": "rabadonsdeathcap",
+                "order": 2
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Hecarim",
+            "championId": "tft18_hecarim",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_ProtectorsVow",
+                "itemId": "protectorsvow",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Diana",
+            "championId": "tft18_diana",
+            "starLevel": 3,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_Component_NeedlesslyLargeRod",
+                "itemId": "needlesslylargerod",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Ezreal",
+            "championId": "tft18_ezreal",
+            "starLevel": null,
+            "position": null,
+            "items": [
+              {
+                "sourceItemKey": "DA_Component_BFSword",
+                "itemId": "bfsword",
+                "order": 0
+              }
+            ]
+          },
+          {
+            "sourceChampionKey": "DA_18_Soraka",
+            "championId": "tft18_soraka",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_18_Ornn",
+            "championId": "tft18_ornn",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          },
+          {
+            "sourceChampionKey": "DA_Fiddlesticks18",
+            "championId": "tft18_fiddlesticks",
+            "starLevel": null,
+            "position": null,
+            "items": []
+          }
+        ],
+        "sourceVariantKey": "summary",
+        "sourceUpdatedAt": "2026-11-05T11:13:28.843Z",
+        "rawArtifactId": "art_tftflex_khazik-reroll-1_11428bdc58",
+        "rawLocator": "tftflex.com/vi/meta/set-18/khazik-reroll-1 (summary.champions)",
+        "sourceLocator": "tftflex.com/vi/meta/set-18/khazik-reroll-1 (summary.champions)",
+        "createdAt": "2026-11-07T01:53:59.010Z"
+      }
+    ]
+  }
+]

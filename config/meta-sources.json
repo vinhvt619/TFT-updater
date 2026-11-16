@@ -1,0 +1,76 @@
+{
+  "$schema": "./meta-sources.schema.json",
+  "version": "1.0.0",
+  "sources": [
+    {
+      "sourceId": "metatft",
+      "name": "MetaTFT",
+      "canonicalUrl": "https://www.metatft.com/comps",
+      "domain": "metatft.com",
+      "provenanceGroupId": "metatft_group",
+      "provenanceWeight": 1,
+      "method": "html_scrape",
+      "accessStatus": "partial",
+      "classificationKind": "hybrid",
+      "notes": "Trang comps cần JavaScript; hỗ trợ trích xuất thống kê và tier hướng dẫn",
+      "parserVersion": "1.0.0",
+      "enabled": true
+    },
+    {
+      "sourceId": "tftacademy",
+      "name": "TFT Academy",
+      "canonicalUrl": "https://tftacademy.com/tierlist/comps",
+      "domain": "tftacademy.com",
+      "provenanceGroupId": "tftacademy_group",
+      "provenanceWeight": 1,
+      "method": "structured_html",
+      "accessStatus": "supported",
+      "classificationKind": "editorial",
+      "notes": "Tier list chuyên gia, có phân loại situational và điều kiện trang bị",
+      "parserVersion": "1.0.0",
+      "enabled": true
+    },
+    {
+      "sourceId": "tftflex",
+      "name": "TFT Flex",
+      "canonicalUrl": "https://tftflex.com/en/meta",
+      "domain": "tftflex.com",
+      "provenanceGroupId": "tftflex_group",
+      "provenanceWeight": 1,
+      "method": "html_scrape",
+      "accessStatus": "supported",
+      "classificationKind": "editorial",
+      "notes": "Có tier S/A/B/C/D công khai, lấy phần meta miễn phí không cần membership",
+      "parserVersion": "1.0.0",
+      "enabled": true
+    },
+    {
+      "sourceId": "datatft",
+      "name": "DataTFT",
+      "canonicalUrl": "https://www.datatft.com/comps/tier/",
+      "domain": "datatft.com",
+      "provenanceGroupId": "datatft_group",
+      "provenanceWeight": 1,
+      "method": "html_scrape",
+      "accessStatus": "partial",
+      "classificationKind": "hybrid",
+      "notes": "Phân biệt TFT tiêu chuẩn với nhánh jcc.datatft.com; mapping tier rõ ràng",
+      "parserVersion": "1.0.0",
+      "enabled": true
+    },
+    {
+      "sourceId": "tactics_tools",
+      "name": "tactics.tools",
+      "canonicalUrl": "https://tactics.tools/team-compositions",
+      "domain": "tactics.tools",
+      "provenanceGroupId": "tactics_tools_group",
+      "provenanceWeight": 1,
+      "method": "json_api_or_scrape",
+      "accessStatus": "supported",
+      "classificationKind": "statistical",
+      "notes": "Cung cấp Avg Place, Top 4%, Win%, Play Rate, core/flex units",
+      "parserVersion": "1.0.0",
+      "enabled": true
+    }
+  ]
+}

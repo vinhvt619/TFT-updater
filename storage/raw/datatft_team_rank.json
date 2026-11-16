@@ -1,0 +1,175 @@
+{
+  "code": 1,
+  "message": "",
+  "data": {
+    "updateTime": "2026-09-13T11:32:52",
+    "list": [
+      {
+        "tier": "S",
+        "heroId": "918119",
+        "id": 16241
+      },
+      {
+        "tier": "S",
+        "heroId": "918955",
+        "id": 16242
+      },
+      {
+        "tier": "S",
+        "heroId": "918022",
+        "id": 16244
+      },
+      {
+        "equipId": "BronzeForLife_2_",
+        "tier": "S",
+        "heroId": "918015",
+        "id": 16263
+      },
+      {
+        "equipId": "DA_18_Solar",
+        "tier": "A",
+        "heroId": "918804",
+        "id": 16284
+      },
+      {
+        "equipId": "33019",
+        "tier": "A",
+        "heroId": "918081",
+        "id": 16281
+      },
+      {
+        "equipId": "33024",
+        "tier": "A",
+        "heroId": "918081",
+        "id": 16233
+      },
+      {
+        "equipId": "33027",
+        "tier": "A",
+        "heroId": "918143",
+        "id": 16234
+      },
+      {
+        "equipId": "33021",
+        "tier": "A",
+        "heroId": "918017",
+        "id": 16225
+      },
+      {
+        "equipId": "33029",
+        "tier": "A",
+        "heroId": "918103",
+        "id": 16266
+      },
+      {
+        "equipId": "EarlyLearning_2_",
+        "tier": "A",
+        "heroId": "918084",
+        "id": 16269
+      },
+      {
+        "equipId": "33033",
+        "tier": "A",
+        "heroId": "918076",
+        "id": 16270
+      },
+      {
+        "equipId": "33030",
+        "tier": "A",
+        "heroId": "918523",
+        "id": 16271
+      },
+      {
+        "equipId": "33039",
+        "tier": "A",
+        "heroId": "918051",
+        "id": 16280
+      },
+      {
+        "equipId": "33019",
+        "tier": "A",
+        "heroId": "918011",
+        "id": 16253
+      },
+      {
+        "tier": "B",
+        "heroId": "918989",
+        "id": 16219
+      },
+      {
+        "equipId": "31004",
+        "tier": "B",
+        "heroId": "918010",
+        "id": 16222
+      },
+      {
+        "equipId": "33032",
+        "tier": "B",
+        "heroId": "918107",
+        "id": 16227
+      },
+      {
+        "equipId": "DA_Riftbeast18",
+        "tier": "B",
+        "heroId": "918995",
+        "id": 16228
+      },
+      {
+        "equipId": "33029",
+        "tier": "B",
+        "heroId": "918076",
+        "id": 16232
+      },
+      {
+        "equipId": "33020",
+        "tier": "B",
+        "heroId": "918523",
+        "id": 16236
+      },
+      {
+        "equipId": "33038",
+        "tier": "B",
+        "heroId": "918069",
+        "id": 16264
+      },
+      {
+        "equipId": "DA_Riftbeast18",
+        "tier": "B",
+        "heroId": "918990",
+        "id": 16265
+      },
+      {
+        "equipId": "33022",
+        "tier": "C",
+        "heroId": "918018",
+        "id": 16230
+      },
+      {
+        "equipId": "33027",
+        "tier": "C",
+        "heroId": "918804",
+        "id": 16257
+      },
+      {
+        "equipId": "DA_18_RivalsAugment_2_",
+        "tier": "C",
+        "heroId": "918121",
+        "id": 16260
+      },
+      {
+        "equipId": "33024",
+        "tier": "D",
+        "heroId": "918498",
+        "id": 16220
+      },
+      {
+        "equipId": "33025",
+        "tier": "D",
+        "heroId": "918019",
+        "id": 16247
+      }
+    ],
+    "version": "18.2"
+  },
+  "success": true
+}

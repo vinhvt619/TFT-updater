@@ -1,0 +1,1282 @@
+{
+  "importSchemaVersion": "1",
+  "idempotencyKey": "demo_live_a_v1",
+  "release": {
+    "channel": "live",
+    "patchLabel": "18.1 Bản Ra Mắt (Demo)",
+    "buildId": "live_build_18_1",
+    "effectiveAt": "2026-08-25T10:00:00Z",
+    "timePrecision": "day",
+    "timeBasis": "verified_release",
+    "occurrenceKey": "demo_live_18_1"
+  },
+  "payload": {
+    "schemaVersion": "1.0.0",
+    "datasetKind": "demo",
+    "setNumber": 18,
+    "gameMode": "standard",
+    "channel": "live",
+    "rosterCompleteness": "complete",
+    "fieldCoverage": {
+      "health": {
+        "known": 8,
+        "applicable": 8
+      }
+    },
+    "champions": [
+      {
+        "championId": "demo_champion_a",
+        "sourceApiNames": [
+          "TFT18_DemoChampionA"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Demo Champion A (Caitlyn)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Tướng Minh Họa A (Xạ Thủ)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          }
+        },
+        "aliases": [
+          "ChampA",
+          "Sniper"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "demo_trait_enforcer",
+            "demo_trait_sniper"
+          ],
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/51.png",
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [
+              {
+                "key": "health",
+                "labelVi": "Máu",
+                "labelEn": "Health",
+                "unit": "flat",
+                "contextKey": "base",
+                "byStar": {
+                  "1": {
+                    "state": "known",
+                    "value": 880,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "2": {
+                    "state": "known",
+                    "value": 1584,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "3": {
+                    "state": "known",
+                    "value": 2851.2000000000003,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                }
+              },
+              {
+                "key": "attack_damage",
+                "labelVi": "Sát thương vật lý (AD)",
+                "labelEn": "Attack Damage",
+                "unit": "flat",
+                "contextKey": "base",
+                "byStar": {
+                  "1": {
+                    "state": "known",
+                    "value": 55,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "2": {
+                    "state": "known",
+                    "value": 83,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "3": {
+                    "state": "known",
+                    "value": 124,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                }
+              },
+              {
+                "key": "attack_speed",
+                "labelVi": "Tốc độ đánh",
+                "labelEn": "Attack Speed",
+                "unit": "attacks_per_second",
+                "contextKey": "base",
+                "byStar": {
+                  "1": {
+                    "state": "known",
+                    "value": 0.75,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "2": {
+                    "state": "known",
+                    "value": 0.75,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "3": {
+                    "state": "known",
+                    "value": 0.75,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                }
+              }
+            ],
+            "abilities": [
+              {
+                "abilityKey": "ace_in_the_hole",
+                "name": {
+                  "en": {
+                    "state": "known",
+                    "value": "Ace in the Hole",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "vi": {
+                    "state": "known",
+                    "value": "Bắn Tỉa Chuẩn Xác",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                },
+                "description": {
+                  "en": {
+                    "state": "known",
+                    "value": "Fire a massive shot dealing physical damage to the furthest target.",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "vi": {
+                    "state": "known",
+                    "value": "Bắn một phát đạn tầm xa gây sát thương vật lý lên kẻ địch xa nhất.",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                },
+                "parameters": [
+                  {
+                    "key": "damage",
+                    "labelVi": "Sát thương phát bắn",
+                    "labelEn": "Bullet Damage",
+                    "unit": "flat",
+                    "contextKey": "active",
+                    "byStar": {
+                      "1": {
+                        "state": "known",
+                        "value": 250,
+                        "sourceRefIds": [
+                          "ev_demo_pbe_notes_01"
+                        ],
+                        "quality": "extracted",
+                        "origin": "manual"
+                      },
+                      "2": {
+                        "state": "known",
+                        "value": 400,
+                        "sourceRefIds": [
+                          "ev_demo_pbe_notes_01"
+                        ],
+                        "quality": "extracted",
+                        "origin": "manual"
+                      },
+                      "3": {
+                        "state": "known",
+                        "value": 700,
+                        "sourceRefIds": [
+                          "ev_demo_pbe_notes_01"
+                        ],
+                        "quality": "extracted",
+                        "origin": "manual"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championId": "demo_champion_b",
+        "sourceApiNames": [
+          "TFT18_DemoChampionB"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Demo Champion B (Mage)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Tướng Minh Họa B (Phù Thủy)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          }
+        },
+        "aliases": [
+          "ChampB"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "demo_trait_sorcerer"
+          ],
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/1.png",
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [
+              {
+                "key": "mana_start",
+                "labelVi": "Năng lượng khởi đầu",
+                "labelEn": "Starting Mana",
+                "unit": "mana",
+                "contextKey": "base",
+                "byStar": {
+                  "1": {
+                    "state": "known",
+                    "value": 0,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "2": {
+                    "state": "known",
+                    "value": 0,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "3": {
+                    "state": "known",
+                    "value": 0,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                }
+              },
+              {
+                "key": "mana_max",
+                "labelVi": "Năng lượng tối đa",
+                "labelEn": "Max Mana",
+                "unit": "mana",
+                "contextKey": "base",
+                "byStar": {
+                  "1": {
+                    "state": "known",
+                    "value": 70,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "2": {
+                    "state": "known",
+                    "value": 70,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "3": {
+                    "state": "known",
+                    "value": 70,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                }
+              }
+            ],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "demo_champion_c",
+        "sourceApiNames": [
+          "TFT18_DemoChampionC"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Demo Champion C (Assassin)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Tướng Minh Họa C (Sát Thủ)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          }
+        },
+        "aliases": [
+          "ChampC"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "demo_trait_assassin"
+          ],
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/238.png",
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": [
+              {
+                "abilityKey": "shadow_slash",
+                "name": {
+                  "en": {
+                    "state": "known",
+                    "value": "Shadow Slash",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "vi": {
+                    "state": "known",
+                    "value": "Đao Bóng Đêm",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                },
+                "description": {
+                  "en": {
+                    "state": "known",
+                    "value": "Slash enemies in a line dealing magic damage.",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "vi": {
+                    "state": "known",
+                    "value": "Vung đao bóng tối gây sát thương phép thuật lên diện rộng.",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                },
+                "parameters": [
+                  {
+                    "key": "slash_damage",
+                    "labelVi": "Sát thương chém",
+                    "labelEn": "Slash Damage",
+                    "unit": "flat",
+                    "contextKey": "active",
+                    "byStar": {
+                      "1": {
+                        "state": "known",
+                        "value": 300,
+                        "sourceRefIds": [
+                          "ev_demo_pbe_notes_01"
+                        ],
+                        "quality": "extracted",
+                        "origin": "manual"
+                      },
+                      "2": {
+                        "state": "known",
+                        "value": 450,
+                        "sourceRefIds": [
+                          "ev_demo_pbe_notes_01"
+                        ],
+                        "quality": "extracted",
+                        "origin": "manual"
+                      },
+                      "3": {
+                        "state": "known",
+                        "value": 950,
+                        "sourceRefIds": [
+                          "ev_demo_pbe_notes_01"
+                        ],
+                        "quality": "extracted",
+                        "origin": "manual"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championId": "demo_champion_d",
+        "sourceApiNames": [
+          "TFT18_DemoChampionD"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Demo Champion D (Bruiser)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Tướng Minh Họa D (Đấu Sĩ)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          }
+        },
+        "aliases": [
+          "ChampD"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "demo_trait_bruiser"
+          ],
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/86.png",
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [
+              {
+                "key": "health",
+                "labelVi": "Máu",
+                "labelEn": "Health",
+                "unit": "flat",
+                "contextKey": "base",
+                "byStar": {
+                  "1": {
+                    "state": "known",
+                    "value": 1100,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "2": {
+                    "state": "known",
+                    "value": 1980,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "3": {
+                    "state": "known",
+                    "value": 3564.0000000000005,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                }
+              },
+              {
+                "key": "attack_damage",
+                "labelVi": "Sát thương vật lý (AD)",
+                "labelEn": "Attack Damage",
+                "unit": "flat",
+                "contextKey": "base",
+                "byStar": {
+                  "1": {
+                    "state": "known",
+                    "value": 60,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "2": {
+                    "state": "known",
+                    "value": 90,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "3": {
+                    "state": "known",
+                    "value": 135,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                }
+              }
+            ],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "demo_champion_e",
+        "sourceApiNames": [
+          "TFT18_DemoChampionE"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Demo Champion E (Guardian)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Tướng Minh Họa E (Hộ Vệ)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          }
+        },
+        "aliases": [
+          "ChampE"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "demo_trait_guardian"
+          ],
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/89.png",
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": [
+              {
+                "abilityKey": "guardian_shield",
+                "name": {
+                  "en": {
+                    "state": "known",
+                    "value": "Guardian Shield",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "vi": {
+                    "state": "known",
+                    "value": "Khiên Hộ Vệ",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                },
+                "description": {
+                  "en": {
+                    "state": "known",
+                    "value": "Tạo một vùng lá chắn 300 máu bảo hộ đồng minh xung quanh.",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "vi": {
+                    "state": "known",
+                    "value": "Tạo một vùng lá chắn 300 máu bảo hộ đồng minh xung quanh.",
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                },
+                "parameters": [
+                  {
+                    "key": "shield_value",
+                    "labelVi": "Lượng lá chắn",
+                    "labelEn": "Shield Amount",
+                    "unit": "flat",
+                    "contextKey": "active",
+                    "byStar": {
+                      "1": {
+                        "state": "known",
+                        "value": 300,
+                        "sourceRefIds": [
+                          "ev_demo_pbe_notes_01"
+                        ],
+                        "quality": "extracted",
+                        "origin": "manual"
+                      },
+                      "2": {
+                        "state": "known",
+                        "value": 500,
+                        "sourceRefIds": [
+                          "ev_demo_pbe_notes_01"
+                        ],
+                        "quality": "extracted",
+                        "origin": "manual"
+                      },
+                      "3": {
+                        "state": "known",
+                        "value": 850,
+                        "sourceRefIds": [
+                          "ev_demo_pbe_notes_01"
+                        ],
+                        "quality": "extracted",
+                        "origin": "manual"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championId": "demo_champion_f",
+        "sourceApiNames": [
+          "TFT18_DemoChampionF"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Demo Champion F (EdgeCases)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Tướng Minh Họa F (Đặc Biệt)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          }
+        },
+        "aliases": [
+          "ChampF"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "demo_trait_special"
+          ],
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/35.png",
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [
+              {
+                "key": "mana_start",
+                "labelVi": "Năng lượng khởi đầu",
+                "labelEn": "Starting Mana",
+                "unit": "mana",
+                "contextKey": "base",
+                "byStar": {
+                  "1": {
+                    "state": "known",
+                    "value": 0,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "2": {
+                    "state": "known",
+                    "value": 0,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "3": {
+                    "state": "known",
+                    "value": 0,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                }
+              },
+              {
+                "key": "armor",
+                "labelVi": "Giáp",
+                "labelEn": "Armor",
+                "unit": "flat",
+                "contextKey": "base",
+                "byStar": {
+                  "1": {
+                    "state": "missing",
+                    "reason": "Chưa cập nhật ở nguồn PBE",
+                    "sourceRefIds": []
+                  }
+                }
+              },
+              {
+                "key": "attack_range",
+                "labelVi": "Tầm đánh",
+                "labelEn": "Attack Range",
+                "unit": "hexes",
+                "contextKey": "base",
+                "byStar": {
+                  "1": {
+                    "state": "not_applicable",
+                    "reason": "Tướng cận chiến không tính tầm bắn ô xa",
+                    "sourceRefIds": []
+                  }
+                }
+              }
+            ],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "demo_champion_g",
+        "sourceApiNames": [
+          "TFT18_DemoChampionG"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Demo Champion G (TwoForms)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Tướng Minh Họa G (Song Dạng)",
+            "sourceRefIds": [
+              "ev_demo_pbe_notes_01"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          }
+        },
+        "aliases": [
+          "ChampG"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "demo_trait_shapeshifter",
+            "demo_trait_legendary"
+          ],
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/126.png",
+          "sourceRefIds": [
+            "ev_demo_pbe_notes_01"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "melee",
+            "label": "Dạng Cận Chiến (Melee)",
+            "stats": [
+              {
+                "key": "health",
+                "labelVi": "Máu (Cận chiến)",
+                "labelEn": "Health (Melee)",
+                "unit": "flat",
+                "contextKey": "form_melee",
+                "byStar": {
+                  "1": {
+                    "state": "known",
+                    "value": 1200,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "2": {
+                    "state": "known",
+                    "value": 2160,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "3": {
+                    "state": "known",
+                    "value": 3888,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                }
+              }
+            ],
+            "abilities": []
+          },
+          {
+            "variantKey": "ranged",
+            "label": "Dạng Đánh Xa (Ranged)",
+            "stats": [
+              {
+                "key": "health",
+                "labelVi": "Máu (Đánh xa)",
+                "labelEn": "Health (Ranged)",
+                "unit": "flat",
+                "contextKey": "form_ranged",
+                "byStar": {
+                  "1": {
+                    "state": "known",
+                    "value": 900,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "2": {
+                    "state": "known",
+                    "value": 1620,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  },
+                  "3": {
+                    "state": "known",
+                    "value": 2916,
+                    "sourceRefIds": [
+                      "ev_demo_pbe_notes_01"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                }
+              }
+            ],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "demo_champion_h",
+        "sourceApiNames": [
+          "TFT18_DemoChampionH"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Demo Champion H (Newcomer)",
+            "sourceRefIds": [
+              "ev_demo_launch_notes"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Tướng Minh Họa H (Tân Binh)",
+            "sourceRefIds": [
+              "ev_demo_launch_notes"
+            ],
+            "quality": "extracted",
+            "origin": "manual"
+          }
+        },
+        "aliases": [
+          "ChampH"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_demo_launch_notes"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "demo_trait_enforcer"
+          ],
+          "sourceRefIds": [
+            "ev_demo_launch_notes"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/222.png",
+          "sourceRefIds": [
+            "ev_demo_launch_notes"
+          ],
+          "quality": "extracted",
+          "origin": "manual"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [
+              {
+                "key": "health",
+                "labelVi": "Máu",
+                "labelEn": "Health",
+                "unit": "flat",
+                "contextKey": "base",
+                "byStar": {
+                  "1": {
+                    "state": "known",
+                    "value": 750,
+                    "sourceRefIds": [
+                      "ev_demo_launch_notes"
+                    ],
+                    "quality": "extracted",
+                    "origin": "manual"
+                  }
+                }
+              }
+            ],
+            "abilities": []
+          }
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "ev_demo_pbe_notes_01",
+      "kind": "demo_fixture",
+      "sourceId": "demo_source",
+      "title": "Ghi chú PBE đợt 1 (Minh họa Demo)",
+      "url": "/demo/evidence/pbe/18.0.1",
+      "locator": "section#champions",
+      "snippet": "Khởi tạo thông số thử nghiệm TFT mùa 18.",
+      "sourcePublishedAt": "2026-08-01T10:00:00Z",
+      "datasetKind": "demo"
+    },
+    {
+      "id": "ev_demo_pbe_notes_02",
+      "kind": "demo_fixture",
+      "sourceId": "demo_source",
+      "title": "Ghi chú PBE đợt 2 (Minh họa Demo)",
+      "url": "/demo/evidence/pbe/18.0.2",
+      "locator": "section#balance",
+      "snippet": "Cân bằng đợt 2: Tăng máu Tướng A, giảm năng lượng Tướng B.",
+      "sourcePublishedAt": "2026-08-10T10:00:00Z",
+      "datasetKind": "demo"
+    },
+    {
+      "id": "ev_demo_launch_notes",
+      "kind": "demo_fixture",
+      "sourceId": "demo_source",
+      "title": "Thông báo Ra mắt Chính thức Mùa 18 (Minh họa Demo)",
+      "url": "/demo/evidence/live/18.1",
+      "locator": "section#patch-notes",
+      "snippet": "Phiên bản chính thức TFT mùa 18 ra mắt toàn cầu.",
+      "sourcePublishedAt": "2026-08-25T10:00:00Z",
+      "datasetKind": "demo"
+    },
+    {
+      "id": "ev_demo_hotfix_notes",
+      "kind": "demo_fixture",
+      "sourceId": "demo_source",
+      "title": "Bản vá khẩn cấp 18.1b (Minh họa Demo)",
+      "url": "/demo/evidence/live/18.1b",
+      "locator": "section#hotfix",
+      "snippet": "Sửa lỗi và cân bằng nóng ngày thứ 2 sau ra mắt.",
+      "sourcePublishedAt": "2026-08-27T10:00:00Z",
+      "datasetKind": "demo"
+    }
+  ],
+  "notes": [
+    "Bản phát hành Live chính thức mở màn TFT mùa 18."
+  ]
+}

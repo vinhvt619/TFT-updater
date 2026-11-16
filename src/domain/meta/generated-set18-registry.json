@@ -1,0 +1,912 @@
+{
+  "schemaVersion": "round10.set18-registry.v1",
+  "datasetKind": "real",
+  "setNumber": 18,
+  "channel": "pbe",
+  "source": {
+    "endpoint": "https://raw.communitydragon.org/pbe/cdragon/tft/en_us.json",
+    "sourceLocator": "storage/raw/sha256/63/633df11cf5ccd0eb692a1df15dc24decd9fc0535b639071acda3e363e32c4aec.json",
+    "rawSha256": "633df11cf5ccd0eb692a1df15dc24decd9fc0535b639071acda3e363e32c4aec",
+    "capturedAt": "2026-09-10T15:27:13.626Z"
+  },
+  "shopChampionCount": 74,
+  "entries": [
+    {
+      "sourceApiName": "DA_Gromp18_AP",
+      "nameEn": "Gromp",
+      "cost": 2,
+      "traits": [
+        "Riftbeast",
+        "Adaptor"
+      ],
+      "iconSourcePath": "assets/characters/tft18_gromp/tft18_gromp_square.tex",
+      "canonicalId": "tft18_gromp_ap",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Murkwolf18",
+      "nameEn": "Murkwolf",
+      "cost": 2,
+      "traits": [
+        "Riftbeast",
+        "Ravager"
+      ],
+      "iconSourcePath": "assets/characters/tft18_murkwolf/tft18_murkwolf_square.tex",
+      "canonicalId": "tft18_murkwolf",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Sentry",
+      "nameEn": "Pebbles",
+      "cost": 1,
+      "traits": [
+        "Riftbeast",
+        "Invoker"
+      ],
+      "iconSourcePath": "assets/characters/tft18_sentry/tft18_sentry_square.tex",
+      "canonicalId": "tft18_sentry",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Cinderling18",
+      "nameEn": "Cinderling",
+      "cost": 1,
+      "traits": [
+        "Riftbeast",
+        "Hunter"
+      ],
+      "iconSourcePath": "assets/characters/tft18_cinderling/tft18_cinderling_square.tex",
+      "canonicalId": "tft18_cinderling",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Scuttlecrab18",
+      "nameEn": "Scuttlecrab",
+      "cost": 2,
+      "traits": [
+        "Riftbeast",
+        "Juggernaut"
+      ],
+      "iconSourcePath": "assets/characters/tft18_scuttlecrab/tft18_scuttlecrab_square.tex",
+      "canonicalId": "tft18_scuttlecrab",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Krug18",
+      "nameEn": "Krug",
+      "cost": 3,
+      "traits": [
+        "Riftbeast",
+        "Brawler"
+      ],
+      "iconSourcePath": "assets/characters/tft18_krug/tft18_krug_square.tex",
+      "canonicalId": "tft18_krug",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Sentinel18",
+      "nameEn": "Sentinel",
+      "cost": 4,
+      "traits": [
+        "Riftbeast",
+        "Vanguard",
+        "Invoker"
+      ],
+      "iconSourcePath": "assets/characters/tft18_sentinel/tft18_sentinel_square.tex",
+      "canonicalId": "tft18_sentinel",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Brambleback18",
+      "nameEn": "Brambleback",
+      "cost": 4,
+      "traits": [
+        "Riftbeast",
+        "Ravager"
+      ],
+      "iconSourcePath": "assets/characters/tft18_brambleback/tft18_brambleback_square.tex",
+      "canonicalId": "tft18_brambleback",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Xayah",
+      "nameEn": "Xayah",
+      "cost": 1,
+      "traits": [
+        "Elderwood",
+        "Fae",
+        "Rapidfire"
+      ],
+      "iconSourcePath": "assets/characters/tft18_xayah/tft18_xayah_square.tex",
+      "canonicalId": "tft18_xayah",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Ornn",
+      "nameEn": "Ornn",
+      "cost": 1,
+      "traits": [
+        "Elderwood",
+        "Defender"
+      ],
+      "iconSourcePath": "assets/characters/tft18_ornn/tft18_ornn_square.tex",
+      "canonicalId": "tft18_ornn",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Nidalee18_AP",
+      "nameEn": "Nidalee",
+      "cost": 4,
+      "traits": [
+        "Primal",
+        "Adaptor"
+      ],
+      "iconSourcePath": "assets/characters/tft18_nidalee/tft18_nidalee_square.tex",
+      "canonicalId": "tft18_nidalee_ap",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Hecarim",
+      "nameEn": "Hecarim",
+      "cost": 3,
+      "traits": [
+        "Elderwood",
+        "Vanguard"
+      ],
+      "iconSourcePath": "assets/characters/tft18_hecarim/tft18_hecarim_square.tex",
+      "canonicalId": "tft18_hecarim",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Ezreal",
+      "nameEn": "Ezreal",
+      "cost": 4,
+      "traits": [
+        "Elderwood",
+        "Executioner"
+      ],
+      "iconSourcePath": "assets/characters/tft18_ezreal/tft18_ezreal_square.tex",
+      "canonicalId": "tft18_ezreal",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Azir",
+      "nameEn": "Azir",
+      "cost": 3,
+      "traits": [
+        "Blackthorn",
+        "Executioner",
+        "Summoner"
+      ],
+      "iconSourcePath": "assets/characters/tft18_azir/tft18_azir_square.tex",
+      "canonicalId": "tft18_azir",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_RekSai",
+      "nameEn": "Rek'Sai",
+      "cost": 1,
+      "traits": [
+        "Blackthorn",
+        "Brawler"
+      ],
+      "iconSourcePath": "assets/characters/tft18_reksai/tft18_reksai_square.tex",
+      "canonicalId": "tft18_reksai",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Veigar",
+      "nameEn": "Veigar",
+      "cost": 1,
+      "traits": [
+        "Blackthorn",
+        "Sprykin",
+        "Spellweaver"
+      ],
+      "iconSourcePath": "assets/characters/tft18_veigar/tft18_veigar_square.tex",
+      "canonicalId": "tft18_veigar",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Maokai",
+      "nameEn": "Maokai",
+      "cost": 5,
+      "traits": [
+        "Old Growth",
+        "Juggernaut"
+      ],
+      "iconSourcePath": "assets/characters/tft18_maokai/tft18_maokai_square.tex",
+      "canonicalId": "tft18_maokai",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Malphite",
+      "nameEn": "Malphite",
+      "cost": 4,
+      "traits": [
+        "Blackthorn",
+        "Monolith"
+      ],
+      "iconSourcePath": "assets/characters/tft18_malphite/tft18_malphite_square.tex",
+      "canonicalId": "tft18_malphite",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Yorick",
+      "nameEn": "Yorick",
+      "cost": 1,
+      "traits": [
+        "Blossom",
+        "Juggernaut",
+        "Summoner"
+      ],
+      "iconSourcePath": "assets/characters/tft18_yorick/tft18_yorick_square.tex",
+      "canonicalId": "tft18_yorick",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Yunara",
+      "nameEn": "Yunara",
+      "cost": 2,
+      "traits": [
+        "Blossom",
+        "Executioner"
+      ],
+      "iconSourcePath": "assets/characters/tft18_yunara/tft18_yunara_square.tex",
+      "canonicalId": "tft18_yunara",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Sett",
+      "nameEn": "Sett",
+      "cost": 4,
+      "traits": [
+        "Blossom",
+        "Brawler"
+      ],
+      "iconSourcePath": "assets/characters/tft18_sett/tft18_sett_square.tex",
+      "canonicalId": "tft18_sett",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Ahri",
+      "nameEn": "Ahri",
+      "cost": 4,
+      "traits": [
+        "Blossom",
+        "Spellweaver"
+      ],
+      "iconSourcePath": "assets/characters/tft18_ahri/tft18_ahri_square.tex",
+      "canonicalId": "tft18_ahri",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Ashe",
+      "nameEn": "Ashe",
+      "cost": 5,
+      "traits": [
+        "Blossom",
+        "Hunter"
+      ],
+      "iconSourcePath": "assets/characters/tft18_ashe/tft18_ashe_square.tex",
+      "canonicalId": "tft18_ashe",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Elise",
+      "nameEn": "Elise",
+      "cost": 2,
+      "traits": [
+        "Coven",
+        "Vanguard"
+      ],
+      "iconSourcePath": "assets/characters/tft18_elise/tft18_elise_square.tex",
+      "canonicalId": "tft18_elise",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Caitlyn",
+      "nameEn": "Caitlyn",
+      "cost": 2,
+      "traits": [
+        "Coven",
+        "Hunter"
+      ],
+      "iconSourcePath": "assets/characters/tft18_caitlyn/tft18_caitlyn_square.tex",
+      "canonicalId": "tft18_caitlyn",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Cassiopeia",
+      "nameEn": "Cassiopeia",
+      "cost": 3,
+      "traits": [
+        "Coven",
+        "Spellweaver"
+      ],
+      "iconSourcePath": "assets/characters/tft18_cassiopeia/tft18_cassiopeia_square.tex",
+      "canonicalId": "tft18_cassiopeia",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Morgana",
+      "nameEn": "Morgana",
+      "cost": 4,
+      "traits": [
+        "Coven",
+        "Invoker"
+      ],
+      "iconSourcePath": "assets/characters/tft18_morgana/tft18_morgana_square.tex",
+      "canonicalId": "tft18_morgana",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Rakan",
+      "nameEn": "Rakan",
+      "cost": 1,
+      "traits": [
+        "Fae",
+        "Juggernaut",
+        "Vanguard"
+      ],
+      "iconSourcePath": "assets/characters/tft18_rakan/tft18_rakan_square.tex",
+      "canonicalId": "tft18_rakan",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Lillia",
+      "nameEn": "Lillia",
+      "cost": 4,
+      "traits": [
+        "Fae",
+        "Defender"
+      ],
+      "iconSourcePath": "assets/characters/tft18_lillia/tft18_lillia_square.tex",
+      "canonicalId": "tft18_lillia",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Kobuko",
+      "nameEn": "Kobuko",
+      "cost": 1,
+      "traits": [
+        "Sprykin",
+        "Brawler"
+      ],
+      "iconSourcePath": "assets/characters/tft18_kobuko/tft18_kobuko_square.tex",
+      "canonicalId": "tft18_kobuko",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Teemo",
+      "nameEn": "Teemo",
+      "cost": 2,
+      "traits": [
+        "Sprykin",
+        "Invoker"
+      ],
+      "iconSourcePath": "assets/characters/tft18_teemo/tft18_teemo_square.tex",
+      "canonicalId": "tft18_teemo",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Rammus",
+      "nameEn": "Rammus",
+      "cost": 3,
+      "traits": [
+        "Sprykin",
+        "Defender"
+      ],
+      "iconSourcePath": "assets/characters/tft18_rammus/tft18_rammus_square.tex",
+      "canonicalId": "tft18_rammus",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_GnarSmall",
+      "nameEn": "Gnar",
+      "cost": 5,
+      "traits": [
+        "Elderwood",
+        "Sprykin",
+        "Brawler"
+      ],
+      "iconSourcePath": "assets/characters/tft18_gnar/tft18_gnar_square.tex",
+      "canonicalId": "tft18_gnarsmall",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Tristana",
+      "nameEn": "Tristana",
+      "cost": 3,
+      "traits": [
+        "Fae",
+        "Sprykin",
+        "Hunter"
+      ],
+      "iconSourcePath": "assets/characters/tft18_tristana/tft18_tristana_square.tex",
+      "canonicalId": "tft18_tristana",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Sivir",
+      "nameEn": "Sivir",
+      "cost": 4,
+      "traits": [
+        "Primal",
+        "Hunter"
+      ],
+      "iconSourcePath": "assets/characters/tft18_sivir/tft18_sivir_square.tex",
+      "canonicalId": "tft18_sivir",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Vi18",
+      "nameEn": "Vi",
+      "cost": 3,
+      "traits": [
+        "Primal",
+        "Juggernaut"
+      ],
+      "iconSourcePath": "assets/characters/tft18_vi/tft18_vi_square.tex",
+      "canonicalId": "tft18_vi",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Akali_AD",
+      "nameEn": "Akali",
+      "cost": 1,
+      "traits": [
+        "Inferno",
+        "Adaptor",
+        "Ravager"
+      ],
+      "iconSourcePath": "assets/characters/tft18_akali/tft18_akali_square.tex",
+      "canonicalId": "tft18_akali_ad",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Varus",
+      "nameEn": "Varus",
+      "cost": 1,
+      "traits": [
+        "Inferno",
+        "Rapidfire"
+      ],
+      "iconSourcePath": "assets/characters/tft18_varus/tft18_varus_square.tex",
+      "canonicalId": "tft18_varus",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Amumu18",
+      "nameEn": "Amumu",
+      "cost": 4,
+      "traits": [
+        "Inferno",
+        "Juggernaut"
+      ],
+      "iconSourcePath": "assets/characters/tft18_amumu/tft18_amumu_square.tex",
+      "canonicalId": "tft18_amumu",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Kennen",
+      "nameEn": "Kennen",
+      "cost": 5,
+      "traits": [
+        "Inferno",
+        "Executioner"
+      ],
+      "iconSourcePath": "assets/characters/tft18_kennen/tft18_kennen_square.tex",
+      "canonicalId": "tft18_kennen",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Aphelios",
+      "nameEn": "Aphelios",
+      "cost": 4,
+      "traits": [
+        "Lunar",
+        "Rapidfire"
+      ],
+      "iconSourcePath": "assets/characters/tft18_aphelios/tft18_aphelios_square.tex",
+      "canonicalId": "tft18_aphelios",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Diana",
+      "nameEn": "Diana",
+      "cost": 3,
+      "traits": [
+        "Lunar",
+        "Ravager",
+        "Vanguard"
+      ],
+      "iconSourcePath": "assets/characters/tft18_diana/tft18_diana_square.tex",
+      "canonicalId": "tft18_diana",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Alune",
+      "nameEn": "Alune",
+      "cost": 5,
+      "traits": [
+        "Attuned",
+        "Lunar",
+        "Spellweaver"
+      ],
+      "iconSourcePath": "assets/characters/tft18_alune/hud/tft18_alune_square.tex",
+      "canonicalId": "tft18_alune",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Leona",
+      "nameEn": "Leona",
+      "cost": 1,
+      "traits": [
+        "Solar",
+        "Defender"
+      ],
+      "iconSourcePath": "assets/characters/tft18_leona/tft18_leona_square.tex",
+      "canonicalId": "tft18_leona",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Kayle",
+      "nameEn": "Kayle",
+      "cost": 2,
+      "traits": [
+        "Solar",
+        "Rapidfire"
+      ],
+      "iconSourcePath": "assets/characters/tft18_kayle/tft18_kayle_square.tex",
+      "canonicalId": "tft18_kayle",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Sejuani",
+      "nameEn": "Sejuani",
+      "cost": 2,
+      "traits": [
+        "Solar",
+        "Juggernaut"
+      ],
+      "iconSourcePath": "assets/characters/tft18_sejuani/tft18_sejuani_square.tex",
+      "canonicalId": "tft18_sejuani",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_KhaZix",
+      "nameEn": "Kha'Zix",
+      "cost": 3,
+      "traits": [
+        "Rival"
+      ],
+      "iconSourcePath": "assets/characters/tft18_khazix/tft18_khazix_square.tex",
+      "canonicalId": "tft18_khazix",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Rengar",
+      "nameEn": "Rengar",
+      "cost": 3,
+      "traits": [
+        "Rival"
+      ],
+      "iconSourcePath": "assets/characters/tft18_rengar/tft18_rengar_square.tex",
+      "canonicalId": "tft18_rengar",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_KogMaw18_AD",
+      "nameEn": "Kog'Maw",
+      "cost": 3,
+      "traits": [
+        "Caustic",
+        "Adaptor",
+        "Invoker"
+      ],
+      "iconSourcePath": "assets/characters/tft18_kogmaw/tft18_kogmaw_square.tex",
+      "canonicalId": "tft18_kogmaw_ad",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Zyra",
+      "nameEn": "Zyra",
+      "cost": 4,
+      "traits": [
+        "Thornmaiden",
+        "Summoner"
+      ],
+      "iconSourcePath": "assets/characters/tft18_zyra/tft18_zyra_square.tex",
+      "canonicalId": "tft18_zyra",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Fiddlesticks18",
+      "nameEn": "Fiddlesticks",
+      "cost": 3,
+      "traits": [
+        "Flora Fatalis",
+        "Defender",
+        "Spellweaver"
+      ],
+      "iconSourcePath": "assets/characters/tft18_fiddlesticks/tft18_fiddlesticks_square.tex",
+      "canonicalId": "tft18_fiddlesticks",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Soraka",
+      "nameEn": "Soraka",
+      "cost": 4,
+      "traits": [
+        "Flora Fatalis",
+        "Executioner"
+      ],
+      "iconSourcePath": "assets/characters/tft18_soraka/tft18_soraka_square.tex",
+      "canonicalId": "tft18_soraka",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Taric18",
+      "nameEn": "Taric",
+      "cost": 5,
+      "traits": [
+        "Emerald Aspect",
+        "Vanguard"
+      ],
+      "iconSourcePath": "assets/characters/tft18_taric/tft18_taric_square.tex",
+      "canonicalId": "tft18_taric",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Ivern",
+      "nameEn": "Ivern",
+      "cost": 5,
+      "traits": [
+        "Greenfather"
+      ],
+      "iconSourcePath": "assets/characters/tft18_ivern/hud/tft18_ivern_square.tex",
+      "canonicalId": "tft18_ivern",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Lux18_Base",
+      "nameEn": "Lux",
+      "cost": 5,
+      "traits": [
+        "Avatar"
+      ],
+      "iconSourcePath": "assets/characters/tft18_lux/tft18_lux_square.tex",
+      "canonicalId": "tft18_lux_base",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Alistar",
+      "nameEn": "Alistar",
+      "cost": 2,
+      "traits": [
+        "Elderwood",
+        "Brawler"
+      ],
+      "iconSourcePath": "assets/characters/tft18_alistar/tft18_alistar_square.tex",
+      "canonicalId": "tft18_alistar",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Draven18",
+      "nameEn": "Draven",
+      "cost": 5,
+      "traits": [
+        "Bounty Seeker"
+      ],
+      "iconSourcePath": "assets/characters/tft18_draven/tft18_draven_square.tex",
+      "canonicalId": "tft18_draven",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_ElderDragon",
+      "nameEn": "Elder Dragon",
+      "cost": 5,
+      "traits": [
+        "Apex Predator",
+        "Riftbeast"
+      ],
+      "iconSourcePath": "assets/characters/tft18_elderdragon/hud/tft18_elderdragon_square.tex",
+      "canonicalId": "tft18_elderdragon",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Karma18",
+      "nameEn": "Karma",
+      "cost": 1,
+      "traits": [
+        "Blossom",
+        "Spellweaver"
+      ],
+      "iconSourcePath": "assets/characters/tft18_karma/tft18_karma_square.tex",
+      "canonicalId": "tft18_karma",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_LeBlanc",
+      "nameEn": "LeBlanc",
+      "cost": 2,
+      "traits": [
+        "Elderwood",
+        "Spellweaver"
+      ],
+      "iconSourcePath": "assets/characters/tft18_leblanc/tft18_leblanc_square.tex",
+      "canonicalId": "tft18_leblanc",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_MasterYi_AD",
+      "nameEn": "Master Yi",
+      "cost": 3,
+      "traits": [
+        "Blossom",
+        "Adaptor"
+      ],
+      "iconSourcePath": "assets/characters/tft18_masteryi/tft18_masteryi_square.tex",
+      "canonicalId": "tft18_masteryi_ad",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Shen",
+      "nameEn": "Shen",
+      "cost": 2,
+      "traits": [
+        "Inferno",
+        "Defender"
+      ],
+      "iconSourcePath": "assets/characters/tft18_shen/tft18_shen_square.tex",
+      "canonicalId": "tft18_shen",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Warwick",
+      "nameEn": "Warwick",
+      "cost": 2,
+      "traits": [
+        "Blackthorn",
+        "Ravager"
+      ],
+      "iconSourcePath": "assets/characters/tft18_warwick/tft18_warwick_square.tex",
+      "canonicalId": "tft18_warwick",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Camille",
+      "nameEn": "Camille",
+      "cost": 1,
+      "traits": [
+        "Coven",
+        "Ravager"
+      ],
+      "iconSourcePath": "assets/characters/tft18_camille/tft18_camille_square.tex",
+      "canonicalId": "tft18_camille",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Lux18_Blackthorn",
+      "nameEn": "Lux (Blackthorn)",
+      "cost": 5,
+      "traits": [
+        "Blackthorn",
+        "Avatar"
+      ],
+      "iconSourcePath": "assets/characters/tft18_lux/tft18_lux_blackthorn_square.tex",
+      "canonicalId": "tft18_lux_blackthorn",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_Lux18_Blossom",
+      "nameEn": "Lux (Blossom)",
+      "cost": 5,
+      "traits": [
+        "Blossom",
+        "Avatar"
+      ],
+      "iconSourcePath": "assets/characters/tft18_lux/tft18_lux_blossom_square.tex",
+      "canonicalId": "tft18_lux_blossom",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Lux_Coven",
+      "nameEn": "Lux (Coven)",
+      "cost": 5,
+      "traits": [
+        "Coven",
+        "Avatar"
+      ],
+      "iconSourcePath": "assets/characters/tft18_lux/tft18_lux_coven_square.tex",
+      "canonicalId": "tft18_lux_coven",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Lux_Elderwood",
+      "nameEn": "Lux (Elderwood)",
+      "cost": 5,
+      "traits": [
+        "Elderwood",
+        "Avatar"
+      ],
+      "iconSourcePath": "assets/characters/tft18_lux/tft18_lux_elderwood_square.tex",
+      "canonicalId": "tft18_lux_elderwood",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Lux_Fae",
+      "nameEn": "Lux (Fae)",
+      "cost": 5,
+      "traits": [
+        "Fae",
+        "Avatar"
+      ],
+      "iconSourcePath": "assets/characters/tft18_lux/tft18_lux_fae_square.tex",
+      "canonicalId": "tft18_lux_fae",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Lux_Inferno",
+      "nameEn": "Lux (Inferno)",
+      "cost": 5,
+      "traits": [
+        "Inferno",
+        "Avatar"
+      ],
+      "iconSourcePath": "assets/characters/tft18_lux/tft18_lux_inferno_square.tex",
+      "canonicalId": "tft18_lux_inferno",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Lux_Moonbeam",
+      "nameEn": "Lux (Lunar)",
+      "cost": 5,
+      "traits": [
+        "Lunar",
+        "Avatar"
+      ],
+      "iconSourcePath": "assets/characters/tft18_lux/tft18_lux_moonbeam_square.tex",
+      "canonicalId": "tft18_lux_moonbeam",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Lux_Primal",
+      "nameEn": "Lux (Primal)",
+      "cost": 5,
+      "traits": [
+        "Primal",
+        "Avatar"
+      ],
+      "iconSourcePath": "assets/characters/tft18_lux/tft18_lux_primal_square.tex",
+      "canonicalId": "tft18_lux_primal",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_18_Lux_Sunbeam",
+      "nameEn": "Lux (Solar)",
+      "cost": 5,
+      "traits": [
+        "Solar",
+        "Avatar"
+      ],
+      "iconSourcePath": "assets/characters/tft18_lux/tft18_lux_sunbeam_square.tex",
+      "canonicalId": "tft18_lux_sunbeam",
+      "entityKind": "shop_champion"
+    },
+    {
+      "sourceApiName": "DA_CrimsonRaptor18",
+      "nameEn": "Mama Beak",
+      "cost": 3,
+      "traits": [
+        "Riftbeast",
+        "Summoner",
+        "Rapidfire"
+      ],
+      "iconSourcePath": "assets/characters/tft18_raptor/tft18_crimsonraptor_teamplanner_splash.tex",
+      "canonicalId": "tft18_crimsonraptor",
+      "entityKind": "shop_champion"
+    }
+  ]
+}

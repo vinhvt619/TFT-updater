@@ -1,0 +1,14 @@
+{
+  "sourceId": "datatft",
+  "rawSha256": "aadcf06c15a2fd9bd97e874dad81cb5b84c2ab832839ec5b9aae0f200eea6f0c",
+  "parsed": {
+    "totalStrategies": 0,
+    "firstStrategy": {
+      "metricsNullProof": {
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null
+      }
+    }
+  }
+}

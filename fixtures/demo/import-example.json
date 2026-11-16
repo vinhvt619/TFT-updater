@@ -1,0 +1,76 @@
+{
+  "importSchemaVersion": "1",
+  "idempotencyKey": "demo_import_sample_v1",
+  "release": {
+    "channel": "pbe",
+    "patchLabel": "PBE 18.0.1 (Demo Example)",
+    "buildId": "pbe_build_01",
+    "effectiveAt": "2026-08-01T10:00:00Z",
+    "timePrecision": "day",
+    "timeBasis": "verified_release",
+    "occurrenceKey": "demo_pbe_18_0_1_sample"
+  },
+  "payload": {
+    "schemaVersion": "1.0.0",
+    "datasetKind": "demo",
+    "setNumber": 18,
+    "gameMode": "standard",
+    "channel": "pbe",
+    "rosterCompleteness": "complete",
+    "fieldCoverage": {
+      "health": { "known": 1, "applicable": 1 }
+    },
+    "champions": [
+      {
+        "championId": "demo_champion_sample",
+        "sourceApiNames": ["TFT18_DemoSample"],
+        "name": {
+          "en": { "state": "known", "value": "Demo Sample Champ", "sourceRefIds": ["ev_sample_01"], "quality": "extracted", "origin": "manual" },
+          "vi": { "state": "known", "value": "Tướng Mẫu Thử Nghiệm", "sourceRefIds": ["ev_sample_01"], "quality": "extracted", "origin": "manual" }
+        },
+        "aliases": ["Sample"],
+        "cost": { "state": "known", "value": 3, "sourceRefIds": ["ev_sample_01"], "quality": "extracted", "origin": "manual" },
+        "traitIds": { "state": "known", "value": ["demo_trait_test"], "sourceRefIds": ["ev_sample_01"], "quality": "extracted", "origin": "manual" },
+        "icon": { "state": "known", "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/1.png", "sourceRefIds": ["ev_sample_01"], "quality": "extracted", "origin": "manual" },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [
+              {
+                "key": "health",
+                "labelVi": "Máu",
+                "labelEn": "Health",
+                "unit": "flat",
+                "contextKey": "base",
+                "byStar": {
+                  "1": { "state": "known", "value": 800, "sourceRefIds": ["ev_sample_01"], "quality": "extracted", "origin": "manual" },
+                  "2": { "state": "known", "value": 1440, "sourceRefIds": ["ev_sample_01"], "quality": "extracted", "origin": "manual" },
+                  "3": { "state": "known", "value": 2592, "sourceRefIds": ["ev_sample_01"], "quality": "extracted", "origin": "manual" }
+                }
+              }
+            ],
+            "abilities": []
+          }
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "ev_sample_01",
+      "kind": "demo_fixture",
+      "sourceId": "demo_source",
+      "title": "Ghi chú mẫu thử nghiệm",
+      "url": "https://demo.tft18.internal/sample",
+      "locator": "body",
+      "snippet": "Mẫu nhập dữ liệu chuẩn cho TFT 18 Change Tracker.",
+      "sourcePublishedAt": "2026-08-01T10:00:00Z",
+      "datasetKind": "demo"
+    }
+  ],
+  "notes": [
+    "Tệp mẫu import dùng để kiểm định cấu trúc ImportEnvelope."
+  ]
+}

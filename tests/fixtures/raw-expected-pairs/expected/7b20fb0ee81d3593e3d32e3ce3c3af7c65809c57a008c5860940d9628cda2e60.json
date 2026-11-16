@@ -1,0 +1,68 @@
+{
+  "sourceId": "tftflex",
+  "rawSha256": "7b20fb0ee81d3593e3d32e3ce3c3af7c65809c57a008c5860940d9628cda2e60",
+  "parsed": {
+    "slug": "akali-camille",
+    "title": "Akali Camille",
+    "publishedAt": "2026-09-11T12:41:48.274Z",
+    "buildsCount": 2,
+    "primaryBuild": {
+      "label": "Lv5",
+      "unitsCount": 5,
+      "units": [
+        {
+          "key": "DA_18_Akali_AD",
+          "position": {
+            "row": 0,
+            "col": 0
+          },
+          "starLevel": null,
+          "items": [
+            "DA_EdgeOfNight",
+            "DA_InfinityEdge",
+            "DA_JeweledGauntlet"
+          ]
+        },
+        {
+          "key": "DA_18_Ornn",
+          "position": {
+            "row": 0,
+            "col": 1
+          },
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "key": "DA_18_Camille",
+          "position": {
+            "row": 0,
+            "col": 2
+          },
+          "starLevel": null,
+          "items": [
+            "DA_InfinityEdge"
+          ]
+        },
+        {
+          "key": "DA_18_Leona",
+          "position": {
+            "row": 0,
+            "col": 3
+          },
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "key": "DA_18_Varus",
+          "position": {
+            "row": 3,
+            "col": 0
+          },
+          "starLevel": null,
+          "items": []
+        }
+      ]
+    },
+    "sourceLeadChampionId": "DA_18_Akali_AD"
+  }
+}

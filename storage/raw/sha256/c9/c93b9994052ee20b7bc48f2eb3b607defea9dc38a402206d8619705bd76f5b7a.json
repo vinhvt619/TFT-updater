@@ -1,0 +1,5078 @@
+{
+  "importSchemaVersion": "1",
+  "idempotencyKey": "auto_cdragon-pbe_633df11cf5cc",
+  "release": {
+    "channel": "pbe",
+    "patchLabel": "CommunityDragon TFT PBE (10/9/2026)",
+    "buildId": "633df11c",
+    "effectiveAt": "2026-09-10T15:27:13.814Z",
+    "timePrecision": "day",
+    "timeBasis": "source_publication",
+    "occurrenceKey": "auto_cdragon-pbe_1789054033814"
+  },
+  "payload": {
+    "schemaVersion": "1.0.0",
+    "datasetKind": "real",
+    "setNumber": 18,
+    "gameMode": "standard",
+    "channel": "pbe",
+    "rosterCompleteness": "complete",
+    "fieldCoverage": {},
+    "champions": [
+      {
+        "championId": "tft18_da_gromp18_ap",
+        "sourceApiNames": [
+          "DA_Gromp18_AP"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Gromp",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Gromp",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Gromp18_AP"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Riftbeast",
+            "Adaptor"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{f3b734c3102f71ed}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_murkwolf18",
+        "sourceApiNames": [
+          "DA_Murkwolf18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Murkwolf",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Murkwolf",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Murkwolf18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Riftbeast",
+            "Ravager"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{0ea96b4d47691e31}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_sentry",
+        "sourceApiNames": [
+          "DA_18_Sentry"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Pebbles",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Pebbles",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Sentry"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Riftbeast",
+            "Invoker"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{e8a95eea9697c960}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_cinderling18",
+        "sourceApiNames": [
+          "DA_Cinderling18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Cinderling",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Cinderling",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Cinderling18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Riftbeast",
+            "Hunter"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{3bcbfdbd732c6323}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_scuttlecrab18",
+        "sourceApiNames": [
+          "DA_Scuttlecrab18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Scuttlecrab",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Scuttlecrab",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Scuttlecrab18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Riftbeast",
+            "Juggernaut"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{56c0d241812da38a}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_krug18",
+        "sourceApiNames": [
+          "DA_Krug18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Krug",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Krug",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Krug18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Riftbeast",
+            "Brawler"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{3d59606a1e414504}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_sentinel18",
+        "sourceApiNames": [
+          "DA_Sentinel18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Sentinel",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Sentinel",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Sentinel18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Riftbeast",
+            "Vanguard",
+            "Invoker"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{94230c60604bffc1}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_brambleback18",
+        "sourceApiNames": [
+          "DA_Brambleback18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Brambleback",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Brambleback",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Brambleback18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Riftbeast",
+            "Ravager"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{0c5a019370385aa2}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_xayah",
+        "sourceApiNames": [
+          "DA_18_Xayah"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Xayah",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Xayah",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Xayah"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Elderwood",
+            "Fae",
+            "Rapidfire"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_xayah/skins/base/images/tft18_xayah_splash_centered_8.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_ornn",
+        "sourceApiNames": [
+          "DA_18_Ornn"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Ornn",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Ornn",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Ornn"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Elderwood",
+            "Defender"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_ornn/skins/base/images/tft18_ornn_splash_centered_2.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_nidalee18_ap",
+        "sourceApiNames": [
+          "DA_Nidalee18_AP"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Nidalee",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Nidalee",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Nidalee18_AP"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Primal",
+            "Adaptor"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_nidalee/skins/base/images/tft18_nidalee_splash_centered_0.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_hecarim",
+        "sourceApiNames": [
+          "DA_18_Hecarim"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Hecarim",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Hecarim",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Hecarim"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Elderwood",
+            "Vanguard"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_hecarim/skins/base/images/tft18_hecarim_splash_centered_5.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_ezreal",
+        "sourceApiNames": [
+          "DA_18_Ezreal"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Ezreal",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Ezreal",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Ezreal"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Elderwood",
+            "Executioner"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_ezreal/skins/base/images/tft18_ezreal_splash_centered_1.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_azir",
+        "sourceApiNames": [
+          "DA_18_Azir"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Azir",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Azir",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Azir"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blackthorn",
+            "Executioner",
+            "Summoner"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_azir/skins/base/images/tft18_azir_splash_centered_5.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_reksai",
+        "sourceApiNames": [
+          "DA_18_RekSai"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Rek'Sai",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Rek'Sai",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_RekSai"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blackthorn",
+            "Brawler"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_reksai/skins/base/images/tft18_reksai_splash_centered_17.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_veigar",
+        "sourceApiNames": [
+          "DA_18_Veigar"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Veigar",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Veigar",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Veigar"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blackthorn",
+            "Sprykin",
+            "Spellweaver"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_veigar/skins/base/images/tft18_veigar_splash_centered_13.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_maokai",
+        "sourceApiNames": [
+          "DA_18_Maokai"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Maokai",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Maokai",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Maokai"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Old Growth",
+            "Juggernaut"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_maokai/skins/base/images/tft18_maokai_splash_centered_0.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_malphite",
+        "sourceApiNames": [
+          "DA_18_Malphite"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Malphite",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Malphite",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Malphite"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blackthorn",
+            "Monolith"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_malphite/skins/base/images/tft18_malphite_splash_centered_27.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_yorick",
+        "sourceApiNames": [
+          "DA_18_Yorick"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Yorick",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Yorick",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Yorick"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blossom",
+            "Juggernaut",
+            "Summoner"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_yorick/skins/base/images/tft18_yorick_splash_centered_30.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_yunara",
+        "sourceApiNames": [
+          "DA_18_Yunara"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Yunara",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Yunara",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Yunara"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blossom",
+            "Executioner"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_yunara/skins/base/images/tft18_yunara_splash_centered_0.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_sett",
+        "sourceApiNames": [
+          "DA_18_Sett"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Sett",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Sett",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Sett"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blossom",
+            "Brawler"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_sett/skins/base/images/tft18_sett_splash_centered_38.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_ahri",
+        "sourceApiNames": [
+          "DA_18_Ahri"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Ahri",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Ahri",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Ahri"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blossom",
+            "Spellweaver"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_ahri/skins/base/images/tft18_ahri_splash_centered_27.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_ashe",
+        "sourceApiNames": [
+          "DA_18_Ashe"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Ashe",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Ashe",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Ashe"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blossom",
+            "Hunter"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_ashe/skins/base/images/tft18_ashe_splash_centered_76.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_elise",
+        "sourceApiNames": [
+          "DA_18_Elise"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Elise",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Elise",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Elise"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Coven",
+            "Vanguard"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_elise/skins/base/images/tft18_elise_splash_centered_24.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_caitlyn",
+        "sourceApiNames": [
+          "DA_18_Caitlyn"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Caitlyn",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Caitlyn",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Caitlyn"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Coven",
+            "Hunter"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_caitlyn/skins/base/images/tft18_caitlyn_splash_centered_30.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_cassiopeia",
+        "sourceApiNames": [
+          "DA_18_Cassiopeia"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Cassiopeia",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Cassiopeia",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Cassiopeia"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Coven",
+            "Spellweaver"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_cassiopeia/skins/base/images/tft18_cassiopeia_splash_centered_18.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_morgana",
+        "sourceApiNames": [
+          "DA_18_Morgana"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Morgana",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Morgana",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Morgana"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Coven",
+            "Invoker"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_morgana/skins/base/images/tft18_morgana_splash_centered_26.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_rakan",
+        "sourceApiNames": [
+          "DA_18_Rakan"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Rakan",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Rakan",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Rakan"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Fae",
+            "Juggernaut",
+            "Vanguard"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_rakan/skins/base/images/tft18_rakan_splash_centered_9.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_lillia",
+        "sourceApiNames": [
+          "DA_18_Lillia"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Lillia",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Lillia",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Lillia"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Fae",
+            "Defender"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_lillia/skins/base/images/tft18_lillia_splash_centered_28.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_kobuko",
+        "sourceApiNames": [
+          "DA_18_Kobuko"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Kobuko",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Kobuko",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Kobuko"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Sprykin",
+            "Brawler"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{7ae9d8870aed1489}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_teemo",
+        "sourceApiNames": [
+          "DA_18_Teemo"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Teemo",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Teemo",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Teemo"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Sprykin",
+            "Invoker"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{9d832f70c923aaf6}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_rammus",
+        "sourceApiNames": [
+          "DA_18_Rammus"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Rammus",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Rammus",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Rammus"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Sprykin",
+            "Defender"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_rammus/skins/base/images/tft18_rammus_splash_centered_26.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_gnarsmall",
+        "sourceApiNames": [
+          "DA_18_GnarSmall"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Gnar",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Gnar",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_GnarSmall"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Elderwood",
+            "Sprykin",
+            "Brawler"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_gnar/skins/base/images/tft18_gnar_splash_centered_0.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_tristana",
+        "sourceApiNames": [
+          "DA_18_Tristana"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Tristana",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Tristana",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Tristana"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Fae",
+            "Sprykin",
+            "Hunter"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_tristana/skins/base/images/tft18_tristana_splash_centered_61.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_sivir",
+        "sourceApiNames": [
+          "DA_18_Sivir"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Sivir",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Sivir",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Sivir"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Primal",
+            "Hunter"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_sivir/skins/base/images/tft18_sivir_splash_centered_61.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_vi18",
+        "sourceApiNames": [
+          "DA_Vi18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Vi",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Vi",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Vi18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Primal",
+            "Juggernaut"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_vi/skins/base/images/tft18_vi_splash_centered_39.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_akali_ad",
+        "sourceApiNames": [
+          "DA_18_Akali_AD"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Akali",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Akali",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Akali_AD"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Inferno",
+            "Adaptor",
+            "Ravager"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_akali/skins/base/images/tft18_akali_splash_centered_2.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_varus",
+        "sourceApiNames": [
+          "DA_18_Varus"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Varus",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Varus",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Varus"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Inferno",
+            "Rapidfire"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_varus/skins/base/images/tft18_varus_splash_centered_9.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_amumu18",
+        "sourceApiNames": [
+          "DA_Amumu18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Amumu",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Amumu",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Amumu18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Inferno",
+            "Juggernaut"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_amumu/skins/base/images/tft18_amumu_splash_centered_17.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_kennen",
+        "sourceApiNames": [
+          "DA_18_Kennen"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Kennen",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Kennen",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Kennen"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Inferno",
+            "Executioner"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_kennen/skins/base/images/tft18_kennen_splash_centered_8.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_aphelios",
+        "sourceApiNames": [
+          "DA_18_Aphelios"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Aphelios",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Aphelios",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Aphelios"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Lunar",
+            "Rapidfire"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_aphelios/skins/base/images/tft18_aphelios_splash_centered_0.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_diana",
+        "sourceApiNames": [
+          "DA_18_Diana"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Diana",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Diana",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Diana"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Lunar",
+            "Ravager",
+            "Vanguard"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_diana/skins/base/images/tft18_diana_splash_centered_0.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_alune",
+        "sourceApiNames": [
+          "DA_18_Alune"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Alune",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Alune",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Alune"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Attuned",
+            "Lunar",
+            "Spellweaver"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{8dc562676f27747d}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_leona",
+        "sourceApiNames": [
+          "DA_18_Leona"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Leona",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Leona",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Leona"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Solar",
+            "Defender"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_leona/skins/base/images/tft18_leona_splash_centered_10.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_kayle",
+        "sourceApiNames": [
+          "DA_18_Kayle"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Kayle",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Kayle",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Kayle"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Solar",
+            "Rapidfire"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_kayle/skins/base/images/tft18_kayle_splash_centered_42.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_sejuani",
+        "sourceApiNames": [
+          "DA_18_Sejuani"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Sejuani",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Sejuani",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Sejuani"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Solar",
+            "Juggernaut"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_sejuani/skins/base/images/tft18_sejuani_splash_centered_26.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_khazix",
+        "sourceApiNames": [
+          "DA_18_KhaZix"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Kha'Zix",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Kha'Zix",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_KhaZix"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Rival"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_khazix/skins/base/images/tft18_khazix_splash_centered_0.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_rengar",
+        "sourceApiNames": [
+          "DA_18_Rengar"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Rengar",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Rengar",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Rengar"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Rival"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_rengar/skins/base/images/tft18_rengar_splash_centered_0.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_kogmaw18_ad",
+        "sourceApiNames": [
+          "DA_KogMaw18_AD"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Kog'Maw",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Kog'Maw",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_KogMaw18_AD"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Caustic",
+            "Adaptor",
+            "Invoker"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_kogmaw/skins/base/images/tft18_kogmaw_splash_centered_3.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_zyra",
+        "sourceApiNames": [
+          "DA_18_Zyra"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Zyra",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Zyra",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Zyra"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Thornmaiden",
+            "Summoner"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_zyra/skins/base/images/tft18_zyra_splash_centered_0.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_fiddlesticks18",
+        "sourceApiNames": [
+          "DA_Fiddlesticks18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Fiddlesticks",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Fiddlesticks",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Fiddlesticks18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Flora Fatalis",
+            "Defender",
+            "Spellweaver"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_fiddlesticks/skins/base/images/tft18_fiddlesticks_splash_centered_46.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_soraka",
+        "sourceApiNames": [
+          "DA_18_Soraka"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Soraka",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Soraka",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Soraka"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 4,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Flora Fatalis",
+            "Executioner"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_soraka/skins/base/images/tft18_soraka_splash_centered_53.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_taric18",
+        "sourceApiNames": [
+          "DA_Taric18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Taric",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Taric",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Taric18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Emerald Aspect",
+            "Vanguard"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_taric/skins/base/images/tft18_taric_splash_centered_1.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_ivern",
+        "sourceApiNames": [
+          "DA_18_Ivern"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Ivern",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Ivern",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Ivern"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Greenfather"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_ivern/skins/base/images/tft18_ivern_splash_centered_0.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_lux18_base",
+        "sourceApiNames": [
+          "DA_Lux18_Base"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Lux",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Lux",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Lux18_Base"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Avatar"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_lux/skins/base/images/tft18_lux_splash_centered_7.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_alistar",
+        "sourceApiNames": [
+          "DA_18_Alistar"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Alistar",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Alistar",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Alistar"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Elderwood",
+            "Brawler"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_alistar/skins/base/images/tft18_alistar_splash_centered_40.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_draven18",
+        "sourceApiNames": [
+          "DA_Draven18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Draven",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Draven",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Draven18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Bounty Seeker"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_draven/skins/base/images/tft18_draven_splash_centered_5.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_elderdragon",
+        "sourceApiNames": [
+          "DA_18_ElderDragon"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Elder Dragon",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Elder Dragon",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_ElderDragon"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Apex Predator",
+            "Riftbeast"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{1ae0a111a91a05ab}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_karma18",
+        "sourceApiNames": [
+          "DA_Karma18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Karma",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Karma",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Karma18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blossom",
+            "Spellweaver"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_karma/skins/base/images/tft18_karma_splash_centered_70.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_leblanc",
+        "sourceApiNames": [
+          "DA_18_LeBlanc"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "LeBlanc",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "LeBlanc",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_LeBlanc"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Elderwood",
+            "Spellweaver"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_leblanc/skins/base/images/tft18_leblanc_splash_centered_5.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_masteryi_ad",
+        "sourceApiNames": [
+          "DA_18_MasterYi_AD"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Master Yi",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Master Yi",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_MasterYi_AD"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blossom",
+            "Adaptor"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_masteryi/skins/base/images/tft18_masteryi_splash_centered_52.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_shen",
+        "sourceApiNames": [
+          "DA_18_Shen"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Shen",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Shen",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Shen"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Inferno",
+            "Defender"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_shen/skins/base/images/tft18_shen_splash_centered_16.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_warwick",
+        "sourceApiNames": [
+          "DA_18_Warwick"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Warwick",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Warwick",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Warwick"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 2,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blackthorn",
+            "Ravager"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_warwick/skins/base/images/tft18_warwick_splash_centered_35.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_camille",
+        "sourceApiNames": [
+          "DA_18_Camille"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Camille",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Camille",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Camille"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 1,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Coven",
+            "Ravager"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_camille/skins/base/images/tft18_camille_splash_centered_2.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_lux18_blackthorn",
+        "sourceApiNames": [
+          "DA_Lux18_Blackthorn"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Lux (Blackthorn)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Lux (Blackthorn)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Lux18_Blackthorn"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blackthorn",
+            "Avatar"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_lux/skins/base/images/tft18_lux_splash_centered_7.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_lux18_blossom",
+        "sourceApiNames": [
+          "DA_Lux18_Blossom"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Lux (Blossom)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Lux (Blossom)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_Lux18_Blossom"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Blossom",
+            "Avatar"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_lux/skins/base/images/tft18_lux_splash_centered_7.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_lux_coven",
+        "sourceApiNames": [
+          "DA_18_Lux_Coven"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Lux (Coven)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Lux (Coven)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Lux_Coven"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Coven",
+            "Avatar"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_lux/skins/base/images/tft18_lux_splash_centered_7.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_lux_elderwood",
+        "sourceApiNames": [
+          "DA_18_Lux_Elderwood"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Lux (Elderwood)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Lux (Elderwood)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Lux_Elderwood"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Elderwood",
+            "Avatar"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_lux/skins/base/images/tft18_lux_splash_centered_7.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_lux_fae",
+        "sourceApiNames": [
+          "DA_18_Lux_Fae"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Lux (Fae)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Lux (Fae)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Lux_Fae"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Fae",
+            "Avatar"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_lux/skins/base/images/tft18_lux_splash_centered_7.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_lux_inferno",
+        "sourceApiNames": [
+          "DA_18_Lux_Inferno"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Lux (Inferno)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Lux (Inferno)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Lux_Inferno"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Inferno",
+            "Avatar"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_lux/skins/base/images/tft18_lux_splash_centered_7.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_lux_moonbeam",
+        "sourceApiNames": [
+          "DA_18_Lux_Moonbeam"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Lux (Lunar)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Lux (Lunar)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Lux_Moonbeam"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Lunar",
+            "Avatar"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_lux/skins/base/images/tft18_lux_splash_centered_7.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_lux_primal",
+        "sourceApiNames": [
+          "DA_18_Lux_Primal"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Lux (Primal)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Lux (Primal)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Lux_Primal"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Primal",
+            "Avatar"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_lux/skins/base/images/tft18_lux_splash_centered_7.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_18_lux_sunbeam",
+        "sourceApiNames": [
+          "DA_18_Lux_Sunbeam"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Lux (Solar)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Lux (Solar)",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_18_Lux_Sunbeam"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 5,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Solar",
+            "Avatar"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tft18_lux/skins/base/images/tft18_lux_splash_centered_7.tex",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      },
+      {
+        "championId": "tft18_da_crimsonraptor18",
+        "sourceApiNames": [
+          "DA_CrimsonRaptor18"
+        ],
+        "name": {
+          "en": {
+            "state": "known",
+            "value": "Mama Beak",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          },
+          "vi": {
+            "state": "known",
+            "value": "Mama Beak",
+            "sourceRefIds": [
+              "ev_cdragon_pbe_1789054033727"
+            ],
+            "quality": "extracted",
+            "origin": "source"
+          }
+        },
+        "aliases": [
+          "DA_CrimsonRaptor18"
+        ],
+        "cost": {
+          "state": "known",
+          "value": 3,
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "traitIds": {
+          "state": "known",
+          "value": [
+            "Riftbeast",
+            "Summoner",
+            "Rapidfire"
+          ],
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "icon": {
+          "state": "known",
+          "value": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/{e81b0dca177b4dbf}",
+          "sourceRefIds": [
+            "ev_cdragon_pbe_1789054033727"
+          ],
+          "quality": "extracted",
+          "origin": "source"
+        },
+        "entityKind": "shop_champion",
+        "variants": [
+          {
+            "variantKey": "base",
+            "label": "Cơ bản",
+            "stats": [],
+            "abilities": []
+          }
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "ev_cdragon_pbe_1789054033727",
+      "kind": "raw_artifact",
+      "sourceId": "cdragon-pbe",
+      "title": "CommunityDragon TFT PBE Payload",
+      "url": "https://raw.communitydragon.org/pbe/cdragon/tft/en_us.json",
+      "datasetKind": "real"
+    }
+  ],
+  "notes": [
+    "Tự động thu thập từ https://raw.communitydragon.org/pbe/cdragon/tft/en_us.json"
+  ]
+}

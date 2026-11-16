@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://tftflex.com/en/meta/fast-9-ashe-ad",
+  "rawArtifactSha256": "f65361813a2c5ccc67729cd8515d0d59bf042437bc62747450a17d05dc733d0d",
+  "sourceLocator": "tftflex_meta_18_2.html#comp-fast-9-ashe-ad",
+  "reviewer": "independent-audit-round8",
+  "reviewedAt": "2026-09-14T05:00:00.000Z",
+  "originalName": "Fast 9 Ashe AD",
+  "originalTier": "S",
+  "capability": {
+    "hasTier": true,
+    "hasItems": true,
+    "hasPositions": true,
+    "hasStarLevel": true,
+    "hasMetrics": false
+  },
+  "fieldsNotProvided": ["metrics", "sampleCount"],
+  "builds": [
+    {
+      "tabSlug": "main",
+      "label": "Level 8 Final",
+      "boardKind": "primary",
+      "boardCompleteness": "exact",
+      "boardLevel": 8,
+      "unitsCount": 8,
+      "units": [
+        { "sourceKey": "DA_Amumu18", "canonicalId": "tft18_da_amumu18", "position": { "row": 0, "col": 3 }, "items": [] },
+        { "sourceKey": "DA_18_Sett", "canonicalId": "tft18_da_18_sett", "position": { "row": 0, "col": 4 }, "items": [] },
+        { "sourceKey": "DA_18_Shen", "canonicalId": "tft18_da_18_shen", "position": { "row": 0, "col": 5 }, "items": [] },
+        { "sourceKey": "DA_Vi18", "canonicalId": "tft18_da_vi18", "position": { "row": 0, "col": 2 }, "items": [] },
+        { "sourceKey": "DA_18_Diana", "canonicalId": "tft18_da_18_diana", "position": { "row": 3, "col": 0 }, "items": [] },
+        { "sourceKey": "DA_18_Ashe", "canonicalId": "tft18_da_18_ashe", "position": { "row": 3, "col": 3 }, "items": [] },
+        { "sourceKey": "DA_18_Sivir", "canonicalId": "tft18_da_18_sivir", "position": { "row": 3, "col": 6 }, "items": ["tft18_item_spearofshojin", "tft18_item_redbuff"] },
+        { "sourceKey": "DA_18_Aphelios", "canonicalId": "tft18_da_18_aphelios", "position": { "row": 3, "col": 4 }, "items": [] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4324 @@
+{
+  "observations": [
+    {
+      "id": "obs_datatft_16241_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16241",
+      "sourceUrl": "https://www.datatft.com/comps#16241",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "德莱文95",
+      "originalTier": "S",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_draven",
+      "carryChampionId": "tft18_draven",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0,
+        "reviewStatus": "unmatched",
+        "matchReason": "Bàn cờ có dưới 4 tướng, người chơi có thể bị loại sớm trước khi định hình đội hình"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng S từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 539, 551, 31010, 20009, 31004, 30004, 624, 519, 535, 581, 31012, 597, 30020, 31007, 32346, 616, 579, 623, 595, 618",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16241_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16242_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16242",
+      "sourceUrl": "https://www.datatft.com/comps#16242",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "拉露恩95",
+      "originalTier": "S",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_alune",
+      "carryChampionId": "tft18_alune",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.6875,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.6875) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng S từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 525, 619, 565, 20044, 32351, 20003, 567, 621, 555, 581, 597, 616, 31008, 553, 607",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16242_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16244_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16244",
+      "sourceUrl": "https://www.datatft.com/comps#16244",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "艾希95",
+      "originalTier": "S",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_ashe",
+      "carryChampionId": "tft18_ashe",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.7321,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.7321) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng S từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 551, 624, 525, 20009, 31004, 20101, 521, 519, 617, 581, 31012, 597, 30020, 32349, 32345, 625, 579, 616, 535, 618, 577",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16244_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16263_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16263",
+      "sourceUrl": "https://www.datatft.com/comps#16263",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "希维尔拼多多",
+      "originalTier": "S",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_sivir",
+      "carryChampionId": "tft18_sivir",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.6827,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.6827) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng S từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 535, 519, 617, 20009, 30004, 20003, 525, 521, 551, 616, 621, 597, 579, 609, 31012, 624",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16263_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16284_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16284",
+      "sourceUrl": "https://www.datatft.com/comps#16284",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "日蚀芸阿娜",
+      "originalTier": "A",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_yunara",
+      "carryChampionId": "tft18_yunara",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0,
+        "reviewStatus": "unmatched",
+        "matchReason": "Bàn cờ có dưới 4 tướng, người chơi có thể bị loại sớm trước khi định hình đội hình"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng A từ DataTFT (18.6)"
+      ],
+      "status": "valid",
+      "quarantineReason": null,
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16284_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16281_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16281",
+      "sourceUrl": "https://www.datatft.com/comps#16281",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "永森莲华ez",
+      "originalTier": "A",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_ezreal",
+      "carryChampionId": "tft18_ezreal",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.3661,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.3661) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng A từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 525, 551, 617, 20009, 519, 535, 567, 565, 553, 32351, 619, 581, 597, 625, 31007, 20017, 30020, 579, 609, 31012",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16281_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16233_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16233",
+      "sourceUrl": "https://www.datatft.com/comps#16233",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "高森林EZ",
+      "originalTier": "A",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_ezreal",
+      "carryChampionId": "tft18_ezreal",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.399,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.399) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng A từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 519, 551, 525, 20044, 20009, 31004, 535, 617, 521, 529, 618, 613, 32347, 20004, 31006, 577, 607, 615, 579, 609, 597, 32349, 30020, 31007, 583, 623, 611",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16233_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16234_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16234",
+      "sourceUrl": "https://www.datatft.com/comps#16234",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "黑荆棘裁决",
+      "originalTier": "A",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_soraka",
+      "carryChampionId": "tft18_soraka",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.75,
+        "reviewStatus": "ambiguous",
+        "matchReason": "Mơ hồ giữa Soraka Zyra (0.75) và Kha'Zix Reroll (0.0865) với cách biệt chỉ 0.6635"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng A từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 553, 525, 31008, 20044, 30019, 32351, 555, 567, 617, 620, 581, 597, 611, 583, 607, 619, 565",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16234_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16225_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16225",
+      "sourceUrl": "https://www.datatft.com/comps#16225",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "赌提莫",
+      "originalTier": "A",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_teemo",
+      "carryChampionId": "tft18_teemo",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.0536,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.0536) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng A từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 565, 619, 553, 20044, 32351, 30021, 31008, 567, 617, 581, 31012, 597, 30020, 31007, 32349, 583, 579, 609, 561, 607",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16225_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16266_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16266",
+      "sourceUrl": "https://www.datatft.com/comps#16266",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "神谕狐狸",
+      "originalTier": "A",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_ahri",
+      "carryChampionId": "tft18_ahri",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.6875,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.6875) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng A từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 567, 565, 617, 32351, 553, 621, 33029, 525, 619, 616, 597, 581, 620, 31012, 31008, 561, 610, 30016, 30019, 20044",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16266_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16269_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16269",
+      "sourceUrl": "https://www.datatft.com/comps#16269",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "宝宝学院阿卡丽",
+      "originalTier": "A",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_akali_ad",
+      "carryChampionId": "tft18_akali_ad",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.6875,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.6875) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng A từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 595, 535, 618, 30009, 20004, 30007, 519, 615, 577, 581, 597, 31012, 625, 579, 609, 623, 616",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16269_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16270_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16270",
+      "sourceUrl": "https://www.datatft.com/comps#16270",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "猎手豹女",
+      "originalTier": "A",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_nidalee_ap",
+      "carryChampionId": "tft18_nidalee_ap",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.6786,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.6786) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng A từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 525, 33033, 615, 30007, 535, 519, 529, 567, 618, 617, 30004, 20009, 581, 620, 597, 31007, 20017, 30020",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16270_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16271_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16271",
+      "sourceUrl": "https://www.datatft.com/comps#16271",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "高迅射厄斐",
+      "originalTier": "A",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_aphelios",
+      "carryChampionId": "tft18_aphelios",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.6875,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.6875) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng A từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 535, 617, 519, 20009, 30004, 31010, 521, 551, 616, 597, 581, 31007, 20017, 30020, 33030, 595, 615",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16271_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16280_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16280",
+      "sourceUrl": "https://www.datatft.com/comps#16280",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "主宰女警",
+      "originalTier": "A",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_caitlyn",
+      "carryChampionId": "tft18_caitlyn",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.6875,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.6875) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng A từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 539, 31010, 521, 31004, 20009, 30009, 535, 610, 519, 581, 597, 625, 31007, 20017, 30020, 31012, 623, 579, 624, 551",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16280_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16253_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16253",
+      "sourceUrl": "https://www.datatft.com/comps#16253",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "剑圣",
+      "originalTier": "A",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_masteryi_ad",
+      "carryChampionId": "tft18_masteryi_ad",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.6786,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.6786) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng A từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 539, 615, 613, 30009, 30017, 31006, 31004, 30004, 30021, 581, 597, 625, 20017, 31007, 30020, 525, 624, 535",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16253_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16219_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16219",
+      "sourceUrl": "https://www.datatft.com/comps#16219",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "高野怪驻灵",
+      "originalTier": "B",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_sentry",
+      "carryChampionId": "tft18_sentry",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.1563,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.1563) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng B từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 567, 565, 553, 32351, 30021, 32350, 555, 610, 31008, 616, 597, 621, 31007, 30020, 32345, 583, 595, 615, 519, 32347, 20004, 607",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16219_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16222_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16222",
+      "sourceUrl": "https://www.datatft.com/comps#16222",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "森林天使",
+      "originalTier": "B",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_kayle",
+      "carryChampionId": "tft18_kayle",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.8295,
+        "reviewStatus": "ambiguous",
+        "matchReason": "Mơ hồ giữa Kayle Reroll (0.8295) và Thần Rừng Liên Kích (Rapidfire Elderwood - Bản 18.2) (0.15) với cách biệt chỉ 0.6795"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng B từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 31004, 539, 565, 30017, 31005, 30021, 553, 610, 555, 581, 31012, 597, 31007, 30020, 30018, 609, 616, 583, 625",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16222_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16227_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16227",
+      "sourceUrl": "https://www.datatft.com/comps#16227",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "重装狮子狗",
+      "originalTier": "B",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_rengar",
+      "carryChampionId": "tft18_rengar",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0,
+        "reviewStatus": "unmatched",
+        "matchReason": "Bàn cờ có dưới 4 tướng, người chơi có thể bị loại sớm trước khi định hình đội hình"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng B từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 529, 613, 539, 30007, 30009, 32347, 615, 595, 535, 581, 597, 625, 31010, 551",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16227_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16228_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16228",
+      "sourceUrl": "https://www.datatft.com/comps#16228",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "锋喙鸟",
+      "originalTier": "B",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_crimsonraptor",
+      "carryChampionId": "tft18_crimsonraptor",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0,
+        "reviewStatus": "unmatched",
+        "matchReason": "Bàn cờ có dưới 4 tướng, người chơi có thể bị loại sớm trước khi định hình đội hình"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng B từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 539, 31010, 521, 31004, 20101, 32350, 624, 519, 617, 581, 31012, 597, 32349, 31007, 32346, 616, 583, 623, 535, 551, 577",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16228_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16232_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16232",
+      "sourceUrl": "https://www.datatft.com/comps#16232",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "重装神谕豹女",
+      "originalTier": "B",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_morgana",
+      "carryChampionId": "tft18_morgana",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.75,
+        "reviewStatus": "ambiguous",
+        "matchReason": "Mơ hồ giữa Morgana Flex (0.75) và Morgana Nidalee (0.4375) với cách biệt chỉ 0.3125"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng B từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 539, 525, 553, 30019, 31005, 30017, 565, 619, 617, 555, 561, 31008, 30016, 32351, 621, 616, 597, 32349, 31007, 30020, 581, 31012, 625",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16232_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16236_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16236",
+      "sourceUrl": "https://www.datatft.com/comps#16236",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "重装厄斐琉斯",
+      "originalTier": "B",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_aphelios",
+      "carryChampionId": "tft18_aphelios",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.6932,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.6932) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng B từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 519, 539, 31010, 20009, 30004, 20004, 521, 551, 624, 595, 615, 581, 616, 621, 31008, 561, 610",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16236_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16264_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16264",
+      "sourceUrl": "https://www.datatft.com/comps#16264",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "6护卫蛇女",
+      "originalTier": "B",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_cassiopeia",
+      "carryChampionId": "tft18_cassiopeia",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.6786,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.6786) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng B từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 567, 610, 555, 20044, 30016, 20003, 525, 619, 565, 583, 611, 620, 20017, 31007, 30020, 621, 616, 31012, 581, 597, 625",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16264_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16265_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16265",
+      "sourceUrl": "https://www.datatft.com/comps#16265",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "7野怪绯红树怪",
+      "originalTier": "B",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_cinderling",
+      "carryChampionId": "tft18_cinderling",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.0288,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.0288) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng B từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 567, 535, 617, 20009, 519, 521, 525, 610, 539, 581, 597, 31012, 20017, 31007, 30020, 623, 616, 620, 553, 565",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16265_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16230_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16230",
+      "sourceUrl": "https://www.datatft.com/comps#16230",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "花仙子小炮",
+      "originalTier": "C",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_tristana",
+      "carryChampionId": "tft18_tristana",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.7813,
+        "reviewStatus": "ambiguous",
+        "matchReason": "Mơ hồ giữa Tristana Reroll (0.7813) và Cassiopeia Reroll (0.0865) với cách biệt chỉ 0.6948"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng C từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 539, 521, 610, 31004, 20009, 20101, 519, 551, 31010, 581, 31012, 597, 31007, 30020, 32346, 583, 616, 579, 624",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16230_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16257_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16257",
+      "sourceUrl": "https://www.datatft.com/comps#16257",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "赌芸阿娜",
+      "originalTier": "C",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_yunara",
+      "carryChampionId": "tft18_yunara",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.6932,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.6932) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng C từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 525, 551, 521, 20009, 30004, 519, 535, 617, 581, 597, 625, 616, 31012, 620",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16257_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16260_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16260",
+      "sourceUrl": "https://www.datatft.com/comps#16260",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "世纪和解",
+      "originalTier": "C",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_rengar",
+      "carryChampionId": "tft18_rengar",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.75,
+        "reviewStatus": "ambiguous",
+        "matchReason": "Mơ hồ giữa Khắc Tinh Sát Thủ (Unrivaled Rengar & Kha'Zix - Bản 18.2) (0.75) và Kiếm Khách Hoa Linh (Blossom Master Yi & Vi - Bản 18.2) (0.3625) với cách biệt chỉ 0.3875"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng C từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 615, 577, 617, 30021, 20010, 20044, 553, 595, 610, 539, 613, 529, 30007, 31006, 30009, 581, 597, 616",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16260_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16220_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16220",
+      "sourceUrl": "https://www.datatft.com/comps#16220",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "赌霞",
+      "originalTier": "D",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_xayah",
+      "carryChampionId": "tft18_xayah",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.775,
+        "reviewStatus": "ambiguous",
+        "matchReason": "Mơ hồ giữa Thần Rừng Liên Kích (Rapidfire Elderwood - Bản 18.2) (0.775) và Kayle Reroll (0.1563) với cách biệt chỉ 0.6187"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng D từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 539, 610, 31010, 31004, 31006, 30004, 519, 521, 624, 581, 31012, 597, 30020, 32346, 31007, 609, 579, 583, 30018, 32349, 616, 623",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16220_18_6"
+      ]
+    },
+    {
+      "id": "obs_datatft_16247_18_6",
+      "datasetKind": "real",
+      "sourceId": "datatft",
+      "sourceCompId": "16247",
+      "sourceUrl": "https://www.datatft.com/comps#16247",
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "observedAt": "2026-11-07T01:10:35.157Z",
+      "fetchedAt": "2026-11-07T01:10:35.157Z",
+      "sourcePublishedAt": null,
+      "sourceDataAsOf": null,
+      "sourceUpdatedAt": null,
+      "scope": {
+        "gameProduct": "tft",
+        "setNumber": 18,
+        "channel": "live",
+        "mode": "ranked_standard",
+        "patchEpochId": "epoch_18_6",
+        "sourcePatchLabel": "18.6",
+        "rankScope": "All",
+        "regions": [
+          "Global"
+        ],
+        "windowStart": null,
+        "windowEnd": null
+      },
+      "originalName": "黑荆棘赌狼人",
+      "originalTier": "D",
+      "classificationKind": "editorial",
+      "archetypeId": null,
+      "variantId": null,
+      "sourceLeadChampionId": "tft18_warwick",
+      "carryChampionId": "tft18_warwick",
+      "tankChampionId": null,
+      "inferred": {
+        "algorithmVersion": "archetype-matcher-v2",
+        "similarityScore": 0.0577,
+        "reviewStatus": "unmatched",
+        "matchReason": "Độ tương đồng cao nhất (0.0577) thấp hơn ngưỡng 0.75"
+      },
+      "boardSourceEvidenceRefId": null,
+      "supersedesObservationId": null,
+      "metrics": {
+        "pickRateRaw": null,
+        "averagePlacement": null,
+        "top4Rate": null,
+        "winRate": null,
+        "sampleCount": null,
+        "sampleCountQuality": "unknown",
+        "pickRateUnit": "unknown"
+      },
+      "conditions": [
+        "Phân hạng D từ DataTFT (18.6)"
+      ],
+      "status": "quarantined",
+      "quarantineReason": "Unknown item keys: 613, 525, 618, 30009, 31006, 20044, 595, 521, 581, 31012, 597, 30020, 31007, 623, 616, 583, 615, 577, 519",
+      "parserVersion": "2.0.0",
+      "mappingVersion": "2.0.0",
+      "evidenceRefIds": [
+        "ev_datatft_16247_18_6"
+      ]
+    }
+  ],
+  "builds": [
+    {
+      "id": "build_datatft_16241_main",
+      "observationId": "obs_datatft_16241_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 3,
+      "boardLevelMin": 3,
+      "boardLevelMax": 3,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_Draven18",
+          "championId": "tft18_draven",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "539",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "551",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "31010",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Maokai",
+          "championId": "tft18_maokai",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31012",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918998",
+          "championId": "tft18_918998",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "535",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "595",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "618",
+              "itemId": null
+            }
+          ]
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16241]",
+      "sourceLocator": "datatft.team.strategy[16241]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16242_main",
+      "observationId": "obs_datatft_16242_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 5,
+      "boardLevelMin": 5,
+      "boardLevelMax": 5,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918955",
+          "championId": "tft18_918955",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "525",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "619",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "565",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918032",
+          "championId": "tft18_918032",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "616",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918099",
+          "championId": "tft18_918099",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "525",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31008",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "553",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918085",
+          "championId": "tft18_918085",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "607",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Alune",
+          "championId": "tft18_alune",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16242]",
+      "sourceLocator": "datatft.team.strategy[16242]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16244_main",
+      "observationId": "obs_datatft_16244_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918022",
+          "championId": "tft18_918022",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "551",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "624",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "525",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918875",
+          "championId": "tft18_918875",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31012",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918998",
+          "championId": "tft18_918998",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "535",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "618",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "577",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Ashe",
+          "championId": "tft18_ashe",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16244]",
+      "sourceLocator": "datatft.team.strategy[16244]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16263_main",
+      "observationId": "obs_datatft_16263_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918015",
+          "championId": "tft18_918015",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "535",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "519",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "617",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918876",
+          "championId": "tft18_918876",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "616",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "621",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918022",
+          "championId": "tft18_918022",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "624",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "525",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "551",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Sivir",
+          "championId": "tft18_sivir",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16263]",
+      "sourceLocator": "datatft.team.strategy[16263]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16284_main",
+      "observationId": "obs_datatft_16284_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 2,
+      "boardLevelMin": 2,
+      "boardLevelMax": 2,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_18_Yunara",
+          "championId": "tft18_yunara",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_18_Solar",
+          "championId": "tft18_da_18_solar",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16284]",
+      "sourceLocator": "datatft.team.strategy[16284]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16281_main",
+      "observationId": "obs_datatft_16281_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 5,
+      "boardLevelMin": 5,
+      "boardLevelMax": 5,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918081",
+          "championId": "tft18_918081",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "525",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "551",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "617",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918103",
+          "championId": "tft18_918103",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "567",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "565",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "553",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918875",
+          "championId": "tft18_918875",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "625",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Ezreal",
+          "championId": "tft18_ezreal",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_18_Elderwood",
+          "championId": "tft18_da_18_elderwood",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16281]",
+      "sourceLocator": "datatft.team.strategy[16281]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16233_main",
+      "observationId": "obs_datatft_16233_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_18_Ezreal",
+          "championId": "tft18_ezreal",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "519",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "551",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "525",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_GnarSmall",
+          "championId": "tft18_gnarsmall",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "529",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "618",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "613",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Hecarim",
+          "championId": "tft18_hecarim",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "579",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "609",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Elderwood",
+          "championId": "tft18_da_18_elderwood",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16233]",
+      "sourceLocator": "datatft.team.strategy[16233]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16234_main",
+      "observationId": "obs_datatft_16234_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_18_Soraka",
+          "championId": "tft18_soraka",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "553",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "525",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "31008",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_Fiddlesticks18",
+          "championId": "tft18_fiddlesticks",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "620",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918143",
+          "championId": "tft18_918143",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "619",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "565",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "525",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_FloraFatalis18",
+          "championId": "tft18_da_florafatalis18",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16234]",
+      "sourceLocator": "datatft.team.strategy[16234]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16225_main",
+      "observationId": "obs_datatft_16225_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 5,
+      "boardLevelMin": 5,
+      "boardLevelMax": 5,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_18_Teemo",
+          "championId": "tft18_teemo",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "565",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "619",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "553",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Rammus",
+          "championId": "tft18_rammus",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31012",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918025",
+          "championId": "tft18_918025",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "561",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918150",
+          "championId": "tft18_918150",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "607",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Sprykin",
+          "championId": "tft18_da_18_sprykin",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16225]",
+      "sourceLocator": "datatft.team.strategy[16225]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16266_main",
+      "observationId": "obs_datatft_16266_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 5,
+      "boardLevelMin": 5,
+      "boardLevelMax": 5,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918103",
+          "championId": "tft18_918103",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "567",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "565",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "617",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918997",
+          "championId": "tft18_918997",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "616",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "621",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918025",
+          "championId": "tft18_918025",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "31008",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "561",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "610",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Ahri",
+          "championId": "tft18_ahri",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_18_EmblemInvoker",
+          "championId": "tft18_da_18_embleminvoker",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16266]",
+      "sourceLocator": "datatft.team.strategy[16266]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16269_main",
+      "observationId": "obs_datatft_16269_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 5,
+      "boardLevelMin": 5,
+      "boardLevelMax": 5,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918084",
+          "championId": "tft18_918084",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "595",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "535",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "618",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918516",
+          "championId": "tft18_918516",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "31012",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918164",
+          "championId": "tft18_918164",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "595",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "535",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "618",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_EarlyLearnings",
+          "championId": "tft18_da_earlylearnings",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_18_Akali_AD",
+          "championId": "tft18_akali_ad",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16269]",
+      "sourceLocator": "datatft.team.strategy[16269]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16270_main",
+      "observationId": "obs_datatft_16270_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 5,
+      "boardLevelMin": 5,
+      "boardLevelMax": 5,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918076",
+          "championId": "tft18_918076",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "525",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "33033",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "615",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918015",
+          "championId": "tft18_918015",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "535",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "519",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "617",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918054",
+          "championId": "tft18_918054",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "620",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_Nidalee18_AP",
+          "championId": "tft18_nidalee_ap",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_18_Sivir",
+          "championId": "tft18_sivir",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16270]",
+      "sourceLocator": "datatft.team.strategy[16270]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16271_main",
+      "observationId": "obs_datatft_16271_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 5,
+      "boardLevelMin": 5,
+      "boardLevelMax": 5,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918523",
+          "championId": "tft18_918523",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "535",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "617",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "519",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918032",
+          "championId": "tft18_918032",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "616",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "581",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918996",
+          "championId": "tft18_918996",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "33030",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "595",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "615",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_EmblemRapidfire",
+          "championId": "tft18_da_18_emblemrapidfire",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_18_Aphelios",
+          "championId": "tft18_aphelios",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16271]",
+      "sourceLocator": "datatft.team.strategy[16271]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16280_main",
+      "observationId": "obs_datatft_16280_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 5,
+      "boardLevelMin": 5,
+      "boardLevelMax": 5,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918051",
+          "championId": "tft18_918051",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "539",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31010",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "521",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918994",
+          "championId": "tft18_918994",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "625",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918022",
+          "championId": "tft18_918022",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "624",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "551",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Caitlyn",
+          "championId": "tft18_caitlyn",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_Juggernaut18",
+          "championId": "tft18_da_juggernaut18",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16280]",
+      "sourceLocator": "datatft.team.strategy[16280]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16253_main",
+      "observationId": "obs_datatft_16253_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 5,
+      "boardLevelMin": 5,
+      "boardLevelMax": 5,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918011",
+          "championId": "tft18_918011",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "539",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "615",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "613",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918254",
+          "championId": "tft18_918254",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "625",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918096",
+          "championId": "tft18_918096",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "525",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "624",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "535",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Adaptor",
+          "championId": "tft18_da_18_adaptor",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_18_MasterYi_AD",
+          "championId": "tft18_masteryi_ad",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16253]",
+      "sourceLocator": "datatft.team.strategy[16253]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16219_main",
+      "observationId": "obs_datatft_16219_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_18_Sentry",
+          "championId": "tft18_sentry",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "567",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "565",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "553",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_Sentinel18",
+          "championId": "tft18_sentinel",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "616",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "621",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_Brambleback18",
+          "championId": "tft18_brambleback",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "595",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "615",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "519",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_Riftbeast18",
+          "championId": "tft18_da_riftbeast18",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16219]",
+      "sourceLocator": "datatft.team.strategy[16219]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16222_main",
+      "observationId": "obs_datatft_16222_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_18_Kayle",
+          "championId": "tft18_kayle",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "31004",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "539",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "565",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Ornn",
+          "championId": "tft18_ornn",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31012",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Sejuani",
+          "championId": "tft18_sejuani",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31012",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Solar",
+          "championId": "tft18_da_18_solar",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16222]",
+      "sourceLocator": "datatft.team.strategy[16222]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16227_main",
+      "observationId": "obs_datatft_16227_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 3,
+      "boardLevelMin": 3,
+      "boardLevelMax": 3,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_18_Rengar",
+          "championId": "tft18_rengar",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "529",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "613",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "539",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918120",
+          "championId": "tft18_918120",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "625",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918995",
+          "championId": "tft18_918995",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "539",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31010",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "551",
+              "itemId": null
+            }
+          ]
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16227]",
+      "sourceLocator": "datatft.team.strategy[16227]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16228_main",
+      "observationId": "obs_datatft_16228_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 3,
+      "boardLevelMin": 3,
+      "boardLevelMax": 3,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_CrimsonRaptor18",
+          "championId": "tft18_crimsonraptor",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "539",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31010",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "521",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_Sentinel18",
+          "championId": "tft18_sentinel",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31012",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918998",
+          "championId": "tft18_918998",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "535",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "551",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "577",
+              "itemId": null
+            }
+          ]
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16228]",
+      "sourceLocator": "datatft.team.strategy[16228]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16232_main",
+      "observationId": "obs_datatft_16232_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918076",
+          "championId": "tft18_918076",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "539",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "525",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "553",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Morgana",
+          "championId": "tft18_morgana",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "555",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "561",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "31008",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_Sentinel18",
+          "championId": "tft18_sentinel",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "621",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "616",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_EmblemCoven",
+          "championId": "tft18_da_18_emblemcoven",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16232]",
+      "sourceLocator": "datatft.team.strategy[16232]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16236_main",
+      "observationId": "obs_datatft_16236_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_18_Aphelios",
+          "championId": "tft18_aphelios",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "519",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "539",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "31010",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918996",
+          "championId": "tft18_918996",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "595",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "615",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "519",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918997",
+          "championId": "tft18_918997",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "616",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "621",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918025",
+          "championId": "tft18_918025",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "31008",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "561",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "610",
+              "itemId": null
+            }
+          ]
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16236]",
+      "sourceLocator": "datatft.team.strategy[16236]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16264_main",
+      "observationId": "obs_datatft_16264_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 5,
+      "boardLevelMin": 5,
+      "boardLevelMax": 5,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918069",
+          "championId": "tft18_918069",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "567",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "610",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "555",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918009",
+          "championId": "tft18_918009",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "583",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "611",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "620",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918033",
+          "championId": "tft18_918033",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "625",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Cassiopeia",
+          "championId": "tft18_cassiopeia",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_18_EmblemDefender",
+          "championId": "tft18_da_18_emblemdefender",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16264]",
+      "sourceLocator": "datatft.team.strategy[16264]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16265_main",
+      "observationId": "obs_datatft_16265_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 5,
+      "boardLevelMin": 5,
+      "boardLevelMax": 5,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918990",
+          "championId": "tft18_918990",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "567",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "535",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "617",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918994",
+          "championId": "tft18_918994",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "31012",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918989",
+          "championId": "tft18_918989",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "553",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "567",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "565",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_Cinderling18",
+          "championId": "tft18_cinderling",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_Riftbeast18",
+          "championId": "tft18_da_riftbeast18",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16265]",
+      "sourceLocator": "datatft.team.strategy[16265]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16230_main",
+      "observationId": "obs_datatft_16230_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_18_Tristana",
+          "championId": "tft18_tristana",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "539",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "521",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "610",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Rammus",
+          "championId": "tft18_rammus",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31012",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Lillia",
+          "championId": "tft18_lillia",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "616",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918015",
+          "championId": "tft18_918015",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "551",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "624",
+              "itemId": null
+            }
+          ]
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16230]",
+      "sourceLocator": "datatft.team.strategy[16230]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16257_main",
+      "observationId": "obs_datatft_16257_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918804",
+          "championId": "tft18_918804",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "525",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "551",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "521",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918012",
+          "championId": "tft18_918012",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "625",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Yunara",
+          "championId": "tft18_yunara",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_18_Executioner",
+          "championId": "tft18_da_18_executioner",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16257]",
+      "sourceLocator": "datatft.team.strategy[16257]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16260_main",
+      "observationId": "obs_datatft_16260_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 6,
+      "boardLevelMin": 6,
+      "boardLevelMax": 6,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "918121",
+          "championId": "tft18_918121",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "615",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "577",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "617",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918107",
+          "championId": "tft18_918107",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "539",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "613",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "529",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918120",
+          "championId": "tft18_918120",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "597",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "616",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_RivalsAugment",
+          "championId": "tft18_da_18_rivalsaugment",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_18_Rengar",
+          "championId": "tft18_rengar",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        },
+        {
+          "sourceChampionKey": "DA_18_KhaZix",
+          "championId": "tft18_khazix",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16260]",
+      "sourceLocator": "datatft.team.strategy[16260]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16220_main",
+      "observationId": "obs_datatft_16220_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_18_Xayah",
+          "championId": "tft18_xayah",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "539",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "610",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "31010",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Ornn",
+          "championId": "tft18_ornn",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31012",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Rakan",
+          "championId": "tft18_rakan",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31012",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Elderwood",
+          "championId": "tft18_da_18_elderwood",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16220]",
+      "sourceLocator": "datatft.team.strategy[16220]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    },
+    {
+      "id": "build_datatft_16247_main",
+      "observationId": "obs_datatft_16247_18_6",
+      "boardKind": "primary",
+      "boardCompleteness": "partial",
+      "boardLevel": 4,
+      "boardLevelMin": 4,
+      "boardLevelMax": 4,
+      "label": "Standard",
+      "units": [
+        {
+          "sourceChampionKey": "DA_18_Warwick",
+          "championId": "tft18_warwick",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "613",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "525",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "618",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Malphite",
+          "championId": "tft18_malphite",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "581",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "31012",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "597",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "918992",
+          "championId": "tft18_918992",
+          "position": null,
+          "starLevel": null,
+          "items": [
+            {
+              "order": 0,
+              "sourceItemKey": "615",
+              "itemId": null
+            },
+            {
+              "order": 1,
+              "sourceItemKey": "577",
+              "itemId": null
+            },
+            {
+              "order": 2,
+              "sourceItemKey": "519",
+              "itemId": null
+            }
+          ]
+        },
+        {
+          "sourceChampionKey": "DA_18_Blackthorn",
+          "championId": "tft18_da_18_blackthorn",
+          "position": null,
+          "starLevel": null,
+          "items": []
+        }
+      ],
+      "rawArtifactId": "art_datatft_comps_36413566ba9db060",
+      "rawLocator": "team.comps[16247]",
+      "sourceLocator": "datatft.team.strategy[16247]",
+      "createdAt": "2026-11-07T01:10:35.157Z"
+    }
+  ]
+}

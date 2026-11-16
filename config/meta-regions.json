@@ -1,0 +1,66 @@
+{
+  "$schema": "./meta-regions.schema.json",
+  "version": "1.0.0",
+  "regions": [
+    {
+      "regionId": "KR",
+      "name": "Hàn Quốc",
+      "platform": "KR",
+      "regionalRoute": "asia",
+      "queue": "1100",
+      "queueName": "Ranked TFT",
+      "accessStatus": "supported",
+      "enabled": true,
+      "rateLimitPerMinute": 100,
+      "notes": "Máy chủ Hàn Quốc, routing asia qua Riot API"
+    },
+    {
+      "regionId": "VN",
+      "name": "Việt Nam",
+      "platform": "VN2",
+      "regionalRoute": "sea",
+      "queue": "1100",
+      "queueName": "Ranked TFT",
+      "accessStatus": "supported",
+      "enabled": true,
+      "rateLimitPerMinute": 100,
+      "notes": "Máy chủ Việt Nam (VN2), routing sea qua Riot API"
+    },
+    {
+      "regionId": "NA",
+      "name": "Bắc Mỹ",
+      "platform": "NA1",
+      "regionalRoute": "americas",
+      "queue": "1100",
+      "queueName": "Ranked TFT",
+      "accessStatus": "supported",
+      "enabled": true,
+      "rateLimitPerMinute": 100,
+      "notes": "Máy chủ Bắc Mỹ (NA1), routing americas qua Riot API"
+    },
+    {
+      "regionId": "EUW",
+      "name": "Tây Âu",
+      "platform": "EUW1",
+      "regionalRoute": "europe",
+      "queue": "1100",
+      "queueName": "Ranked TFT",
+      "accessStatus": "supported",
+      "enabled": true,
+      "rateLimitPerMinute": 100,
+      "notes": "Máy chủ Tây Âu (EUW1), routing europe qua Riot API"
+    },
+    {
+      "regionId": "CN",
+      "name": "Trung Quốc",
+      "platform": "CN",
+      "regionalRoute": "cn_special",
+      "queue": "1100",
+      "queueName": "Ranked TFT",
+      "accessStatus": "unavailable",
+      "enabled": false,
+      "rateLimitPerMinute": 0,
+      "notes": "Khu vực Trung Quốc chưa có route chính thức công khai qua Riot API TFT tiêu chuẩn; bảo lưu và không bịa số liệu"
+    }
+  ]
+}

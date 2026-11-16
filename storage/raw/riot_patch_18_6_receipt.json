@@ -1,0 +1,33 @@
+{
+  "fetchUrl": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-18-6/",
+  "attemptedAt": "2026-11-07T01:42:12.315Z",
+  "fetchedAt": "2026-11-07T01:42:12.813Z",
+  "lastNetworkValidatedAt": "2026-11-07T01:42:12.813Z",
+  "httpStatus": 200,
+  "etag": "W/\"2jbgm6vwt249qf\"",
+  "contentSha256": "9fd5db60be79d86c806f8d94e0fdd59e612f5aa5ca8806026bb6d178e537468c",
+  "byteSize": 199417,
+  "headers": {
+    "age": "38",
+    "cache-control": "public,max-age=0,must-revalidate",
+    "cache-status": "\"Next.js\"; hit; fwd=stale, \"Netlify Durable\"; fwd=bypass, \"Netlify Edge\"; fwd=stale; fwd-status=200; ttl=-161; stored",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Sat, 07 Nov 2026 01:42:12 GMT",
+    "etag": "W/\"2jbgm6vwt249qf\"",
+    "netlify-vary": "query=__nextDataReq|_rsc, header=x-nextjs-data|x-next-debug-logging|next-router-prefetch|next-router-segment-prefetch|next-router-state-tree|next-url|rsc|accept-encoding, cookie=__prerender_bypass|__next_preview_data",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "Netlify",
+    "set-cookie": "lang=*; Path=/",
+    "strict-transport-security": "max-age=31536000",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-cookie-source": "edge",
+    "x-nextjs-date": "Sat, 07 Nov 2026 01:42:12 GMT",
+    "x-nf-request-id": "01M6STQ8C88AG00EWNXEXXQ52S",
+    "x-powered-by": "Next.js"
+  },
+  "refreshed": true,
+  "source": "network"
+}

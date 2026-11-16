@@ -1,0 +1,79 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 12.3.4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: "pnpm"
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Lint Check
+        run: pnpm run lint
+
+      - name: Typecheck
+        run: pnpm run typecheck
+
+      - name: Provision Test Database Environment
+        run: pnpm run db:bootstrap:ci
+        env:
+          USE_PGLITE: "true"
+          PGDATA_DIR: "storage/pgdata"
+
+      - name: Database Doctor Check
+        run: pnpm run db:doctor
+        env:
+          USE_PGLITE: "true"
+          PGDATA_DIR: "storage/pgdata"
+
+      - name: Full Unit & Integration Test Suite
+        run: pnpm run test:all
+        env:
+          USE_PGLITE: "true"
+          NODE_OPTIONS: "--max-old-space-size=4096"
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Production Build
+        run: pnpm run build
+        env:
+          USE_PGLITE: "true"
+          DATA_MODE: "real"
+          PGDATA_DIR: "storage/pgdata"
+
+      - name: Build Browser Harness & Run Playwright Acceptance
+        run: |
+          node scripts/acceptance/build-browser-harness.cjs
+          npx playwright test
+        env:
+          USE_PGLITE: "true"
+          DATA_MODE: "real"
+          PGDATA_DIR: "storage/pgdata"
+          ARTIFACT_RUN_DIR: "artifacts/browser-checks/ci-run"
+
+      - name: Upload Browser Acceptance Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-ci-artifacts
+          path: |
+            artifacts/browser-checks/
+            test-results/
+          retention-days: 7

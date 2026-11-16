@@ -1,0 +1,60 @@
+﻿services:
+  db:
+    image: postgres:17-alpine
+    container_name: tft-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: tft
+      POSTGRES_PASSWORD: tft_local_only
+      POSTGRES_DB: tft_tracker
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U tft -d tft_tracker"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: tft-web
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: postgresql://tft:tft_local_only@db:5432/tft_tracker
+      DATA_MODE: demo
+      TARGET_SET: 18
+      TARGET_GAME_MODE: standard
+      RAW_STORAGE_ROOT: /storage/raw
+    volumes:
+      - raw_storage:/storage/raw:ro
+    depends_on:
+      db:
+        condition: service_healthy
+
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: tft-worker
+    restart: unless-stopped
+    command: ["pnpm", "worker:start"]
+    environment:
+      DATABASE_URL: postgresql://tft:tft_local_only@db:5432/tft_tracker
+      DATA_MODE: demo
+      TARGET_SET: 18
+      RAW_STORAGE_ROOT: /storage/raw
+    volumes:
+      - raw_storage:/storage/raw:rw
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pgdata:
+  raw_storage:

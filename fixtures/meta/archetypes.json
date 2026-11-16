@@ -1,0 +1,101 @@
+[
+  {
+    "id": "comp_draven_reroll",
+    "nameVi": "Draven Cuồng Đao Reroll",
+    "nameEn": "Draven Bloodthirster Reroll",
+    "coreCarryChampionId": "tft18_da_draven18",
+    "coreTankChampionId": "tft18_da_18_sett",
+    "coreChampionIds": ["tft18_da_draven18", "tft18_da_18_sett", "tft18_da_18_hecarim", "tft18_da_vi18"],
+    "playstyle": "reroll"
+  },
+  {
+    "id": "comp_ahri_fast8",
+    "nameVi": "Ahri Thuật Sư Fast 8",
+    "nameEn": "Ahri Arcanist Fast 8",
+    "coreCarryChampionId": "tft18_da_18_ahri",
+    "coreTankChampionId": "tft18_da_18_morgana",
+    "coreChampionIds": ["tft18_da_18_ahri", "tft18_da_18_morgana", "tft18_da_18_kobuko", "tft18_da_18_sett"],
+    "playstyle": "fast8"
+  },
+  {
+    "id": "comp_caitlyn_enforcer",
+    "nameVi": "Caitlyn Bắn Tỉa Tiên Phong",
+    "nameEn": "Caitlyn Sniper Frontline",
+    "coreCarryChampionId": "tft18_da_18_caitlyn",
+    "coreTankChampionId": "tft18_da_amumu18",
+    "coreChampionIds": ["tft18_da_18_caitlyn", "tft18_da_amumu18", "tft18_da_vi18", "tft18_da_18_ashe"],
+    "playstyle": "fast8"
+  },
+  {
+    "id": "comp_rengar_assassin",
+    "nameVi": "Rengar Thú Săn Mồi Reroll",
+    "nameEn": "Rengar Predator Reroll",
+    "coreCarryChampionId": "tft18_da_18_rengar",
+    "coreTankChampionId": "tft18_da_18_hecarim",
+    "coreChampionIds": ["tft18_da_18_rengar", "tft18_da_18_hecarim", "tft18_da_18_masteryi_ad", "tft18_da_18_akali_ad"],
+    "playstyle": "reroll"
+  },
+  {
+    "id": "comp_ashe_sniper",
+    "nameVi": "Ashe Cung Băng Tốc Đánh",
+    "nameEn": "Ashe Frost Ranger",
+    "coreCarryChampionId": "tft18_da_18_ashe",
+    "coreTankChampionId": "tft18_da_18_kobuko",
+    "coreChampionIds": ["tft18_da_18_ashe", "tft18_da_18_kobuko", "tft18_da_18_caitlyn", "tft18_da_amumu18"],
+    "playstyle": "standard"
+  },
+  {
+    "id": "comp_masteryi_duelist",
+    "nameVi": "Master Yi Kiếm Thánh Đao Phủ",
+    "nameEn": "Master Yi Blademaster",
+    "coreCarryChampionId": "tft18_da_18_masteryi_ad",
+    "coreTankChampionId": "tft18_da_18_sett",
+    "coreChampionIds": ["tft18_da_18_masteryi_ad", "tft18_da_18_sett", "tft18_da_18_rengar", "tft18_da_18_akali_ad"],
+    "playstyle": "fast8"
+  },
+  {
+    "id": "comp_weave_got_this",
+    "nameVi": "Thuật Sư Huyền Bí",
+    "nameEn": "Weave Got This",
+    "coreCarryChampionId": "tft18_da_18_alune",
+    "coreTankChampionId": "tft18_da_18_lillia",
+    "coreChampionIds": ["tft18_da_18_alune", "tft18_da_18_ahri", "tft18_da_18_lillia", "tft18_da_18_morgana"],
+    "playstyle": "fast8"
+  },
+  {
+    "id": "comp_teemo_yordle",
+    "nameVi": "Teemo Quỷ Lùn Nấm Độc Reroll",
+    "nameEn": "Teemo Mushroom Reroll",
+    "coreCarryChampionId": "tft18_da_18_teemo",
+    "coreTankChampionId": "tft18_da_18_kobuko",
+    "coreChampionIds": ["tft18_da_18_teemo", "tft18_da_18_kobuko", "tft18_da_18_tristana", "tft18_da_18_morgana"],
+    "playstyle": "reroll"
+  },
+  {
+    "id": "comp_hecarim_cavalry",
+    "nameVi": "Hecarim Bóng Ma Kỵ Sĩ",
+    "nameEn": "Hecarim Cavalry Charge",
+    "coreCarryChampionId": "tft18_da_18_hecarim",
+    "coreTankChampionId": "tft18_da_18_sett",
+    "coreChampionIds": ["tft18_da_18_hecarim", "tft18_da_18_sett", "tft18_da_draven18", "tft18_da_vi18"],
+    "playstyle": "fast8"
+  },
+  {
+    "id": "comp_tristana_gunner",
+    "nameVi": "Tristana Đại Bác Reroll",
+    "nameEn": "Tristana Cannoneer Reroll",
+    "coreCarryChampionId": "tft18_da_18_tristana",
+    "coreTankChampionId": "tft18_da_vi18",
+    "coreChampionIds": ["tft18_da_18_tristana", "tft18_da_vi18", "tft18_da_18_teemo", "tft18_da_18_caitlyn"],
+    "playstyle": "reroll"
+  },
+  {
+    "id": "comp_akali_ninja",
+    "nameVi": "Akali Sát Thủ Bóng Tối",
+    "nameEn": "Akali Shadow Assassin",
+    "coreCarryChampionId": "tft18_da_18_akali_ad",
+    "coreTankChampionId": "tft18_da_18_sett",
+    "coreChampionIds": ["tft18_da_18_akali_ad", "tft18_da_18_sett", "tft18_da_18_rengar", "tft18_da_18_masteryi_ad"],
+    "playstyle": "fast8"
+  }
+]

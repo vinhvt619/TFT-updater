@@ -1,0 +1,32 @@
+{
+  "sourceId": "tftacademy",
+  "rawSha256": "b9065ba1499bafa0adb9a43f79d8b61b634afa225245a4ff286d75b078547ee1",
+  "parsed": {
+    "title": "Dragon 9",
+    "tier": "S",
+    "finalCompUnitsCount": 8,
+    "finalCompSample": [
+      {
+        "apiName": "DA_Amumu18",
+        "boardIndex": 4,
+        "items": []
+      },
+      {
+        "apiName": "DA_Sentinel18",
+        "boardIndex": 3,
+        "items": [
+          "DA_ProtectorsVow"
+        ]
+      },
+      {
+        "apiName": "DA_18_Morgana",
+        "boardIndex": 11,
+        "items": [
+          "DA_VoidStaff",
+          "DA_RabadonsDeathcap",
+          "DA_JeweledGauntlet"
+        ]
+      }
+    ]
+  }
+}

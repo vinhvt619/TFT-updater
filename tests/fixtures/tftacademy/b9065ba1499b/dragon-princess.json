@@ -1,0 +1,17 @@
+{
+  "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dragon-princess",
+  "rawArtifactSha256": "b9065ba1499bafa0adb9a43f79d8b61b634afa225245a4ff286d75b078547ee1",
+  "sourceLocator": "set-18-dragon-princess.html#queriedGuide",
+  "reviewer": "independent-audit-round8",
+  "reviewedAt": "2026-09-14T05:00:00.000Z",
+  "originalTitle": "Dragon Princess",
+  "originalTier": "S",
+  "canonicalArchetypeId": "comp_dragon_princess",
+  "capability": {
+    "hasTier": true,
+    "hasItems": true,
+    "hasPositions": true,
+    "hasStarLevel": true,
+    "hasMetrics": false
+  }
+}

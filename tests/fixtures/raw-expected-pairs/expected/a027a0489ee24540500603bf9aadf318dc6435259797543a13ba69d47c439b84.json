@@ -1,0 +1,33 @@
+{
+  "sourceId": "tactics_tools",
+  "rawSha256": "a027a0489ee24540500603bf9aadf318dc6435259797543a13ba69d47c439b84",
+  "parsed": {
+    "totalGroups": 5,
+    "sampleGroups": [
+      {
+        "count": 193,
+        "place": 4.09364282005656,
+        "top4": 112,
+        "win": 30,
+        "top4Rate": 0.58,
+        "winRate": 0.155
+      },
+      {
+        "count": 238,
+        "place": 4.1720739369271005,
+        "top4": 128,
+        "win": 48,
+        "top4Rate": 0.538,
+        "winRate": 0.202
+      },
+      {
+        "count": 139,
+        "place": 4.179819250165066,
+        "top4": 72,
+        "win": 33,
+        "top4Rate": 0.518,
+        "winRate": 0.237
+      }
+    ]
+  }
+}

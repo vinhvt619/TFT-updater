@@ -1,0 +1,12 @@
+# Evidence and fixtures must retain their original bytes and hashes.
+storage/raw/** -text
+storage/imports/** -text
+storage/mapping-audit/** -text
+fixtures/** -text
+tests/fixtures/** -text
+artifacts/** -text
+*.json -text
+*.png binary
+*.jpg binary
+*.webp binary
+*.log -text

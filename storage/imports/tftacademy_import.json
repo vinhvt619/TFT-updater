@@ -1,0 +1,370 @@
+[
+  {
+    "id": "obs_tftacademy_comp_dragon_princess_epoch_18_2",
+    "datasetKind": "real",
+    "sourceId": "tftacademy",
+    "sourceCompId": "tftacademy_comp_dragon_princess",
+    "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-dragon-princess",
+    "rawArtifactId": "art_tftacademy_18_2_392ba4d36c96",
+    "observedAt": "2026-09-11T21:40:00+07:00",
+    "sourceUpdatedAt": null,
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_2",
+      "sourcePatchLabel": "18.2",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_dragon_princess",
+    "variantId": "var_elder_dragon_fast9",
+    "originalName": "Elder Dragon Fast 9 — Dragon 9",
+    "originalTier": "S",
+    "classificationKind": "editorial",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Cần nâng cấp lên cấp 9 để hoàn thiện form Rồng 9 xoay quanh Rồng Ngàn Tuổi"
+    ],
+    "evidenceRefIds": [
+      "ev_tftacademy_18_2_392ba4d3"
+    ],
+    "parserVersion": "1.1.0",
+    "mappingVersion": "1.1.0"
+  },
+  {
+    "id": "obs_tftacademy_comp_draven_reroll_epoch_18_2",
+    "datasetKind": "real",
+    "sourceId": "tftacademy",
+    "sourceCompId": "tftacademy_comp_draven_reroll",
+    "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-elderwood-executioners-copy",
+    "rawArtifactId": "art_tftacademy_18_2_392ba4d36c96",
+    "observedAt": "2026-09-11T21:40:00+07:00",
+    "sourceUpdatedAt": null,
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_2",
+      "sourcePatchLabel": "18.2",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_draven_reroll",
+    "variantId": "var_draven_apex_dragon",
+    "originalName": "Draven Fast 9 — Draven AD 9",
+    "originalTier": "S",
+    "classificationKind": "editorial",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Đạt cấp 9, tối ưu trang bị AD cho Draven và đồ tank"
+    ],
+    "evidenceRefIds": [
+      "ev_tftacademy_18_2_392ba4d3"
+    ],
+    "parserVersion": "1.1.0",
+    "mappingVersion": "1.1.0"
+  },
+  {
+    "id": "obs_tftacademy_comp_blossom_fast9_epoch_18_2",
+    "datasetKind": "real",
+    "sourceId": "tftacademy",
+    "sourceCompId": "tftacademy_comp_blossom_fast9",
+    "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-blossom-fast-9",
+    "rawArtifactId": "art_tftacademy_18_2_392ba4d36c96",
+    "observedAt": "2026-09-11T21:40:00+07:00",
+    "sourceUpdatedAt": null,
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_2",
+      "sourcePatchLabel": "18.2",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_blossom_fast9",
+    "variantId": "var_blossom_fast9_standard",
+    "originalName": "Blossom Ashe — Blossom Fast 9",
+    "originalTier": "S",
+    "classificationKind": "editorial",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Lên cấp 9 kết hợp mốc Hoa Linh cao cấp xoay quanh Ashe và Sett"
+    ],
+    "evidenceRefIds": [
+      "ev_tftacademy_18_2_392ba4d3"
+    ],
+    "parserVersion": "1.1.0",
+    "mappingVersion": "1.1.0"
+  },
+  {
+    "id": "obs_tftacademy_comp_ahri_morgana_epoch_18_2",
+    "datasetKind": "real",
+    "sourceId": "tftacademy",
+    "sourceCompId": "tftacademy_comp_ahri_morgana",
+    "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-ahri-morgana",
+    "rawArtifactId": "art_tftacademy_18_2_392ba4d36c96",
+    "observedAt": "2026-09-11T21:40:00+07:00",
+    "sourceUpdatedAt": null,
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_2",
+      "sourcePatchLabel": "18.2",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_ahri_morgana",
+    "variantId": "var_ahri_morgana_invoker",
+    "originalName": "Invoker Ahri — Ahri Morgana",
+    "originalTier": "A",
+    "classificationKind": "editorial",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Kích hoạt Thần Chú / Thuật Sư cho Ahri và Morgana"
+    ],
+    "evidenceRefIds": [
+      "ev_tftacademy_18_2_392ba4d3"
+    ],
+    "parserVersion": "1.1.0",
+    "mappingVersion": "1.1.0"
+  },
+  {
+    "id": "obs_tftacademy_comp_akali_ninja_epoch_18_2",
+    "datasetKind": "real",
+    "sourceId": "tftacademy",
+    "sourceCompId": "tftacademy_comp_akali_ninja",
+    "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-solar-melee",
+    "rawArtifactId": "art_tftacademy_18_2_392ba4d36c96",
+    "observedAt": "2026-09-11T21:40:00+07:00",
+    "sourceUpdatedAt": null,
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_2",
+      "sourcePatchLabel": "18.2",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_akali_ninja",
+    "variantId": "var_solar_adaptor_standard",
+    "originalName": "Akali—Camille Reroll — Solar Melee",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Slow roll cấp 5 bắt Akali 3 sao và Camille 3 sao"
+    ],
+    "evidenceRefIds": [
+      "ev_tftacademy_18_2_392ba4d3"
+    ],
+    "parserVersion": "1.1.0",
+    "mappingVersion": "1.1.0"
+  },
+  {
+    "id": "obs_tftacademy_comp_caitlyn_enforcer_epoch_18_2",
+    "datasetKind": "real",
+    "sourceId": "tftacademy",
+    "sourceCompId": "tftacademy_comp_caitlyn_enforcer",
+    "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-caitlyn-hunters",
+    "rawArtifactId": "art_tftacademy_18_2_392ba4d36c96",
+    "observedAt": "2026-09-11T21:40:00+07:00",
+    "sourceUpdatedAt": null,
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_2",
+      "sourcePatchLabel": "18.2",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_caitlyn_enforcer",
+    "variantId": "var_caitlyn_scuttlecrab",
+    "originalName": "Juggernaut Caitlyn Reroll — Caitlyn Hunters",
+    "originalTier": "B",
+    "classificationKind": "editorial",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Reroll Caitlyn 3 sao kết hợp dàn chắn Đấu Sĩ"
+    ],
+    "evidenceRefIds": [
+      "ev_tftacademy_18_2_392ba4d3"
+    ],
+    "parserVersion": "1.1.0",
+    "mappingVersion": "1.1.0"
+  },
+  {
+    "id": "obs_tftacademy_comp_teemo_yordle_epoch_18_2",
+    "datasetKind": "real",
+    "sourceId": "tftacademy",
+    "sourceCompId": "tftacademy_comp_teemo_yordle",
+    "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-moo-nara",
+    "rawArtifactId": "art_tftacademy_18_2_392ba4d36c96",
+    "observedAt": "2026-09-11T21:40:00+07:00",
+    "sourceUpdatedAt": null,
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_2",
+      "sourcePatchLabel": "18.2",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_teemo_yordle",
+    "variantId": "var_yunara_invoker_reroll",
+    "originalName": "Yunara—Alistar Reroll — Moo-nara",
+    "originalTier": "C",
+    "classificationKind": "editorial",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Reroll cấp 6 bắt Yunara 3 sao và Alistar 3 sao"
+    ],
+    "evidenceRefIds": [
+      "ev_tftacademy_18_2_392ba4d3"
+    ],
+    "parserVersion": "1.1.0",
+    "mappingVersion": "1.1.0"
+  },
+  {
+    "id": "obs_tftacademy_comp_rengar_assassin_epoch_18_2",
+    "datasetKind": "real",
+    "sourceId": "tftacademy",
+    "sourceCompId": "tftacademy_comp_rengar_assassin",
+    "sourceUrl": "https://tftacademy.com/tierlist/comps/set-18-unrivaled-reroll",
+    "rawArtifactId": "art_tftacademy_18_2_392ba4d36c96",
+    "observedAt": "2026-09-11T21:40:00+07:00",
+    "sourceUpdatedAt": null,
+    "scope": {
+      "gameProduct": "tft",
+      "setNumber": 18,
+      "channel": "live",
+      "mode": "ranked_standard",
+      "patchEpochId": "epoch_18_2",
+      "sourcePatchLabel": "18.2",
+      "rankScope": "All",
+      "regions": [
+        "Global"
+      ],
+      "windowStart": null,
+      "windowEnd": null
+    },
+    "archetypeId": "comp_rengar_assassin",
+    "variantId": "var_unrivaled_reroll",
+    "originalName": "Unrivaled Kha'Zix — Unrivaled Reroll",
+    "originalTier": "X",
+    "classificationKind": "editorial",
+    "metrics": {
+      "averagePlacement": null,
+      "top4Rate": null,
+      "winRate": null,
+      "sampleCount": null,
+      "sampleCountQuality": "unknown",
+      "pickRateRaw": null,
+      "pickRateUnit": "unknown"
+    },
+    "conditions": [
+      "Nhóm Situational / X: chỉ chơi khi có điều kiện kích hoạt Khắc Tinh đặc biệt"
+    ],
+    "evidenceRefIds": [
+      "ev_tftacademy_18_2_392ba4d3"
+    ],
+    "parserVersion": "1.1.0",
+    "mappingVersion": "1.1.0"
+  }
+]

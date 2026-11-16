@@ -1,0 +1,87 @@
+{
+  "$schema": "./meta-ranking.schema.json",
+  "rankingVersion": "meta-rank-v1",
+  "targetSet": 18,
+  "gameProduct": "tft",
+  "mode": "ranked_standard",
+  "channel": "live",
+  "regions": ["KR", "VN", "NA", "EUW"],
+  "cohortTopN": 50,
+  "cohortTier": "CHALLENGER",
+  "defaultWindowHours": 72,
+  "allowedWindowHours": [24, 72, 168],
+  "recencyHalfLifeHours": 48,
+  "accountWeightCap": 5,
+  "shrinkagePriorMass": 20,
+  "tierThresholds": {
+    "S": 80,
+    "A": 65,
+    "B": 50,
+    "C": 0
+  },
+  "performanceWeights": {
+    "top4": 0.50,
+    "avgPlace": 0.35,
+    "win": 0.15
+  },
+  "neutralBaseline": {
+    "top4Rate": 0.50,
+    "avgPlacement": 4.50,
+    "winRate": 0.125
+  },
+  "sourceVoteMapping": {
+    "S+": 95,
+    "S": 90,
+    "S-": 85,
+    "A+": 80,
+    "A": 75,
+    "A-": 70,
+    "B+": 65,
+    "B": 60,
+    "B-": 55,
+    "C+": 45,
+    "C": 40,
+    "C-": 35,
+    "D": 25
+  },
+  "similarityThresholds": {
+    "autoMatch": 0.80,
+    "secondCandidateMargin": 0.10,
+    "weights": {
+      "carryCoreMatch": 0.50,
+      "weightedUnitJaccard": 0.30,
+      "keyTraitMatch": 0.20
+    },
+    "coreUnitWeight": 2.0,
+    "flexUnitWeight": 1.0
+  },
+  "websiteMinGroups": 2,
+  "websiteMinGroupsForS": 3,
+  "websiteStatMinSamples": 200,
+  "sourceMaxAgeHours": 48,
+  "eliteMin": {
+    "appearances": 60,
+    "uniqueMatches": 40,
+    "uniqueAccounts": 10,
+    "nEffective": 40,
+    "weightMass": 20
+  },
+  "eliteSMin": {
+    "appearances": 120,
+    "uniqueMatches": 60,
+    "uniqueAccounts": 15,
+    "nEffective": 60
+  },
+  "baselineMin": {
+    "appearances": 300,
+    "uniqueMatches": 50,
+    "uniqueAccounts": 20
+  },
+  "coverageMin": {
+    "accounts": 0.90,
+    "matchDetails": 0.98,
+    "regions": 0.75
+  },
+  "maxUnclassifiedShare": 0.25,
+  "maxClassificationTopBottomGap": 0.15
+}
